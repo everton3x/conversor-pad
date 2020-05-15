@@ -1,0 +1,25 @@
+{
+    "name": "everton3x/conversor-pad",
+    "description": "Conversor dos txt do PAD para outros formatos.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Everton da Rosa",
+            "email": "everton3x@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.6",
+        "psr/log": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CPAD\\": "src",
+            "Test\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}

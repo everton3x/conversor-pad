@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://schema.phpunit.de/6.3/phpunit.xsd" uri="schema.phpunit.de/6.3/phpunit.xsd"/>
+    <system systemId="https://schema.phpunit.de/6.1/phpunit.xsd" uri="schema.phpunit.de/6.1/phpunit.xsd"/>
+    <system systemId="https://schema.phpunit.de/9.1/phpunit.xsd" uri="schema.phpunit.de/9.1/phpunit.xsd"/>
+</catalog>

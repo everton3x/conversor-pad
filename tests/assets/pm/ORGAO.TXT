@@ -1,0 +1,39 @@
+87612826000190010120203004202008052020PREFEITURA MUNICIPAL INDEPENDENCIA                                              
+201901CAMARA MUNICIPAL DE VEREADORES                                                  
+201902GABINETE DO PREFEITO E VICE PREFEITO                                            
+201903SECRETARIA DE ADMINISTRACAO                                                     
+201904SECRETARIA DA FAZENDA                                                           
+201905SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
+201906SECRETARIA DE OBRAS E VIACAO                                                    
+201907SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+201801CAMARA MUNICIPAL DE VEREADORES                                                  
+201802GABINETE DO PREFEITO E VICE PREFEITO                                            
+201803SECRETARIA DE ADMINISTRACAO                                                     
+201804SECRETARIA DA FAZENDA                                                           
+201805SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
+201806SECRETARIA DE OBRAS E VIACAO                                                    
+201807SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+201808SECRETARIA MUNICIPAL DE SAUDE                                                   
+201809SECRETARIA DA ASSISTENCIA SOCIAL                                                
+201810SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+201811ENCARGOS ESPECIAIS                                                              
+201812FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+201899RESERVA DE CONTINGENCIA                                                         
+201908SECRETARIA MUNICIPAL DE SAUDE                                                   
+201909SECRETARIA DA ASSISTENCIA SOCIAL                                                
+201910SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+201911ENCARGOS ESPECIAIS                                                              
+201912FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+202001CAMARA MUNICIPAL DE VEREADORES                                                  
+202002GABINETE DO PREFEITO E VICE PREFEITO                                            
+202003SECRETARIA DE ADMINISTRACAO                                                     
+202004SECRETARIA DA FAZENDA                                                           
+202005SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
+202006SECRETARIA DE OBRAS E VIACAO                                                    
+202007SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+202008SECRETARIA MUNICIPAL DE SAUDE                                                   
+202009SECRETARIA DA ASSISTENCIA SOCIAL                                                
+202010SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+202011ENCARGOS ESPECIAIS                                                              
+202012FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+FINALIZADOR0000000037                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
