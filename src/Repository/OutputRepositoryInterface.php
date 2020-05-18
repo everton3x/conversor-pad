@@ -7,6 +7,7 @@
 namespace CPAD\Repository;
 
 use CPAD\DataSet\OutputDataSetInterface;
+use CPAD\DataSet\SpecDataSetInterface;
 
 /**
  * Interface para o repositório de saída dos dados.
@@ -35,9 +36,10 @@ interface OutputRepositoryInterface {
      * - SQLite     ->  cria a tabela no banco de dados e inicia uma transação
      * 
      * @param string $datasetName
+     * @param SpecDataSetInterface $spec
      * @return OutputDataSetInterface
      */
-    public function prepare(string $datasetName): OutputDataSetInterface;
+    public function prepare(string $datasetName, SpecDataSetInterface $spec): OutputDataSetInterface;
     
     /**
      * Fecha o dataset fornecido.

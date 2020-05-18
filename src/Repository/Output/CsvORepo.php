@@ -8,6 +8,8 @@
  */
 namespace CPAD\Repository\Output;
 
+use CPAD\DataSet\OutputDataSetInterface;
+use CPAD\DataSet\SpecDataSetInterface;
 use CPAD\Exception\AlertException;
 use CPAD\Exception\CriticalException;
 use CPAD\Repository\OutputRepositoryInterface;
@@ -35,5 +37,20 @@ class CsvORepo implements OutputRepositoryInterface
         if(file_exists($output)) throw new AlertException("Diretório [$output] já existe.");
         
         if(!mkdir($output, '0777', true)) throw new CriticalException ("Diretório [$output] não pôde ser criado.");
+    }
+
+    public function closeDataSet(OutputDataSetInterface $dataSet)
+    {
+        
+    }
+
+    public function closeRepository()
+    {
+        //não precisa fazer nada
+    }
+
+    public function prepare(string $datasetName, SpecDataSetInterface $spec): OutputDataSetInterface
+    {
+        //cria o arquivo csv e coloca as colunas nele
     }
 }

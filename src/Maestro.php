@@ -54,6 +54,7 @@ class Maestro
         while (($idataset = $this->irepo->getDataSet())) {
             $this->notice(sprintf("Processando %s", strtoupper($idataset->getBasename())));
 
+
             try {
                 $spec = $this->specrepo->getSpecFor($idataset->getBasename());
             } catch (WarningException $ex) {
@@ -61,8 +62,26 @@ class Maestro
             } catch (Exception $ex) {
                 throw $ex;
             }
+            
+            try {
+                $datasetName = $idataset->getBasename();
+                $dataSet = $this->orepo->prepare($datasetName, $spec);
+            } catch (Exception $ex) {
+                throw $ex;
+            }
+            
+            try{
+                $this->orepo->closeDataSet($dataSet);
+            } catch (Exception $ex) {
+                throw $ex;
+            }
         }//fim do loop dos txt
 
+        try{
+            $this->orepo->closeRepository();
+        } catch (Exception $ex) {
+            throw $ex;
+        }
 
         $timeEnd = time();
         $this->info(sprintf("Conversão terminada em %s ás %s", date('d/m/Y', $timeEnd), date('H:i:s', $timeEnd)));

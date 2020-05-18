@@ -9,5 +9,10 @@ interface OutputDataSetInterface
 {
     public function __construct();
     
+    /**
+     * Salva uma linha convertida.
+     * 
+     * @param array $data
+     */
     public function saveData(array $data);
 }
