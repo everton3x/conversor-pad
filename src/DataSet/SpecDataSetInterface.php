@@ -2,6 +2,8 @@
 
 namespace CPAD\DataSet;
 
+use Iterator;
+
 /**
  * Representa a especificação de um arquivo.
  * 

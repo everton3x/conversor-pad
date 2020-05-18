@@ -55,7 +55,7 @@ class Maestro
             $this->notice(sprintf("Processando %s", strtoupper($idataset->getBasename())));
 
             try {
-                $this->specrepo->getSpecFor($idataset->getBasename());
+                $spec = $this->specrepo->getSpecFor($idataset->getBasename());
             } catch (WarningException $ex) {
                 $this->warning($ex->getMessage());
             } catch (Exception $ex) {

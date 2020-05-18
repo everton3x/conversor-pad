@@ -9,7 +9,7 @@ namespace CPAD;
  */
 class Parser
 {
-    public function __construct()
+    public function __construct($idataset, $spec)
     {
         ;
     }
