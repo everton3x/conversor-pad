@@ -29,4 +29,14 @@ class YamlSpecDataSet implements \CPAD\DataSet\SpecDataSetInterface
             
         return $spec;
     }
+    
+    public function getColNames(): array
+    {
+        $colNames = [];
+        foreach ($this->getSpec() as $key => $value){
+            $colNames[] = $key;
+        }
+        
+        return $colNames;
+    }
 }

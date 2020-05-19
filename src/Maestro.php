@@ -59,6 +59,7 @@ class Maestro
                 $spec = $this->specrepo->getSpecFor($idataset->getBasename());
             } catch (WarningException $ex) {
                 $this->warning($ex->getMessage());
+                continue;
             } catch (Exception $ex) {
                 throw $ex;
             }

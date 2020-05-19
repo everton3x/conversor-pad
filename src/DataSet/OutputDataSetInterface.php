@@ -7,7 +7,11 @@ namespace CPAD\DataSet;
  */
 interface OutputDataSetInterface
 {
-    public function __construct();
+    /**
+     * 
+     * @param array $options
+     */
+    public function __construct(array $options);
     
     /**
      * Salva uma linha convertida.

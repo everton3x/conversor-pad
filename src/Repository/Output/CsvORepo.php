@@ -1,6 +1,4 @@
 <?php
-
-
 /**
  * Repositório do tipo CSV
  * 
@@ -8,6 +6,7 @@
  */
 namespace CPAD\Repository\Output;
 
+use CPAD\DataSet\Output\CsvOutputDataSet;
 use CPAD\DataSet\OutputDataSetInterface;
 use CPAD\DataSet\SpecDataSetInterface;
 use CPAD\Exception\AlertException;
@@ -21,12 +20,14 @@ use CPAD\Repository\OutputRepositoryInterface;
  */
 class CsvORepo implements OutputRepositoryInterface
 {
+
     /**
      *
      * @var string O diretório no qual os arquivos csv serão criados.
      */
     protected string $dir = '';
-    
+    protected OutputDataSetInterface $dataset;
+
     /**
      * 
      * @param string $output Caminho para o diretório onde os arquivos csv serão criados.
@@ -34,14 +35,16 @@ class CsvORepo implements OutputRepositoryInterface
     public function __construct($output)
     {
         $this->dir = $output;
-        if(file_exists($output)) throw new AlertException("Diretório [$output] já existe.");
-        
-        if(!mkdir($output, '0777', true)) throw new CriticalException ("Diretório [$output] não pôde ser criado.");
+        if (file_exists($output))
+            throw new AlertException("Diretório [$output] já existe.");
+
+        if (!mkdir($output, '0777', true))
+            throw new CriticalException("Diretório [$output] não pôde ser criado.");
     }
 
     public function closeDataSet(OutputDataSetInterface $dataSet)
     {
-        
+        fclose($this->dataset->getFileHandle());
     }
 
     public function closeRepository()
@@ -51,6 +54,18 @@ class CsvORepo implements OutputRepositoryInterface
 
     public function prepare(string $datasetName, SpecDataSetInterface $spec): OutputDataSetInterface
     {
-        //cria o arquivo csv e coloca as colunas nele
+        $filePath = "{$this->dir}/$datasetName.csv";
+
+        $colNames = $spec->getColNames();
+        try {
+            $this->dataset = new CsvOutputDataSet([
+                'filePath' => $filePath,
+                'colNames' => $colNames
+            ]);
+        } catch (\Exception $ex) {
+            throw $ex;
+        }
+
+        return $this->dataset;
     }
 }

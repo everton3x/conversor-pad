@@ -17,4 +17,6 @@ interface SpecDataSetInterface
      * @return array
      */
     public function getSpec(): array;
+    
+    public function getColNames(): array;
 }
