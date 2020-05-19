@@ -1,7 +1,4 @@
 <?php
-/**
- * Interface para os metadados de cada dataset
- */
 namespace CPAD\DataSet;
 
 /**

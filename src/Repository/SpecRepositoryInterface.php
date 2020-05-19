@@ -1,8 +1,7 @@
 <?php
+namespace CPAD\Repository;
 
 use CPAD\DataSet\SpecDataSetInterface;
-
-namespace CPAD\Repository;
 
 /**
  * Interface do repositório das especificações de conversão

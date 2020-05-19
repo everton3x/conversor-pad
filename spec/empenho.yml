@@ -6,7 +6,7 @@ orgao:
     transform: ""
 uniorcam:
     byte: 4
-    start: 3
+    start: 1
     type: int
     transform: ""
 funcao:
@@ -34,6 +34,11 @@ rubrica:
     start: 22
     type: string
     transform: ""
+rubricaf:
+    byte: 15
+    start: 22
+    type: string
+    transform: "FormataRubrica"
 recurso_vinculado:
     byte: 4
     start: 37
@@ -74,10 +79,15 @@ sinal_valor:
     start: 79
     type: string
     transform: ""
+valor:
+    byte: 14
+    start: 66
+    type: float
+    transform: "ValorComSinal"
 credor:
     byte: 10
     start: 80
-    type: string
+    type: int
     transform: ""
 caracteristica_peculiar:
     byte: 3
@@ -129,8 +139,8 @@ cnpj_gerenciador:
     start: 712
     type: string
     transform: ""
-valor:
+cnpj_gerenciadorf:
     byte: 14
-    start: 66
-    type: float
-    transform: "ValorComSinal"
+    start: 712
+    type: string
+    transform: "FormataCnpj"

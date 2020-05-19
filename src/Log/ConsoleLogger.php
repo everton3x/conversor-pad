@@ -1,11 +1,7 @@
 <?php
+namespace CPAD\Log;
 
 use Psr\Log\LoggerInterface;
-
-/**
- * Logger para a tela do console.
- */
-namespace CPAD\Log;
 
 /**
  * Exibe o log na tela do terminal/console.

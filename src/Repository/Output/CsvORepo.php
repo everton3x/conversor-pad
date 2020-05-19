@@ -1,16 +1,12 @@
 <?php
+namespace CPAD\Repository\Output;
 
 use CPAD\DataSet\Output\CsvOutputDataSet;
 use CPAD\DataSet\OutputDataSetInterface;
 use CPAD\DataSet\SpecDataSetInterface;
+use CPAD\Exception\AlertException;
+use CPAD\Exception\CriticalException;
 use CPAD\Repository\OutputRepositoryInterface;
-
-/**
- * Repositório do tipo CSV
- * 
- * O repositório é um diretório cujo conteúdo sãoarquivos csv, um para cada dataset (arquivo txt)
- */
-namespace CPAD\Repository\Output;
 
 /**
  * repositório tipo csv
@@ -25,7 +21,7 @@ class CsvORepo implements OutputRepositoryInterface
      * @var string O diretório no qual os arquivos csv serão criados.
      */
     protected string $dir = '';
-    
+
     /**
      *
      * @var OutputDataSetInterface O dataset 

@@ -1,9 +1,8 @@
 <?php
+namespace CPAD;
 
 use CPAD\DataSet\SpecDataSetInterface;
 use CPAD\Exception\CriticalException;
-
-namespace CPAD;
 
 /**
  * Realiza a conversão
@@ -12,6 +11,7 @@ namespace CPAD;
  */
 class Parser
 {
+
     /**
      *
      * @var SpecDataSetInterface Especificação do dataset input 
@@ -53,7 +53,7 @@ class Parser
 
             $parsed[$key] = $chunked;
         }
-
+        
         return $parsed;
     }
 

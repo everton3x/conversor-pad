@@ -3,4 +3,7 @@
  * Arquivo para testes rápidos
  */
 
-echo realpath('./spec');
+require_once 'vendor/autoload.php';
+
+$t = new CPAD\Transformer\FormataRubricaTransformer();
+echo $t->transform('339030000000000');

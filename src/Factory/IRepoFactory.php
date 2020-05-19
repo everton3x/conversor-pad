@@ -1,13 +1,9 @@
 <?php
+namespace CPAD\Factory;
 
 use CPAD\Exception\EmergencyException;
 use CPAD\Repository\Input\DirIRepo;
 use CPAD\Repository\InputRepositoryInterface;
-
-/**
- * Factory para InputRepositoryInterface
- */
-namespace CPAD\Factory;
 
 /**
  * Factory para InputRepositoryInterface

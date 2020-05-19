@@ -1,11 +1,7 @@
 <?php
+namespace CPAD\Repository;
 
 use CPAD\DataSet\InputDataSetInterface;
-
-/**
- * Interface para o repositório dos dados de entrada.
- */
-namespace CPAD\Repository;
 
 /**
  * Interface do repositório dos dados de entrada.

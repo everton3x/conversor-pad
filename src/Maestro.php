@@ -1,16 +1,11 @@
 <?php
+namespace CPAD;
 
 use CPAD\Exception\WarningException;
 use CPAD\Repository\InputRepositoryInterface;
 use CPAD\Repository\OutputRepositoryInterface;
 use CPAD\Repository\SpecRepositoryInterface;
 use Psr\Log\LoggerInterface;
-use SebastianBergmann\Diff\Parser;
-
-/**
- * Controller geral da aplicação.
- */
-namespace CPAD;
 
 /**
  * Controle geral da aplicação.
@@ -19,24 +14,25 @@ namespace CPAD;
  */
 class Maestro
 {
+
     /**
      *
      * @var InputRepositoryInterface Repositório dos txt 
      */
     protected InputRepositoryInterface $irepo;
-    
+
     /**
      *
      * @var OutputRepositoryInterface Repositório dos dados convertidos
      */
     protected OutputRepositoryInterface $orepo;
-    
+
     /**
      *
      * @var SpecRepositoryInterface Repositório de especificações
      */
     protected SpecRepositoryInterface $specrepo;
-    
+
     /**
      *
      * @var array Lista de Loggers
@@ -78,7 +74,7 @@ class Maestro
                 $spec = $this->specrepo->getSpecFor($idataset->getBasename());
             } catch (WarningException $ex) {
                 $this->warning($ex->getMessage());
-                continue;//se não tiver especificação, continua
+                continue; //se não tiver especificação, continua
             } catch (Exception $ex) {
                 throw $ex;
             }
@@ -95,6 +91,7 @@ class Maestro
             try {
                 $parser = new Parser($spec);
                 $lineCounter = 0;
+
                 do {
                     $unparsed = $idataset->getData();
                     if ($unparsed) {
@@ -105,9 +102,8 @@ class Maestro
                         $lineCounter++;
                     }
                 } while ($idataset->hasData());
-                
+
                 $this->debug("Processadas [$lineCounter] linhas de [$datasetName].");
-                
             } catch (Exception $ex) {
                 throw $ex;
             }
@@ -119,7 +115,6 @@ class Maestro
                 throw $ex;
             }
         }//fim do loop dos txt
-
         //fecha o repositório de saída
         try {
             $this->orepo->closeRepository();

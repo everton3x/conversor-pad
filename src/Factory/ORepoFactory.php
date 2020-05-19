@@ -1,10 +1,9 @@
 <?php
+namespace CPAD\Factory;
 
 use CPAD\Exception\EmergencyException;
 use CPAD\Repository\Output\CsvORepo;
 use CPAD\Repository\OutputRepositoryInterface;
-
-namespace CPAD\Factory;
 
 /**
  * Factory para OutputRepositoryInterface

@@ -1,12 +1,8 @@
 <?php
+namespace CPAD\Repository;
 
 use CPAD\DataSet\OutputDataSetInterface;
 use CPAD\DataSet\SpecDataSetInterface;
-
-/**
- * Interface para o repositório de saída dos dados.
- */
-namespace CPAD\Repository;
 
 /**
  * Interface para o repositório de saída dos dados.

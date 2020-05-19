@@ -1,13 +1,10 @@
 <?php
+namespace CPAD\Repository\Input;
 
+use DirectoryIterator;
 use CPAD\DataSet\Input\FixLenghtTxtIDataSet;
 use CPAD\DataSet\InputDataSetInterface;
 use CPAD\Repository\InputRepositoryInterface;
-
-/**
- * Repositório na forma de diretório.
- */
-namespace CPAD\Repository\Input;
 
 /**
  * Repositório na forma de diretório.
@@ -43,7 +40,7 @@ class DirIRepo implements InputRepositoryInterface
             throw $ex;
         }
     }
-    
+
     /**
      * Carrega a lista de arquivos txt
      */
