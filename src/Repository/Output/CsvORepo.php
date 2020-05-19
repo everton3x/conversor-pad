@@ -1,17 +1,16 @@
 <?php
+
+use CPAD\DataSet\Output\CsvOutputDataSet;
+use CPAD\DataSet\OutputDataSetInterface;
+use CPAD\DataSet\SpecDataSetInterface;
+use CPAD\Repository\OutputRepositoryInterface;
+
 /**
  * Repositório do tipo CSV
  * 
  * O repositório é um diretório cujo conteúdo sãoarquivos csv, um para cada dataset (arquivo txt)
  */
 namespace CPAD\Repository\Output;
-
-use CPAD\DataSet\Output\CsvOutputDataSet;
-use CPAD\DataSet\OutputDataSetInterface;
-use CPAD\DataSet\SpecDataSetInterface;
-use CPAD\Exception\AlertException;
-use CPAD\Exception\CriticalException;
-use CPAD\Repository\OutputRepositoryInterface;
 
 /**
  * repositório tipo csv
@@ -26,6 +25,11 @@ class CsvORepo implements OutputRepositoryInterface
      * @var string O diretório no qual os arquivos csv serão criados.
      */
     protected string $dir = '';
+    
+    /**
+     *
+     * @var OutputDataSetInterface O dataset 
+     */
     protected OutputDataSetInterface $dataset;
 
     /**
@@ -35,25 +39,40 @@ class CsvORepo implements OutputRepositoryInterface
     public function __construct($output)
     {
         $this->dir = $output;
-        if (file_exists($output)){
-//            throw new AlertException("Diretório [$output] já existe.");
+        if (file_exists($output)) {
+            throw new AlertException("Diretório [$output] já existe.");
         }
 
-        if (!mkdir($output, '0777', true)){
-//            throw new CriticalException("Diretório [$output] não pôde ser criado.");
+        if (!mkdir($output, '0777', true)) {
+            throw new CriticalException("Diretório [$output] não pôde ser criado.");
         }
     }
 
+    /**
+     * Fecha o handle do arquivo csv
+     * @param \CPAD\Repository\Output\OutputDataSetInterface $dataSet
+     */
     public function closeDataSet(OutputDataSetInterface $dataSet)
     {
         fclose($this->dataset->getFileHandle());
     }
 
+    /**
+     * Fecha o repositório como um todo. No caso de csv, é um diretório, então não precisa fazer nada.
+     */
     public function closeRepository()
     {
         //não precisa fazer nada
     }
 
+    /**
+     * Cria o arquivo csv
+     * 
+     * @param string $datasetName
+     * @param \CPAD\Repository\Output\SpecDataSetInterface $spec
+     * @return \CPAD\Repository\Output\OutputDataSetInterface
+     * @throws \CPAD\Repository\Output\Exception
+     */
     public function prepare(string $datasetName, SpecDataSetInterface $spec): OutputDataSetInterface
     {
         $filePath = "{$this->dir}/$datasetName.csv";
@@ -64,7 +83,7 @@ class CsvORepo implements OutputRepositoryInterface
                 'filePath' => $filePath,
                 'colNames' => $colNames
             ]);
-        } catch (\Exception $ex) {
+        } catch (Exception $ex) {
             throw $ex;
         }
 

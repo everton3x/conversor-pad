@@ -129,3 +129,8 @@ cnpj_gerenciador:
     start: 712
     type: string
     transform: ""
+valor:
+    byte: 14
+    start: 66
+    type: float
+    transform: "ValorComSinal"

@@ -1,15 +1,16 @@
 <?php
-/**
- * Controller geral da aplicação.
- */
-namespace CPAD;
 
 use CPAD\Exception\WarningException;
 use CPAD\Repository\InputRepositoryInterface;
 use CPAD\Repository\OutputRepositoryInterface;
 use CPAD\Repository\SpecRepositoryInterface;
-use Exception;
 use Psr\Log\LoggerInterface;
+use SebastianBergmann\Diff\Parser;
+
+/**
+ * Controller geral da aplicação.
+ */
+namespace CPAD;
 
 /**
  * Controle geral da aplicação.
@@ -18,10 +19,28 @@ use Psr\Log\LoggerInterface;
  */
 class Maestro
 {
-
+    /**
+     *
+     * @var InputRepositoryInterface Repositório dos txt 
+     */
     protected InputRepositoryInterface $irepo;
+    
+    /**
+     *
+     * @var OutputRepositoryInterface Repositório dos dados convertidos
+     */
     protected OutputRepositoryInterface $orepo;
+    
+    /**
+     *
+     * @var SpecRepositoryInterface Repositório de especificações
+     */
     protected SpecRepositoryInterface $specrepo;
+    
+    /**
+     *
+     * @var array Lista de Loggers
+     */
     protected array $logger = [];
 
     /**
@@ -54,47 +73,55 @@ class Maestro
         while (($idataset = $this->irepo->getDataSet())) {
             $this->notice(sprintf("Processando %s", strtoupper($idataset->getBasename())));
 
-
+            //pega a especificação
             try {
                 $spec = $this->specrepo->getSpecFor($idataset->getBasename());
             } catch (WarningException $ex) {
                 $this->warning($ex->getMessage());
-                continue;
+                continue;//se não tiver especificação, continua
             } catch (Exception $ex) {
                 throw $ex;
             }
-            
+
+            // pega o dataset de saida
             try {
                 $datasetName = $idataset->getBasename();
                 $dataSet = $this->orepo->prepare($datasetName, $spec);
             } catch (Exception $ex) {
                 throw $ex;
             }
-            
-            try{
+
+            //converte e salva
+            try {
                 $parser = new Parser($spec);
                 $lineCounter = 0;
-                do{
+                do {
                     $unparsed = $idataset->getData();
-                    if($unparsed){
-                    $data = $parser->parse($unparsed);
+                    if ($unparsed) {
+                        $data = $parser->parse($unparsed);
+
+                        $dataSet->saveData($data);
+
                         $lineCounter++;
                     }
-                }while ($idataset->hasData());
-                $this->debug("Processadas [$lineCounter] linhas.");
+                } while ($idataset->hasData());
+                
+                $this->debug("Processadas [$lineCounter] linhas de [$datasetName].");
                 
             } catch (Exception $ex) {
                 throw $ex;
             }
-            
-            try{
+
+            //fecha o output
+            try {
                 $this->orepo->closeDataSet($dataSet);
             } catch (Exception $ex) {
                 throw $ex;
             }
         }//fim do loop dos txt
 
-        try{
+        //fecha o repositório de saída
+        try {
             $this->orepo->closeRepository();
         } catch (Exception $ex) {
             throw $ex;
@@ -149,14 +176,14 @@ class Maestro
     protected function notice(string $message)
     {
         foreach ($this->logger as $logger) {
-//            $logger->notice($message);
+            $logger->notice($message);
         }
     }
 
     protected function warning(string $message)
     {
         foreach ($this->logger as $logger) {
-//            $logger->warning($message);
+            $logger->warning($message);
         }
     }
 }

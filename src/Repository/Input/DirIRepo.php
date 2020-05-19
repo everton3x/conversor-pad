@@ -1,14 +1,13 @@
 <?php
-/**
- * Repositório na forma de diretório.
- */
-namespace CPAD\Repository\Input;
 
 use CPAD\DataSet\Input\FixLenghtTxtIDataSet;
 use CPAD\DataSet\InputDataSetInterface;
 use CPAD\Repository\InputRepositoryInterface;
-use DirectoryIterator;
-use Exception;
+
+/**
+ * Repositório na forma de diretório.
+ */
+namespace CPAD\Repository\Input;
 
 /**
  * Repositório na forma de diretório.
@@ -43,11 +42,11 @@ class DirIRepo implements InputRepositoryInterface
         } catch (Exception $ex) {
             throw $ex;
         }
-
-//        print_r($this->files);
-//        exit();
     }
-
+    
+    /**
+     * Carrega a lista de arquivos txt
+     */
     protected function loadTxtFiles()
     {
         $it = new DirectoryIterator($this->dir);
@@ -64,22 +63,27 @@ class DirIRepo implements InputRepositoryInterface
         $this->hasFile = true;
     }
 
+    /**
+     * Retorna o dataset
+     * 
+     * @return \CPAD\Repository\Input\InputDataSetInterface|null
+     */
     public function getDataSet(): ?InputDataSetInterface
     {
-//        if (($item = each($this->files)) === false) {
-//            return null;
-//        }
-//        $file = $item['value'];
         if (($file = current($this->files)) === false) {
             return null;
         }
 
         next($this->files);
 
-//        echo "!!!!!!!!!!!", PHP_EOL, $file, PHP_EOL, "--------------", PHP_EOL;
         return new FixLenghtTxtIDataSet($file);
     }
 
+    /**
+     * Retorna o número de arquivos
+     * 
+     * @return int
+     */
     public function getNumDataSets(): int
     {
         return count($this->files);

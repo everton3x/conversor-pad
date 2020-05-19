@@ -1,10 +1,10 @@
 <?php
-namespace CPAD\Factory;
 
 use CPAD\Exception\EmergencyException;
 use CPAD\Repository\Output\CsvORepo;
 use CPAD\Repository\OutputRepositoryInterface;
-use Exception;
+
+namespace CPAD\Factory;
 
 /**
  * Factory para OutputRepositoryInterface
@@ -50,6 +50,12 @@ class ORepoFactory
         }
     }
 
+    /**
+     * Cria o repositório.
+     * 
+     * @return \CPAD\Factory\OutputRepositoryInterface
+     * @throws \CPAD\Factory\Exception
+     */
     public function createRepo(): OutputRepositoryInterface
     {
         try {

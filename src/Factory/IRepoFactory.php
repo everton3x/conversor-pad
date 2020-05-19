@@ -1,12 +1,13 @@
 <?php
-/**
- * Factory para InputRepositoryInterface
- */
-namespace CPAD\Factory;
 
 use CPAD\Exception\EmergencyException;
 use CPAD\Repository\Input\DirIRepo;
 use CPAD\Repository\InputRepositoryInterface;
+
+/**
+ * Factory para InputRepositoryInterface
+ */
+namespace CPAD\Factory;
 
 /**
  * Factory para InputRepositoryInterface
@@ -59,6 +60,13 @@ class IRepoFactory
         }
     }
 
+    /**
+     * Detecta o tipo de repositório
+     * 
+     * @param type $repo
+     * @return string
+     * @throws EmergencyException
+     */
     protected function detectRepoType($repo): string
     {
         if (is_dir($repo))

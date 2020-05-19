@@ -1,13 +1,12 @@
 <?php
 
+use CPAD\DataSet\OutputDataSetInterface;
+use CPAD\DataSet\SpecDataSetInterface;
+
 /**
  * Interface para o repositório de saída dos dados.
  */
-
 namespace CPAD\Repository;
-
-use CPAD\DataSet\OutputDataSetInterface;
-use CPAD\DataSet\SpecDataSetInterface;
 
 /**
  * Interface para o repositório de saída dos dados.
@@ -20,14 +19,15 @@ use CPAD\DataSet\SpecDataSetInterface;
  * 
  * @author Everton
  */
-interface OutputRepositoryInterface {
-    
+interface OutputRepositoryInterface
+{
+
     /**
      * Construtor
      * @param string $output O repositório de saída. é um caminho de um arquivo coma extensão de acordo com o repositório suportado.
      */
     public function __construct(string $output);
-    
+
     /**
      * Prepara o dataset para receber os dados.
      * 
@@ -40,7 +40,7 @@ interface OutputRepositoryInterface {
      * @return OutputDataSetInterface
      */
     public function prepare(string $datasetName, SpecDataSetInterface $spec): OutputDataSetInterface;
-    
+
     /**
      * Fecha o dataset fornecido.
      * 
@@ -50,7 +50,7 @@ interface OutputRepositoryInterface {
      * @param OutputDataSetInterface $dataSet
      */
     public function closeDataSet(OutputDataSetInterface $dataSet);
-    
+
     /**
      * Fecha todo o repositório
      * 

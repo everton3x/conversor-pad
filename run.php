@@ -7,13 +7,6 @@ use CPAD\Log\ConsoleLogger;
 use CPAD\Maestro;
 use CPAD\Repository\Spec\YamlDirSpecRepo;
 
-/**
- * Arquivo para teste da ferramenta.
- */
-//if (file_exists('./test.csv')) {
-//    rmdir('./test.csv');
-//}
-
 define('DEBUG_MODE', true);
 
 $irepo = new IRepoFactory('./tests/assets/pm/');

@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Interface para os metadados de cada dataset
  */
@@ -11,7 +10,9 @@ namespace CPAD\DataSet;
  * Atualmente fornece as informações do cabeçalho do txt e o número total de registros do txt.
  * 
  * @author Everton
+ * @todo Implementar
  */
-interface InputMetadataInterface {
+interface InputMetadataInterface
+{
     
 }

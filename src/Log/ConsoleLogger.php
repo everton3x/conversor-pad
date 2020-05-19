@@ -1,5 +1,7 @@
 <?php
 
+use Psr\Log\LoggerInterface;
+
 /**
  * Logger para a tela do console.
  */
@@ -10,8 +12,9 @@ namespace CPAD\Log;
  *
  * @author Everton
  */
-class ConsoleLogger implements \Psr\Log\LoggerInterface {
-    
+class ConsoleLogger implements LoggerInterface
+{
+
     /**
      * Uma ação deve ser tomada imediatamente.
      * 
@@ -21,7 +24,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function alert($message, array $context = []): void {
+    public function alert($message, array $context = []): void
+    {
         $this->log('ALERT', $message, $context);
     }
 
@@ -34,7 +38,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function critical($message, array $context = []): void {
+    public function critical($message, array $context = []): void
+    {
         $this->log('CRITICAL', $message, $context);
     }
 
@@ -47,8 +52,9 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function debug($message, array $context = []): void {
-        if(DEBUG_MODE == true){
+    public function debug($message, array $context = []): void
+    {
+        if (DEBUG_MODE == true) {
             $this->log('DEBUG', $message, $context);
         }
     }
@@ -62,7 +68,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function emergency($message, array $context = []): void {
+    public function emergency($message, array $context = []): void
+    {
         $this->log('EMERGENCY', $message, $context);
     }
 
@@ -75,7 +82,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function error($message, array $context = []): void {
+    public function error($message, array $context = []): void
+    {
         $this->log('ERROR', $message, $context);
     }
 
@@ -88,7 +96,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function info($message, array $context = []): void {
+    public function info($message, array $context = []): void
+    {
         $this->log('INFO', $message, $context);
     }
 
@@ -100,9 +109,10 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function log($level, $message, array $context = []): void {
+    public function log($level, $message, array $context = []): void
+    {
         $level = strtoupper($level);
-        echo "[$level]\t\t", $message , PHP_EOL;
+        echo "[$level]\t\t", $message, PHP_EOL;
     }
 
     /**
@@ -114,7 +124,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function notice($message, array $context = []): void {
+    public function notice($message, array $context = []): void
+    {
         $this->log('NOTICE', $message, $context);
     }
 
@@ -127,7 +138,8 @@ class ConsoleLogger implements \Psr\Log\LoggerInterface {
      * @param mixed $context
      * @return void
      */
-    public function warning($message, array $context = []): void {
+    public function warning($message, array $context = []): void
+    {
         $this->log('WARNING', $message, $context);
     }
 }
