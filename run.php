@@ -10,11 +10,13 @@ use CPAD\Repository\Spec\YamlDirSpecRepo;
 /**
  * Arquivo para teste da ferramenta.
  */
-if (file_exists('./test.csv')) {
-    rmdir('./test.csv');
-}
+//if (file_exists('./test.csv')) {
+//    rmdir('./test.csv');
+//}
 
-$irepo = new IRepoFactory('./tests/assets/pm/', './tests/assets/pm/');
+define('DEBUG_MODE', true);
+
+$irepo = new IRepoFactory('./tests/assets/pm/');
 $orepo = new ORepoFactory('./test.csv');
 $specrepo = new YamlDirSpecRepo('./spec');
 $consoleLogger = new ConsoleLogger();

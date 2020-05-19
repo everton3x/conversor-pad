@@ -1,131 +1,131 @@
 ---
 orgao:
-    - byte: 2
-    - start: 1
-    - type: int
-    - transform: ""
+    byte: 2
+    start: 1
+    type: int
+    transform: ""
 uniorcam:
-    - byte: 4
-    - start: 3
-    - type: int
-    - transform: ""
+    byte: 4
+    start: 3
+    type: int
+    transform: ""
 funcao:
-    - byte: 2
-    - start: 5
-    - type: int
-    - transform: ""
+    byte: 2
+    start: 5
+    type: int
+    transform: ""
 subfuncao:
-    - byte: 3
-    - start: 7
-    - type: int
-    - transform: ""
+    byte: 3
+    start: 7
+    type: int
+    transform: ""
 programa:
-    - byte: 4
-    - start: 10
-    - type: int
-    - transform: ""
+    byte: 4
+    start: 10
+    type: int
+    transform: ""
 projativ:
-    - byte: 5
-    - start: 17
-    - type: int
-    - transform: ""
+    byte: 5
+    start: 17
+    type: int
+    transform: ""
 rubrica:
-    - byte: 15
-    - start: 22
-    - type: string
-    - transform: ""
+    byte: 15
+    start: 22
+    type: string
+    transform: ""
 recurso_vinculado:
-    - byte: 4
-    - start: 37
-    - type: int
-    - transform: ""
+    byte: 4
+    start: 37
+    type: int
+    transform: ""
 contrapartida:
-    - byte: 4
-    - start: 41
-    - type: int
-    - transform: ""
+    byte: 4
+    start: 41
+    type: int
+    transform: ""
 numero_empenho:
-    - byte: 13
-    - start: 45
-    - type: string
-    - transform: ""
+    byte: 13
+    start: 45
+    type: string
+    transform: ""
 dia_empenho:
-    - byte: 2
-    - start: 58
-    - type: int
-    - transform: ""
+    byte: 2
+    start: 58
+    type: int
+    transform: ""
 mes_empenho:
-    - byte: 2
-    - start: 60
-    - type: int
-    - transform: ""
+    byte: 2
+    start: 60
+    type: int
+    transform: ""
 ano_empenho:
-    - byte: 4
-    - start: 62
-    - type: int
-    - transform: ""
+    byte: 4
+    start: 62
+    type: int
+    transform: ""
 valor_empenho:
-    - byte: 13
-    - start: 66
-    - type: float
-    - transform: ""
+    byte: 13
+    start: 66
+    type: float
+    transform: ""
 sinal_valor:
-    - byte: 1
-    - start: 79
-    - type: string
-    - transform: ""
+    byte: 1
+    start: 79
+    type: string
+    transform: ""
 credor:
-    - byte: 10
-    - start: 80
-    - type: string
-    - transform: ""
+    byte: 10
+    start: 80
+    type: string
+    transform: ""
 caracteristica_peculiar:
-    - byte: 3
-    - start: 255
-    - type: int
-    - transform: ""
+    byte: 3
+    start: 255
+    type: int
+    transform: ""
 registro_precos:
-    - byte: 1
-    - start: 260
-    - type: string
-    - transform: ""
+    byte: 1
+    start: 260
+    type: string
+    transform: ""
 numero_licitacao:
-    - byte: 20
-    - start: 281
-    - type: int
-    - transform: ""
+    byte: 20
+    start: 281
+    type: int
+    transform: ""
 ano_licitacao:
-    - byte: 4
-    - start: 301
-    - type: int
-    - transform: ""
+    byte: 4
+    start: 301
+    type: int
+    transform: ""
 historico_empenho:
-    - byte: 400
-    - start: 305
-    - type: string
-    - transform: ""
+    byte: 400
+    start: 305
+    type: string
+    transform: ""
 forma_contratacao:
-    - byte: 3
-    - start: 705
-    - type: string
-    - transform: ""
+    byte: 3
+    start: 705
+    type: string
+    transform: ""
 base_legal_contratacao:
-    - byte: 2
-    - start: 708
-    - type: int
-    - transform: ""
+    byte: 2
+    start: 708
+    type: int
+    transform: ""
 identificador_funcionario:
-    - byte: 1
-    - start: 710
-    - type: string
-    - transform: ""
+    byte: 1
+    start: 710
+    type: string
+    transform: ""
 licitacao_compartilhada:
-    - byte: 1
-    - start: 711
-    - type: string
-    - transform: ""
+    byte: 1
+    start: 711
+    type: string
+    transform: ""
 cnpj_gerenciador:
-    - byte: 14
-    - start: 712
-    - type: string
-    - transform: ""
+    byte: 14
+    start: 712
+    type: string
+    transform: ""

@@ -35,11 +35,13 @@ class CsvORepo implements OutputRepositoryInterface
     public function __construct($output)
     {
         $this->dir = $output;
-        if (file_exists($output))
-            throw new AlertException("Diretório [$output] já existe.");
+        if (file_exists($output)){
+//            throw new AlertException("Diretório [$output] já existe.");
+        }
 
-        if (!mkdir($output, '0777', true))
-            throw new CriticalException("Diretório [$output] não pôde ser criado.");
+        if (!mkdir($output, '0777', true)){
+//            throw new CriticalException("Diretório [$output] não pôde ser criado.");
+        }
     }
 
     public function closeDataSet(OutputDataSetInterface $dataSet)

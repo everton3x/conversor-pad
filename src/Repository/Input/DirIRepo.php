@@ -20,9 +20,9 @@ class DirIRepo implements InputRepositoryInterface
 
     /**
      *
-     * @var array Lista de diretórios considerados
+     * @var array Diretório considerado
      */
-    protected array $dir = [];
+    protected string $dir;
 
     /**
      *
@@ -32,9 +32,9 @@ class DirIRepo implements InputRepositoryInterface
 
     /**
      * 
-     * @param string $input Lista de caminhos de diretório.
+     * @param string $input Caminho de diretório.
      */
-    public function __construct(...$input)
+    public function __construct($input)
     {
         $this->dir = $input;
 
@@ -43,21 +43,22 @@ class DirIRepo implements InputRepositoryInterface
         } catch (Exception $ex) {
             throw $ex;
         }
+
+//        print_r($this->files);
+//        exit();
     }
 
     protected function loadTxtFiles()
     {
-        foreach ($this->dir as $dirPath) {
-            $it = new DirectoryIterator($dirPath);
-            foreach ($it as $entry) {
-                if (!$entry->isFile())
-                    continue;
-                if (strtolower($entry->getExtension()) !== 'txt')
-                    continue;
+        $it = new DirectoryIterator($this->dir);
+        foreach ($it as $entry) {
+            if (!$entry->isFile())
+                continue;
+            if (strtolower($entry->getExtension()) !== 'txt')
+                continue;
 
-                $fpath = $entry->getPathname();
-                $this->files[] = $fpath;
-            }
+            $fpath = $entry->getPathname();
+            $this->files[] = $fpath;
         }
 
         $this->hasFile = true;
@@ -65,12 +66,17 @@ class DirIRepo implements InputRepositoryInterface
 
     public function getDataSet(): ?InputDataSetInterface
     {
+//        if (($item = each($this->files)) === false) {
+//            return null;
+//        }
+//        $file = $item['value'];
         if (($file = current($this->files)) === false) {
             return null;
         }
-        
+
         next($this->files);
-        
+
+//        echo "!!!!!!!!!!!", PHP_EOL, $file, PHP_EOL, "--------------", PHP_EOL;
         return new FixLenghtTxtIDataSet($file);
     }
 

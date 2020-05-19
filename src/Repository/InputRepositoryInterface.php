@@ -19,9 +19,9 @@ interface InputRepositoryInterface
     /**
      * Construtor
      * 
-     * @param mixed $input Lista com os repositórios. Atualmente é uma lista de strings com os caminhos dos diretórios onde os TXT estão armazenados.
+     * @param mixed $input Repositórios. Atualmente é uma string com o caminho do diretório onde os TXT estão armazenados.
      */
-    public function __construct(...$input);
+    public function __construct($input);
 
     /**
      * Getter para o dataset de dados. Atualmente representa o arquivo TXT com os dados.

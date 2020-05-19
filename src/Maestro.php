@@ -72,6 +72,22 @@ class Maestro
             }
             
             try{
+                $parser = new Parser($spec);
+                $lineCounter = 0;
+                do{
+                    $unparsed = $idataset->getData();
+                    if($unparsed){
+                    $data = $parser->parse($unparsed);
+                        $lineCounter++;
+                    }
+                }while ($idataset->hasData());
+                $this->debug("Processadas [$lineCounter] linhas.");
+                
+            } catch (Exception $ex) {
+                throw $ex;
+            }
+            
+            try{
                 $this->orepo->closeDataSet($dataSet);
             } catch (Exception $ex) {
                 throw $ex;
@@ -133,14 +149,14 @@ class Maestro
     protected function notice(string $message)
     {
         foreach ($this->logger as $logger) {
-            $logger->notice($message);
+//            $logger->notice($message);
         }
     }
 
     protected function warning(string $message)
     {
         foreach ($this->logger as $logger) {
-            $logger->warning($message);
+//            $logger->warning($message);
         }
     }
 }
