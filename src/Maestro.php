@@ -19,25 +19,25 @@ class Maestro
      *
      * @var InputRepositoryInterface Repositório dos txt 
      */
-    protected InputRepositoryInterface $irepo;
+    protected $irepo;
 
     /**
      *
      * @var OutputRepositoryInterface Repositório dos dados convertidos
      */
-    protected OutputRepositoryInterface $orepo;
+    protected $orepo;
 
     /**
      *
      * @var SpecRepositoryInterface Repositório de especificações
      */
-    protected SpecRepositoryInterface $specrepo;
+    protected $specrepo;
 
     /**
      *
      * @var array Lista de Loggers
      */
-    protected array $logger = [];
+    protected $logger = [];
 
     /**
      * Construtor.

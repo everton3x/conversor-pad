@@ -72,6 +72,7 @@ class CsvOutputDataSet implements OutputDataSetInterface
     public function saveData(array $data)
     {
         try {
+            
             if (!fputcsv($this->fhandle, $data, ';')) {
                 throw new ErrorException("Não foi possível gravar a linha.");
             }

@@ -16,7 +16,7 @@ class Parser
      *
      * @var SpecDataSetInterface Especificação do dataset input 
      */
-    protected SpecDataSetInterface $spec;
+    protected $spec;
 
     /**
      * 
@@ -55,32 +55,5 @@ class Parser
         }
         
         return $parsed;
-    }
-
-    /**
-     * Faz conversão de tipos da especificação para os tipos adequados.
-     * @param string $type
-     * @param type $value
-     * @return type
-     * @throws CriticalException
-     * @todo Mover isso para o dataset output porque vai haver mudança de acordo com o formato de saída.
-     */
-    protected function typeTransform(string $type, $value)
-    {
-        switch ($type) {
-            case 'int':
-                settype($value, 'int');
-                break;
-            case 'float':
-                $value = number_format($value, 2, ',', '.');
-                break;
-            case 'string':
-                settype($value, 'string');
-                break;
-            default :
-                throw new CriticalException("Tipo [$type] não suportado.");
-        }
-
-        return $value;
     }
 }

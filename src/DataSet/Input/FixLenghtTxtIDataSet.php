@@ -17,7 +17,7 @@ class FixLenghtTxtIDataSet implements InputDataSetInterface
      *
      * @var string Caminho para o arquivo txt.
      */
-    protected string $file = '';
+    protected $file = '';
 
     /**
      *
@@ -29,7 +29,7 @@ class FixLenghtTxtIDataSet implements InputDataSetInterface
      *
      * @var bool controla se ainda tem linhas para exportar
      */
-    protected bool $hasData = true;
+    protected $hasData = true;
 
     /**
      * 

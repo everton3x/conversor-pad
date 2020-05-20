@@ -20,7 +20,7 @@ class YamlDirSpecRepo implements SpecRepositoryInterface
      *
      * @var string Caminho para o diretório das especificações
      */
-    protected string $dir = '';
+    protected $dir = '';
 
     public function __construct($specSet)
     {
