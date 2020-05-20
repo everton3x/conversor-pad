@@ -72,7 +72,7 @@ class CsvOutputDataSet implements OutputDataSetInterface
     public function saveData(array $data)
     {
         try {
-            
+//            $data = $this->formatNumber($data);
             if (!fputcsv($this->fhandle, $data, ';')) {
                 throw new ErrorException("Não foi possível gravar a linha.");
             }
@@ -89,4 +89,19 @@ class CsvOutputDataSet implements OutputDataSetInterface
     {
         return $this->fhandle;
     }
+
+    /**
+     * Identifica se o valor é um número (moeda) e formata como moeda.
+     * 
+     * Necessário para que o Excel leia corretamente como formato de moeda.
+     * @param type $data
+     */
+//    protected function formatNumber($data)
+//    {
+//        if(preg_match('/^[+|-]?[0-9]{1,}\.[0-9]{0,2}/', $data) === 1) {
+//            return number_format($data, 2, ',', '.');
+//        } else {
+//            return $data;
+//        }
+//    }
 }

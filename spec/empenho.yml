@@ -84,6 +84,11 @@ valor:
     start: 66
     type: float
     transform: "ValorComSinal"
+valorf:
+    byte: 14
+    start: 66
+    type: float
+    transform: "FormataMoeda"
 credor:
     byte: 10
     start: 80
