@@ -24,7 +24,7 @@ class IRepoFactory
      *
      * @var string string de repositórios.
      */
-    protected $repo;
+    protected string $repo;
 
     /**
      * 

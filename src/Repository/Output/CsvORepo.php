@@ -20,13 +20,13 @@ class CsvORepo implements OutputRepositoryInterface
      *
      * @var string O diretório no qual os arquivos csv serão criados.
      */
-    protected $dir = '';
+    protected string $dir = '';
 
     /**
      *
      * @var OutputDataSetInterface O dataset 
      */
-    protected $dataset;
+    protected OutputDataSetInterface $dataset;
 
     /**
      * 

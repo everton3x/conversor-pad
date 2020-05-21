@@ -22,7 +22,7 @@ class ORepoFactory
      *
      * @var string Caminho para o repositório
      */
-    protected $repo = '';
+    protected string $repo = '';
 
     /**
      * 

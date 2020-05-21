@@ -16,7 +16,7 @@ class YamlSpecDataSet implements SpecDataSetInterface
      *
      * @var string Caminho para o arquivo yaml
      */
-    protected $file = '';
+    protected string $file = '';
 
     /**
      * 

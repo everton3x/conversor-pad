@@ -16,15 +16,15 @@ class DirIRepo implements InputRepositoryInterface
 
     /**
      *
-     * @var array Diretório considerado
+     * @var string Diretório considerado
      */
-    protected $dir;
+    protected string $dir = '';
 
     /**
      *
      * @var array Lista de arquivos txt encontrados no diretório
      */
-    protected $files = [];
+    protected array $files = [];
 
     /**
      * 

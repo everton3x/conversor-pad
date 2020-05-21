@@ -16,7 +16,7 @@ class Parser
      *
      * @var SpecDataSetInterface Especificação do dataset input 
      */
-    protected $spec;
+    protected SpecDataSetInterface $spec;
 
     /**
      * 
