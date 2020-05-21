@@ -1,0 +1,71 @@
+---
+codigo_receita:
+    byte: 20
+    start: 1
+    type: string
+    transform: ""
+codigo_receitaf:
+    byte: 20
+    start: 1
+    type: string
+    transform: "FormataReceita"
+uniorcam:
+    byte: 4
+    start: 21
+    type: int
+    transform: ""
+valor_orcado:
+    byte: 13
+    start: 25
+    type: float
+    transform: ""
+valor_orcadof:
+    byte: 13
+    start: 25
+    type: float
+    transform: "FormataMoeda"
+valor_realizado:
+    byte: 13
+    start: 38
+    type: float
+    transform: ""
+valor_realizadof:
+    byte: 13
+    start: 38
+    type: float
+    transform: "FormataMoeda"
+recurso_vinculado:
+    byte: 4
+    start: 51
+    type: int
+    transform: ""
+especificacao_receita:
+    byte: 170
+    start: 55
+    type: string
+    transform: "Trim"
+tipo_nivel:
+    byte: 1
+    start: 225
+    type: string
+    transform: ""
+numero_nivel:
+    byte: 2
+    start: 226
+    type: int
+    transform: ""
+caracteristica_peculiar_receita:
+    byte: 3
+    start: 228
+    type: int
+    transform: ""
+previsao_atualizada:
+    byte: 13
+    start: 231
+    type: float
+    transform: ""
+previsao_atualizadaf:
+    byte: 13
+    start: 231
+    type: float
+    transform: "FormataMoeda"
