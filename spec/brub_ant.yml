@@ -1,0 +1,226 @@
+---
+orgao:
+    byte: 2
+    start: 1
+    type: int
+    transform: ""
+uniorcam:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+funcao:
+    byte: 2
+    start: 5
+    type: int
+    transform: ""
+subfuncao:
+    byte: 3
+    start: 7
+    type: int
+    transform: ""
+programa:
+    byte: 4
+    start: 10
+    type: int
+    transform: ""
+projativ:
+    byte: 5
+    start: 17
+    type: int
+    transform: ""
+rubrica:
+    byte: 15
+    start: 22
+    type: string
+    transform: ""
+rubricaf:
+    byte: 15
+    start: 22
+    type: string
+    transform: "FormataRubrica"
+recurso_vinculado:
+    byte: 4
+    start: 37
+    type: int
+    transform: ""
+empenhado_1bim:
+    byte: 11
+    start: 41
+    type: float
+    transform: ""
+empenhado_1bimf:
+    byte: 11
+    start: 41
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+empenhado_2bim:
+    byte: 11
+    start: 52
+    type: float
+    transform: ""
+empenhado_2bimf:
+    byte: 11
+    start: 52
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+empenhado_3bim:
+    byte: 11
+    start: 63
+    type: float
+    transform: ""
+empenhado_3bimf:
+    byte: 11
+    start: 63
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+empenhado_4bim:
+    byte: 11
+    start: 74
+    type: float
+    transform: ""
+empenhado_4bimf:
+    byte: 11
+    start: 74
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+empenhado_5bim:
+    byte: 11
+    start: 85
+    type: float
+    transform: ""
+empenhado_5bimf:
+    byte: 11
+    start: 85
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+empenhado_6bim:
+    byte: 11
+    start: 96
+    type: float
+    transform: ""
+empenhado_6bimf:
+    byte: 11
+    start: 96
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+liquidado_1bim:
+    byte: 11
+    start: 107
+    type: float
+    transform: ""
+liquidado_1bimf:
+    byte: 11
+    start: 107
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+liquidado_2bim:
+    byte: 11
+    start: 118
+    type: float
+    transform: ""
+liquidado_2bimf:
+    byte: 11
+    start: 118
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+liquidado_3bim:
+    byte: 11
+    start: 129
+    type: float
+    transform: ""
+liquidado_3bimf:
+    byte: 11
+    start: 129
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+liquidado_4bim:
+    byte: 11
+    start: 140
+    type: float
+    transform: ""
+liquidado_4bimf:
+    byte: 11
+    start: 140
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+liquidado_5bim:
+    byte: 11
+    start: 151
+    type: float
+    transform: ""
+liquidado_5bimf:
+    byte: 11
+    start: 151
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+liquidado_6bim:
+    byte: 11
+    start: 162
+    type: float
+    transform: ""
+liquidado_6bimf:
+    byte: 11
+    start: 162
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+pago_1bim:
+    byte: 11
+    start: 173
+    type: float
+    transform: ""
+pago_1bimf:
+    byte: 11
+    start: 173
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+pago_2bim:
+    byte: 11
+    start: 184
+    type: float
+    transform: ""
+pago_2bimf:
+    byte: 11
+    start: 184
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+pago_3bim:
+    byte: 11
+    start: 195
+    type: float
+    transform: ""
+pago_3bimf:
+    byte: 11
+    start: 195
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+pago_4bim:
+    byte: 11
+    start: 206
+    type: float
+    transform: ""
+pago_4bimf:
+    byte: 11
+    start: 206
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+pago_5bim:
+    byte: 11
+    start: 217
+    type: float
+    transform: ""
+pago_5bimf:
+    byte: 11
+    start: 217
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+pago_6bim:
+    byte: 11
+    start: 228
+    type: float
+    transform: ""
+pago_6bimf:
+    byte: 11
+    start: 228
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
