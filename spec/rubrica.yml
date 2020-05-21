@@ -1,0 +1,31 @@
+---
+exercicio:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+rubrica:
+    byte: 15
+    start: 5
+    type: string
+    transform: ""
+rubricaf:
+    byte: 15
+    start: 5
+    type: string
+    transform: "FormataRubrica"
+especificacao_rubrica:
+    byte: 110
+    start: 20
+    type: string
+    transform: "Trim"
+tipo_nivel:
+    byte: 1
+    start: 130
+    type: string
+    transform: ""
+numero_nivel:
+    byte: 2
+    start: 131
+    type: int
+    transform: ""

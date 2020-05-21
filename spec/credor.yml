@@ -1,0 +1,66 @@
+---
+credor:
+    byte: 10
+    start: 1
+    type: int
+    transform: ""
+nome_credor:
+    byte: 60
+    start: 11
+    type: string
+    transform: "Trim"
+cnpj_cpf:
+    byte: 14
+    start: 71
+    type: string
+    transform: "Trim"
+inscricao_estadual:
+    byte: 15
+    start: 85
+    type: string
+    transform: "Trim"
+inscricao_municipal:
+    byte: 15
+    start: 100
+    type: string
+    transform: "Trim"
+endereco:
+    byte: 50
+    start: 115
+    type: string
+    transform: "Trim"
+cidade:
+    byte: 30
+    start: 165
+    type: string
+    transform: "Trim"
+uf:
+    byte: 2
+    start: 195
+    type: string
+    transform: ""
+cep:
+    byte: 8
+    start: 197
+    type: string
+    transform: "Trim"
+fone:
+    byte: 15
+    start: 205
+    type: string
+    transform: "Trim"
+fax:
+    byte: 15
+    start: 220
+    type: string
+    transform: "Trim"
+tipo_credor:
+    byte: 2
+    start: 235
+    type: int
+    transform: ""
+tipo_pessoa:
+    byte: 2
+    start: 237
+    type: int
+    transform: ""

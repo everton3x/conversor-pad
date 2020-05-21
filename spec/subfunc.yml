@@ -1,0 +1,16 @@
+---
+exercicio:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+subfuncao:
+    byte: 3
+    start: 5
+    type: int
+    transform: ""
+nome_subfuncao:
+    byte: 80
+    start: 8
+    type: string
+    transform: "Trim"

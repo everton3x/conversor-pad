@@ -1,0 +1,46 @@
+---
+codigo_conta_balver:
+    byte: 20
+    start: 1
+    type: string
+    transform: ""
+codigo_conta_balverf:
+    byte: 20
+    start: 1
+    type: string
+    transform: "FormataContaContabil"
+uniorcam:
+    byte: 4
+    start: 21
+    type: int
+    transform: ""
+recurso_vinculado:
+    byte: 4
+    start: 25
+    type: int
+    transform: ""
+banco:
+    byte: 5
+    start: 29
+    type: int
+    transform: ""
+agencia:
+    byte: 5
+    start: 34
+    type: string
+    transform: "Trim"
+conta_corrente:
+    byte: 20
+    start: 39
+    type: string
+    transform: "Trim"
+tipo_conta:
+    byte: 1
+    start: 59
+    type: int
+    transform: ""
+classificacao_disponivel:
+    byte: 1
+    start: 60
+    type: int
+    transform: ""

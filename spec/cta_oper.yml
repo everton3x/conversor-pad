@@ -1,0 +1,71 @@
+---
+operacao:
+    byte: 30
+    start: 1
+    type: string
+    transform: "Trim"
+dia_operacao:
+    byte: 2
+    start: 31
+    type: int
+    transform: ""
+mes_operacao:
+    byte: 2
+    start: 33
+    type: int
+    transform: ""
+ano_operacao:
+    byte: 4
+    start: 35
+    type: int
+    transform: ""
+valor_operacao:
+    byte: 13
+    start: 39
+    type: float
+    transform: ""
+sinal:
+    byte: 1
+    start: 52
+    type: string
+    transform: ""
+valor_operacaof:
+    byte: 14
+    start: 39
+    type: float
+    transform: "ValorComSinal,FormataMoeda"
+recurso_vinculado:
+    byte: 4
+    start: 53
+    type: int
+    transform: ""
+receita:
+    byte: 20
+    start: 57
+    type: string
+    transform: ""
+receitaf:
+    byte: 20
+    start: 57
+    type: string
+    transform: "FormataReceita"
+uniorcam_receita:
+    byte: 4
+    start: 77
+    type: int
+    transform: ""
+conta_balver:
+    byte: 20
+    start: 81
+    type: string
+    transform: ""
+conta_balverf:
+    byte: 20
+    start: 81
+    type: string
+    transform: "FormataContaContabil"
+uniorcam_balver:
+    byte: 4
+    start: 101
+    type: int
+    transform: ""

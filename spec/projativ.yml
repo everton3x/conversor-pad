@@ -1,0 +1,21 @@
+---
+exercicio:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+projativ:
+    byte: 5
+    start: 5
+    type: int
+    transform: ""
+nome_projativ:
+    byte: 80
+    start: 10
+    type: string
+    transform: "Trim"
+identificador:
+    byte: 2
+    start: 90
+    type: string
+    transform: ""

@@ -1,0 +1,16 @@
+---
+recurso:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+nome_recurso:
+    byte: 80
+    start: 5
+    type: string
+    transform: "Trim"
+finalidade:
+    byte: 160
+    start: 85
+    type: string
+    transform: "Trim"

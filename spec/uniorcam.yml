@@ -1,0 +1,36 @@
+---
+exercicio:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+orgao:
+    byte: 2
+    start: 5
+    type: int
+    transform: ""
+uniorcam:
+    byte: 4
+    start: 5
+    type: int
+    transform: ""
+nome_uniorcam:
+    byte: 80
+    start: 9
+    type: string
+    transform: "Trim"
+identificador:
+    byte: 2
+    start: 89
+    type: string
+    transform: ""
+cnpj:
+    byte: 14
+    start: 91
+    type: string
+    transform: ""
+cnpjf:
+    byte: 14
+    start: 91
+    type: string
+    transform: "FormataCnpj"
