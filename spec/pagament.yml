@@ -4,27 +4,27 @@ numero_empenho:
     start: 1
     type: string
     transform: ""
-numero_liquidacao:
+numero_pagamento:
     byte: 20
     start: 14
     type: string
     transform: ""
-dia_liquidacao:
+dia_pagamento:
     byte: 2
     start: 34
     type: int
     transform: ""
-mes_liquidacao:
+mes_pagamento:
     byte: 2
     start: 36
     type: int
     transform: ""
-ano_liquidacao:
+ano_pagamento:
     byte: 4
     start: 38
     type: int
     transform: ""
-valor_liquidacao:
+valor_pagamento:
     byte: 13
     start: 42
     type: float
@@ -46,51 +46,36 @@ valorf:
     transform: "FormataMoeda"
 operacao:
     byte: 30
-    start: 221
+    start: 176
     type: string
     transform: ""
-historico_liquidacao:
-    byte: 400
-    start: 251
-    type: string
-    transform: ""
-existe_contrato:
-    byte: 1
-    start: 651
-    type: string
-    transform: ""
-numero_contrato_tce:
+debito_conta_balver:
     byte: 20
-    start: 652
-    type: int
-    transform: ""
-numero_contrato:
-    byte: 20
-    start: 672
+    start: 206
     type: string
     transform: ""
-ano_contrato:
+debito_uniorcam:
     byte: 4
-    start: 692
+    start: 226
     type: int
     transform: ""
-existe_nota_fiscal:
-    byte: 1
-    start: 696
+credito_conta_balver:
+    byte: 20
+    start: 230
     type: string
     transform: ""
-numero_nota_fiscal:
-    byte: 9
-    start: 697
+credito_uniorcam:
+    byte: 4
+    start: 250
     type: int
     transform: ""
-serie_nota_fiscal:
-    byte: 3
-    start: 706
+historico_pagamento:
+    byte: 400
+    start: 254
     type: string
     transform: ""
-tipo_contrato:
-    byte: 1
-    start: 709
+numero_liquidacao:
+    byte: 20
+    start: 654
     type: string
     transform: ""
