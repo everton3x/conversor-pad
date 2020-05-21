@@ -1,0 +1,206 @@
+---
+codigo_receita:
+    byte: 20
+    start: 1
+    type: string
+    transform: ""
+codigo_receitaf:
+    byte: 20
+    start: 1
+    type: string
+    transform: "FormataReceita"
+uniorcam:
+    byte: 4
+    start: 21
+    type: int
+    transform: ""
+realizada_janeiro:
+    byte: 13
+    start: 25
+    type: float
+    transform: ""
+realizada_janeirof:
+    byte: 13
+    start: 25
+    type: float
+    transform: "FormataMoeda"
+realizada_fevereiro:
+    byte: 13
+    start: 38
+    type: float
+    transform: ""
+realizada_fevereirof:
+    byte: 13
+    start: 38
+    type: float
+    transform: "FormataMoeda"
+realizada_marco:
+    byte: 13
+    start: 51
+    type: float
+    transform: ""
+realizada_marcof:
+    byte: 13
+    start: 51
+    type: float
+    transform: "FormataMoeda"
+realizada_abril:
+    byte: 13
+    start: 64
+    type: float
+    transform: ""
+realizada_abrilf:
+    byte: 13
+    start: 64
+    type: float
+    transform: "FormataMoeda"
+realizada_maio:
+    byte: 13
+    start: 77
+    type: float
+    transform: ""
+realizada_maiof:
+    byte: 13
+    start: 77
+    type: float
+    transform: "FormataMoeda"
+realizada_junho:
+    byte: 13
+    start: 90
+    type: float
+    transform: ""
+realizada_junhof:
+    byte: 13
+    start: 90
+    type: float
+    transform: "FormataMoeda"
+realizada_julho:
+    byte: 13
+    start: 103
+    type: float
+    transform: ""
+realizada_julhof:
+    byte: 13
+    start: 103
+    type: float
+    transform: "FormataMoeda"
+realizada_agosto:
+    byte: 13
+    start: 116
+    type: float
+    transform: ""
+realizada_agostof:
+    byte: 13
+    start: 116
+    type: float
+    transform: "FormataMoeda"
+realizada_setembro:
+    byte: 13
+    start: 129
+    type: float
+    transform: ""
+realizada_setembrof:
+    byte: 13
+    start: 129
+    type: float
+    transform: "FormataMoeda"
+realizada_outubro:
+    byte: 13
+    start: 142
+    type: float
+    transform: ""
+realizada_outubrof:
+    byte: 13
+    start: 142
+    type: float
+    transform: "FormataMoeda"
+realizada_novembro:
+    byte: 13
+    start: 155
+    type: float
+    transform: ""
+realizada_novembrof:
+    byte: 13
+    start: 155
+    type: float
+    transform: "FormataMoeda"
+realizada_dezembro:
+    byte: 13
+    start: 168
+    type: float
+    transform: ""
+realizada_dezembrof:
+    byte: 13
+    start: 168
+    type: float
+    transform: "FormataMoeda"
+meta_1bim:
+    byte: 12
+    start: 181
+    type: float
+    transform: ""
+meta_1bimf:
+    byte: 12
+    start: 181
+    type: float
+    transform: "FormataMoeda"
+meta_2bim:
+    byte: 12
+    start: 193
+    type: float
+    transform: ""
+meta_2bimf:
+    byte: 12
+    start: 193
+    type: float
+    transform: "FormataMoeda"
+meta_3bim:
+    byte: 12
+    start: 205
+    type: float
+    transform: ""
+meta_3bimf:
+    byte: 12
+    start: 205
+    type: float
+    transform: "FormataMoeda"
+meta_4bim:
+    byte: 12
+    start: 217
+    type: float
+    transform: ""
+meta_4bimf:
+    byte: 12
+    start: 217
+    type: float
+    transform: "FormataMoeda"
+meta_5bim:
+    byte: 12
+    start: 229
+    type: float
+    transform: ""
+meta_5bimf:
+    byte: 12
+    start: 229
+    type: float
+    transform: "FormataMoeda"
+meta_6bim:
+    byte: 12
+    start: 241
+    type: float
+    transform: ""
+meta_6bimf:
+    byte: 12
+    start: 241
+    type: float
+    transform: "FormataMoeda"
+caracateristica_peculiar_receita:
+    byte: 3
+    start: 253
+    type: int
+    transform: ""
+recurso_vinculado:
+    byte: 4
+    start: 256
+    type: int
+    transform: ""
