@@ -54,6 +54,11 @@ debito_conta_balver:
     start: 206
     type: string
     transform: ""
+debito_conta_balverf:
+    byte: 20
+    start: 206
+    type: string
+    transform: "FormataContaContabil"
 debito_uniorcam:
     byte: 4
     start: 226
@@ -64,6 +69,11 @@ credito_conta_balver:
     start: 230
     type: string
     transform: ""
+credito_conta_balverf:
+    byte: 20
+    start: 230
+    type: string
+    transform: "FormataContaContabil"
 credito_uniorcam:
     byte: 4
     start: 250
