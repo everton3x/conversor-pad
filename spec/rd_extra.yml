@@ -1,0 +1,36 @@
+---
+codigo_conta_balver:
+    byte: 20
+    start: 1
+    type: string
+    transform: ""
+codigo_conta_balverf:
+    byte: 20
+    start: 1
+    type: string
+    transform: "FormataContaContabil"
+uniorcam:
+    byte: 4
+    start: 21
+    type: int
+    transform: ""
+valor_movimentacao:
+    byte: 13
+    start: 25
+    type: float
+    transform: ""
+valor_movimentacaof:
+    byte: 13
+    start: 25
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+identificador_ingresso_dispendio:
+    byte: 1
+    start: 38
+    type: string
+    transform: ""
+classificacao:
+    byte: 2
+    start: 39
+    type: int
+    transform: ""
