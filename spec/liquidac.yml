@@ -43,7 +43,7 @@ valorf:
     byte: 14
     start: 42
     type: float
-    transform: "FormataMoeda"
+    transform: "ValorComSinal,FormataMoeda"
 operacao:
     byte: 30
     start: 221

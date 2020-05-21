@@ -23,7 +23,7 @@ valor_orcadof:
     byte: 13
     start: 25
     type: float
-    transform: "FormataMoeda"
+    transform: "ValorSemSinal,FormataMoeda"
 valor_realizado:
     byte: 13
     start: 38
@@ -33,7 +33,7 @@ valor_realizadof:
     byte: 13
     start: 38
     type: float
-    transform: "FormataMoeda"
+    transform: "ValorSemSinal,FormataMoeda"
 recurso_vinculado:
     byte: 4
     start: 51
@@ -68,4 +68,4 @@ previsao_atualizadaf:
     byte: 13
     start: 231
     type: float
-    transform: "FormataMoeda"
+    transform: "ValorSemSinal,FormataMoeda"

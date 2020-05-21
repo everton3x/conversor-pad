@@ -16,7 +16,6 @@ class FormataMoedaTransformer implements TransformerInterface
 
     public function transform(string $data): string
     {
-        $t = new ValorComSinalTransformer();
-        return number_format($t->transform($data), 2, ',', '.');
+        return number_format($data, 2, ',', '.');
     }
 }

@@ -19,11 +19,7 @@ class ValorComSinalTransformer implements TransformerInterface
         $signal = substr($data, -1, 1);
         $int = (int) substr($data, 0, strlen($data) - 3);
         $decimal = (int) substr($data, strlen($data) - 3, 2);
-        
-        if($signal !== '+' && $signal !== '-'){
-            $signal = '';
-        }
-        
+
         return "$signal$int.$decimal";
     }
 }

@@ -88,7 +88,7 @@ valorf:
     byte: 14
     start: 66
     type: float
-    transform: "FormataMoeda"
+    transform: "ValorComSinal,FormataMoeda"
 credor:
     byte: 10
     start: 80

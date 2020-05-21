@@ -46,14 +46,30 @@ class Parser
             $chunked = substr($data, $start, $size);
 
             if ($transform) {
-                $transformClassName = "\\CPAD\Transformer\\{$transform}Transformer";
-                $transformInstance = new $transformClassName();
-                $chunked = $transformInstance->transform($chunked);
+                $chunked = $this->applyTransformers(explode(',', $transform), $chunked);
             }
 
             $parsed[$key] = $chunked;
         }
-        
+
         return $parsed;
+    }
+
+    /**
+     * Aplica os transformers sobre um valor.
+     * 
+     * @param array $transformers
+     * @param type $value
+     * @return type
+     */
+    protected function applyTransformers(array $transformers, $value)
+    {
+        foreach ($transformers as $transform) {
+            $transformClassName = "\\CPAD\Transformer\\{$transform}Transformer";
+            $transformInstance = new $transformClassName();
+            $value = $transformInstance->transform($value);
+        }
+        
+        return $value;
     }
 }

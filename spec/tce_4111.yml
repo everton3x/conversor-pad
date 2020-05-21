@@ -1,0 +1,91 @@
+---
+codigo_conta_balver:
+    byte: 20
+    start: 1
+    type: string
+    transform: ""
+codigo_conta_balverf:
+    byte: 20
+    start: 1
+    type: string
+    transform: "FormataContaContabil"
+uniorcam:
+    byte: 4
+    start: 21
+    type: int
+    transform: ""
+numero_lancamento:
+    byte: 12
+    start: 29
+    type: int
+    transform: ""
+numero_lote:
+    byte: 12
+    start: 41
+    type: int
+    transform: ""
+numero_documento:
+    byte: 13
+    start: 53
+    type: int
+    transform: ""
+dia_lancamento:
+    byte: 2
+    start: 66
+    type: int
+    transform: ""
+mes_lancamento:
+    byte: 2
+    start: 68
+    type: int
+    transform: ""
+ano_lancamento:
+    byte: 4
+    start: 70
+    type: int
+    transform: ""
+valor_lancamento:
+    byte: 17
+    start: 74
+    type: float
+    transform: ""
+valor_lancamentof:
+    byte: 17
+    start: 74
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+tipo_lancamento:
+    byte: 1
+    start: 91
+    type: string
+    transform: ""
+numero_arquivamento:
+    byte: 12
+    start: 92
+    type: int
+    transform: ""
+historico_lancamento:
+    byte: 150
+    start: 104
+    type: string
+    transform: "Trim"
+tipo_documento:
+    byte: 1
+    start: 254
+    type: int
+    transform: ""
+natureza_informacao:
+    byte: 1
+    start: 255
+    type: string
+    transform: ""
+indicador_superavit:
+    byte: 1
+    start: 256
+    type: string
+    transform: ""
+recurso_vinculado:
+    byte: 4
+    start: 257
+    type: int
+    transform: ""
