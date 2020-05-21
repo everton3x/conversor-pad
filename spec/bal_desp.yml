@@ -1,0 +1,186 @@
+---
+orgao:
+    byte: 2
+    start: 1
+    type: int
+    transform: ""
+uniorcam:
+    byte: 4
+    start: 1
+    type: int
+    transform: ""
+funcao:
+    byte: 2
+    start: 5
+    type: int
+    transform: ""
+subfuncao:
+    byte: 3
+    start: 7
+    type: int
+    transform: ""
+programa:
+    byte: 4
+    start: 10
+    type: int
+    transform: ""
+projativ:
+    byte: 5
+    start: 17
+    type: int
+    transform: ""
+elemento:
+    byte: 6
+    start: 22
+    type: string
+    transform: ""
+elementof:
+    byte: 6
+    start: 22
+    type: string
+    transform: "FormataElemento"
+recurso_vinculado:
+    byte: 4
+    start: 28
+    type: int
+    transform: ""
+dotacao_inicial:
+    byte: 13
+    start: 32
+    type: float
+    transform: ""
+dotacao_inicialf:
+    byte: 13
+    start: 32
+    type: float
+    transform: "FormataMoeda"
+atualizacao_monetaria:
+    byte: 13
+    start: 45
+    type: float
+    transform: ""
+atualizacao_monetariaf:
+    byte: 13
+    start: 45
+    type: float
+    transform: "FormataMoeda"
+credito_suplementar:
+    byte: 13
+    start: 58
+    type: float
+    transform: ""
+credito_suplementarf:
+    byte: 13
+    start: 58
+    type: float
+    transform: "FormataMoeda"
+credito_especial:
+    byte: 13
+    start: 71
+    type: float
+    transform: ""
+credito_especialf:
+    byte: 13
+    start: 71
+    type: float
+    transform: "FormataMoeda"
+credito_extraordinario:
+    byte: 13
+    start: 84
+    type: float
+    transform: ""
+credito_extraordinariof:
+    byte: 13
+    start: 84
+    type: float
+    transform: "FormataMoeda"
+reducao_dotacao:
+    byte: 13
+    start: 97
+    type: float
+    transform: ""
+reducao_dotacaof:
+    byte: 13
+    start: 97
+    type: float
+    transform: "FormataMoeda"
+suplementacao_recurso_vinculado:
+    byte: 13
+    start: 110
+    type: float
+    transform: ""
+suplementacao_recurso_vinculadof:
+    byte: 13
+    start: 110
+    type: float
+    transform: "FormataMoeda"
+reducao_recurso_vinculado:
+    byte: 13
+    start: 123
+    type: float
+    transform: ""
+reducao_recurso_vinculadof:
+    byte: 13
+    start: 123
+    type: float
+    transform: "FormataMoeda"
+valor_empenhado:
+    byte: 13
+    start: 136
+    type: float
+    transform: ""
+valor_empenhadof:
+    byte: 13
+    start: 136
+    type: float
+    transform: "FormataMoeda"
+valor_liquidado:
+    byte: 13
+    start: 149
+    type: float
+    transform: ""
+valor_liquidadof:
+    byte: 13
+    start: 149
+    type: float
+    transform: "FormataMoeda"
+valor_pago:
+    byte: 13
+    start: 162
+    type: float
+    transform: ""
+valor_pagof:
+    byte: 13
+    start: 162
+    type: float
+    transform: "FormataMoeda"
+valor_limitado:
+    byte: 13
+    start: 175
+    type: float
+    transform: ""
+valor_limitadof:
+    byte: 13
+    start: 175
+    type: float
+    transform: "FormataMoeda"
+valor_recomposto:
+    byte: 13
+    start: 188
+    type: float
+    transform: ""
+valor_recompostof:
+    byte: 13
+    start: 188
+    type: float
+    transform: "FormataMoeda"
+previsao_ate_termino_exercicio:
+    byte: 13
+    start: 201
+    type: float
+    transform: ""
+previsao_ate_termino_exerciciof:
+    byte: 13
+    start: 201
+    type: float
+    transform: "FormataMoeda"
