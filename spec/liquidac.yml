@@ -53,7 +53,7 @@ historico_liquidacao:
     byte: 400
     start: 251
     type: string
-    transform: ""
+    transform: "Trim"
 existe_contrato:
     byte: 1
     start: 651

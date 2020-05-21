@@ -118,7 +118,7 @@ historico_empenho:
     byte: 400
     start: 305
     type: string
-    transform: ""
+    transform: "Trim"
 forma_contratacao:
     byte: 3
     start: 705

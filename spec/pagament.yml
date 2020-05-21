@@ -73,7 +73,7 @@ historico_pagamento:
     byte: 400
     start: 254
     type: string
-    transform: ""
+    transform: "Trim"
 numero_liquidacao:
     byte: 20
     start: 654
