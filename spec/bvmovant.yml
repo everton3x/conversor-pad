@@ -1,0 +1,136 @@
+---
+codigo_conta_balver:
+    byte: 20
+    start: 1
+    type: string
+    transform: ""
+codigo_conta_balverf:
+    byte: 20
+    start: 1
+    type: string
+    transform: "FormataContaContabil"
+uniorcam:
+    byte: 4
+    start: 21
+    type: int
+    transform: ""
+movimento_debito_1bim:
+    byte: 13
+    start: 25
+    type: float
+    transform: ""
+movimento_debito_1bimf:
+    byte: 13
+    start: 25
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_credito_1bim:
+    byte: 13
+    start: 38
+    type: float
+    transform: ""
+movimento_credito_1bimf:
+    byte: 13
+    start: 38
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_debito_2bim:
+    byte: 13
+    start: 51
+    type: float
+    transform: ""
+movimento_debito_2bimf:
+    byte: 13
+    start: 51
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_credito_2bim:
+    byte: 13
+    start: 64
+    type: float
+    transform: ""
+movimento_credito_2bimf:
+    byte: 13
+    start: 64
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_debito_3bim:
+    byte: 13
+    start: 77
+    type: float
+    transform: ""
+movimento_debito_3bimf:
+    byte: 13
+    start: 77
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_credito_3bim:
+    byte: 13
+    start: 90
+    type: float
+    transform: ""
+movimento_credito_3bimf:
+    byte: 13
+    start: 90
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_debito_4bim:
+    byte: 13
+    start: 103
+    type: float
+    transform: ""
+movimento_debito_4bimf:
+    byte: 13
+    start: 103
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_credito_4bim:
+    byte: 13
+    start: 116
+    type: float
+    transform: ""
+movimento_credito_4bimf:
+    byte: 13
+    start: 116
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_debito_5bim:
+    byte: 13
+    start: 129
+    type: float
+    transform: ""
+movimento_debito_5bimf:
+    byte: 13
+    start: 129
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_credito_5bim:
+    byte: 13
+    start: 142
+    type: float
+    transform: ""
+movimento_credito_5bimf:
+    byte: 13
+    start: 142
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_debito_6bim:
+    byte: 13
+    start: 155
+    type: float
+    transform: ""
+movimento_debito_6bimf:
+    byte: 13
+    start: 155
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+movimento_credito_6bim:
+    byte: 13
+    start: 168
+    type: float
+    transform: ""
+movimento_credito_6bimf:
+    byte: 13
+    start: 168
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
