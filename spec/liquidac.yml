@@ -1,0 +1,96 @@
+---
+numero_empenho:
+    byte: 13
+    start: 1
+    type: string
+    transform: ""
+numero_liquidacao:
+    byte: 20
+    start: 14
+    type: string
+    transform: ""
+dia_liquidacao:
+    byte: 2
+    start: 34
+    type: int
+    transform: ""
+mes_liquidacao:
+    byte: 2
+    start: 36
+    type: int
+    transform: ""
+ano_ano_liquidacao:
+    byte: 4
+    start: 38
+    type: int
+    transform: ""
+valor_liquidacao:
+    byte: 13
+    start: 42
+    type: float
+    transform: ""
+sinal_valor:
+    byte: 1
+    start: 55
+    type: string
+    transform: ""
+valor:
+    byte: 14
+    start: 42
+    type: float
+    transform: "ValorComSinal"
+valorf:
+    byte: 14
+    start: 42
+    type: float
+    transform: "FormataMoeda"
+operacao:
+    byte: 30
+    start: 221
+    type: string
+    transform: ""
+historico_liquidacao:
+    byte: 400
+    start: 251
+    type: string
+    transform: ""
+existe_contrato:
+    byte: 1
+    start: 651
+    type: string
+    transform: ""
+numero_contrato_tce:
+    byte: 20
+    start: 652
+    type: int
+    transform: ""
+numero_contrato:
+    byte: 20
+    start: 672
+    type: string
+    transform: ""
+ano_contrato:
+    byte: 4
+    start: 692
+    type: int
+    transform: ""
+existe_nota_fiscal:
+    byte: 1
+    start: 696
+    type: string
+    transform: ""
+numero_nota_fiscal:
+    byte: 9
+    start: 697
+    type: int
+    transform: ""
+serie_nota_fiscal:
+    byte: 3
+    start: 706
+    type: string
+    transform: ""
+tipo_contrato:
+    byte: 1
+    start: 709
+    type: string
+    transform: ""
