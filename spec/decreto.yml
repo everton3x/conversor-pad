@@ -1,0 +1,71 @@
+---
+numero_lei:
+    byte: 20
+    start: 1
+    type: string
+    transform: "Trim"
+dia_lei:
+    byte: 2
+    start: 21
+    type: int
+    transform: ""
+mes_lei:
+    byte: 2
+    start: 23
+    type: int
+    transform: ""
+ano_lei:
+    byte: 4
+    start: 25
+    type: int
+    transform: ""
+numero_decreto:
+    byte: 20
+    start: 29
+    type: string
+    transform: "Trim"
+dia_decreto:
+    byte: 2
+    start: 49
+    type: int
+    transform: ""
+mes_decreto:
+    byte: 2
+    start: 51
+    type: int
+    transform: ""
+ano_decreto:
+    byte: 4
+    start: 53
+    type: int
+    transform: ""
+valor_credito_adicional:
+    byte: 13
+    start: 57
+    type: float
+    transform: ""
+valor_credito_adicionalf:
+    byte: 13
+    start: 57
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+valor_reducoes:
+    byte: 13
+    start: 70
+    type: float
+    transform: ""
+valor_reducoesf:
+    byte: 13
+    start: 70
+    type: float
+    transform: "ValorSemSinal,FormataMoeda"
+tipo_credito_adicional:
+    byte: 1
+    start: 83
+    type: int
+    transform: ""
+origem_recurso:
+    byte: 1
+    start: 84
+    type: int
+    transform: ""
