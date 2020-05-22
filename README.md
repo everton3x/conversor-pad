@@ -27,7 +27,7 @@ composer install
 
 ```sh
 
-php convert.php -i|--input diretório_dos_arquivos_txt -o|--output caminho_para_o arquivo_convertido
+php convert.php -i|--input diretório_dos_arquivos_txt -o|--output caminho_para_o arquivo_convertido -d|--debug
 
 ```
 
@@ -41,7 +41,7 @@ Esse formato salva um arquivo CSV para cada arquivo TXT
 
 ## Changelog
 
-### versão 0.1.3
+### versão 0.1.0
 
 - suporte para conversão para CSV;
 
