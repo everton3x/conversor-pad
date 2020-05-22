@@ -1,6 +1,7 @@
 <?php
 namespace CPAD\Repository\Output;
 
+use CPAD\DataSet\Output\SQLiteOutputDataSet;
 use CPAD\DataSet\OutputDataSetInterface;
 use CPAD\DataSet\SpecDataSetInterface;
 use CPAD\Exception\CriticalException;
@@ -21,6 +22,13 @@ class SQLiteORepo implements OutputRepositoryInterface
      */
     protected PDO $repo;
     
+    /**
+     *
+     * @var OutputDataSetInterface Dataset da tabela
+     */
+    protected OutputDataSetInterface $dataset;
+
+
     /**
      * 
      * @param string $output
@@ -70,6 +78,11 @@ class SQLiteORepo implements OutputRepositoryInterface
     {
         try{//cria a tabela
             $this->tableCreate($datasetName, $spec);
+            $this->dataset = new SQLiteOutputDataSet([
+                'repo' => $this->repo,
+                'dataset' => $datasetName,
+                'cols' => $spec->getColNames()
+            ]);
         } catch (Exception $ex) {
             throw $ex;
         }
@@ -79,6 +92,8 @@ class SQLiteORepo implements OutputRepositoryInterface
         } catch (Exception $ex) {
             throw $ex;
         }
+        
+        return $this->dataset;
     }
     
     /**
