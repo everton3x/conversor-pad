@@ -16,8 +16,8 @@ class ValorSemSinalTransformer implements TransformerInterface
 
     public function transform(string $data): string
     {
-        $int = (int) substr($data, 0, strlen($data) - 2);
-        $decimal = (int) substr($data, strlen($data) - 2, 2);
+        $int = (string) substr($data, 0, strlen($data) - 2);
+        $decimal = (string) substr($data, strlen($data) - 2, 2);
 
         return "$int.$decimal";
     }

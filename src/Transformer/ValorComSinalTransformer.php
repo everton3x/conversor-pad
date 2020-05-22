@@ -17,8 +17,8 @@ class ValorComSinalTransformer implements TransformerInterface
     public function transform(string $data): string
     {
         $signal = substr($data, -1, 1);
-        $int = (int) substr($data, 0, strlen($data) - 3);
-        $decimal = (int) substr($data, strlen($data) - 3, 2);
+        $int = (string) substr($data, 0, strlen($data) - 3);
+        $decimal = (string) substr($data, strlen($data) - 3, 2);
 
         return "$signal$int.$decimal";
     }
