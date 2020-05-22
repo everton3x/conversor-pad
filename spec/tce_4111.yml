@@ -89,3 +89,8 @@ recurso_vinculado:
     start: 257
     type: int
     transform: ""
+complemento_recurso_vinculado:
+    byte: 4
+    start: 261
+    type: int
+    transform: ""

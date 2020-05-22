@@ -149,3 +149,8 @@ cnpj_gerenciadorf:
     start: 712
     type: string
     transform: "FormataCnpj"
+complemento_recurso_vinculado:
+    byte: 4
+    start: 726
+    type: int
+    transform: ""

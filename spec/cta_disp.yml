@@ -44,3 +44,8 @@ classificacao_disponivel:
     start: 60
     type: int
     transform: ""
+complemento_recurso_vinculado:
+    byte: 4
+    start: 61
+    type: int
+    transform: ""

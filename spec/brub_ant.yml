@@ -224,3 +224,8 @@ pago_6bimf:
     start: 228
     type: float
     transform: "ValorSemSinal,FormataMoeda"
+complemento_recurso_vinculado:
+    byte: 4
+    start: 239
+    type: int
+    transform: ""

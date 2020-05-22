@@ -69,3 +69,8 @@ previsao_atualizadaf:
     start: 231
     type: float
     transform: "ValorSemSinal,FormataMoeda"
+complemento_recurso_vinculado:
+    byte: 4
+    start: 244
+    type: int
+    transform: ""

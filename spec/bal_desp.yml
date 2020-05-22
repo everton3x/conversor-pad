@@ -184,3 +184,8 @@ previsao_ate_termino_exerciciof:
     start: 201
     type: float
     transform: "ValorSemSinal,FormataMoeda"
+complemento_recurso_vinculado:
+    byte: 4
+    start: 214
+    type: int
+    transform: ""

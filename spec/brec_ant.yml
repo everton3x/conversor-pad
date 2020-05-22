@@ -59,3 +59,8 @@ caracteristica_peculiar_receita:
     start: 228
     type: int
     transform: ""
+complemento_recurso_vinculado:
+    byte: 4
+    start: 231
+    type: int
+    transform: ""
