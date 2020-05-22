@@ -50,8 +50,10 @@ class ConsoleLogger implements LoggerInterface
      */
     public function debug($message, array $context = []): void
     {
-        if (DEBUG_MODE == true) {
-            $this->log('DEBUG', $message, $context);
+        if (defined('DEBUG_MODE')) {
+            if (DEBUG_MODE == true) {
+                $this->log('DEBUG', $message, $context);
+            }
         }
     }
 
