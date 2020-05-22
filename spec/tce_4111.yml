@@ -52,7 +52,7 @@ valor_lancamento:
 valor_lancamentof:
     byte: 17
     start: 74
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 tipo_lancamento:
     byte: 1

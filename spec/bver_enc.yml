@@ -22,7 +22,7 @@ saldo_anterior_devedor:
 saldo_anterior_devedorf:
     byte: 13
     start: 25
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 saldo_anterior_credor:
     byte: 13
@@ -32,7 +32,7 @@ saldo_anterior_credor:
 saldo_anterior_credorf:
     byte: 13
     start: 38
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 movimentacao_devedor:
     byte: 13
@@ -42,7 +42,7 @@ movimentacao_devedor:
 movimentacao_devedorf:
     byte: 13
     start: 51
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 movimento_credor:
     byte: 13
@@ -52,7 +52,7 @@ movimento_credor:
 movimento_credorf:
     byte: 13
     start: 64
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 saldo_atual_devedor:
     byte: 13
@@ -62,7 +62,7 @@ saldo_atual_devedor:
 saldo_atual_devedorf:
     byte: 13
     start: 77
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 saldo_atual_credor:
     byte: 13
@@ -72,7 +72,7 @@ saldo_atual_credor:
 saldo_atual_credorf:
     byte: 13
     start: 90
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 especificacao_conta_balver:
     byte: 148

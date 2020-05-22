@@ -29,10 +29,15 @@ sinal:
     start: 52
     type: string
     transform: ""
-valor_operacaof:
+valor:
     byte: 14
     start: 39
     type: float
+    transform: "ValorComSinal"
+valor_operacaof:
+    byte: 14
+    start: 39
+    type: string
     transform: "ValorComSinal,FormataMoeda"
 recurso_vinculado:
     byte: 4

@@ -92,7 +92,7 @@ valor:
 valorf:
     byte: 14
     start: 66
-    type: float
+    type: string
     transform: "ValorComSinal,FormataMoeda"
 credor:
     byte: 10

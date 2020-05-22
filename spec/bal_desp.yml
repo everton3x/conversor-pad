@@ -52,7 +52,7 @@ dotacao_inicial:
 dotacao_inicialf:
     byte: 13
     start: 32
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 atualizacao_monetaria:
     byte: 13
@@ -62,7 +62,7 @@ atualizacao_monetaria:
 atualizacao_monetariaf:
     byte: 13
     start: 45
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 credito_suplementar:
     byte: 13
@@ -72,7 +72,7 @@ credito_suplementar:
 credito_suplementarf:
     byte: 13
     start: 58
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 credito_especial:
     byte: 13
@@ -82,7 +82,7 @@ credito_especial:
 credito_especialf:
     byte: 13
     start: 71
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 credito_extraordinario:
     byte: 13
@@ -92,7 +92,7 @@ credito_extraordinario:
 credito_extraordinariof:
     byte: 13
     start: 84
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 reducao_dotacao:
     byte: 13
@@ -102,7 +102,7 @@ reducao_dotacao:
 reducao_dotacaof:
     byte: 13
     start: 97
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 suplementacao_recurso_vinculado:
     byte: 13
@@ -112,7 +112,7 @@ suplementacao_recurso_vinculado:
 suplementacao_recurso_vinculadof:
     byte: 13
     start: 110
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 reducao_recurso_vinculado:
     byte: 13
@@ -122,7 +122,7 @@ reducao_recurso_vinculado:
 reducao_recurso_vinculadof:
     byte: 13
     start: 123
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_empenhado:
     byte: 13
@@ -132,7 +132,7 @@ valor_empenhado:
 valor_empenhadof:
     byte: 13
     start: 136
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_liquidado:
     byte: 13
@@ -142,7 +142,7 @@ valor_liquidado:
 valor_liquidadof:
     byte: 13
     start: 149
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_pago:
     byte: 13
@@ -152,7 +152,7 @@ valor_pago:
 valor_pagof:
     byte: 13
     start: 162
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_limitado:
     byte: 13
@@ -162,7 +162,7 @@ valor_limitado:
 valor_limitadof:
     byte: 13
     start: 175
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_recomposto:
     byte: 13
@@ -172,7 +172,7 @@ valor_recomposto:
 valor_recompostof:
     byte: 13
     start: 188
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 previsao_ate_termino_exercicio:
     byte: 13
@@ -182,7 +182,7 @@ previsao_ate_termino_exercicio:
 previsao_ate_termino_exerciciof:
     byte: 13
     start: 201
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 complemento_recurso_vinculado:
     byte: 4

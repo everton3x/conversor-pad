@@ -22,7 +22,7 @@ realizada_janeiro:
 realizada_janeirof:
     byte: 13
     start: 25
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_fevereiro:
     byte: 13
@@ -32,7 +32,7 @@ realizada_fevereiro:
 realizada_fevereirof:
     byte: 13
     start: 38
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_marco:
     byte: 13
@@ -42,7 +42,7 @@ realizada_marco:
 realizada_marcof:
     byte: 13
     start: 51
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_abril:
     byte: 13
@@ -52,7 +52,7 @@ realizada_abril:
 realizada_abrilf:
     byte: 13
     start: 64
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_maio:
     byte: 13
@@ -62,7 +62,7 @@ realizada_maio:
 realizada_maiof:
     byte: 13
     start: 77
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_junho:
     byte: 13
@@ -72,7 +72,7 @@ realizada_junho:
 realizada_junhof:
     byte: 13
     start: 90
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_julho:
     byte: 13
@@ -82,7 +82,7 @@ realizada_julho:
 realizada_julhof:
     byte: 13
     start: 103
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_agosto:
     byte: 13
@@ -92,7 +92,7 @@ realizada_agosto:
 realizada_agostof:
     byte: 13
     start: 116
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_setembro:
     byte: 13
@@ -102,7 +102,7 @@ realizada_setembro:
 realizada_setembrof:
     byte: 13
     start: 129
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_outubro:
     byte: 13
@@ -112,7 +112,7 @@ realizada_outubro:
 realizada_outubrof:
     byte: 13
     start: 142
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_novembro:
     byte: 13
@@ -122,7 +122,7 @@ realizada_novembro:
 realizada_novembrof:
     byte: 13
     start: 155
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 realizada_dezembro:
     byte: 13
@@ -132,7 +132,7 @@ realizada_dezembro:
 realizada_dezembrof:
     byte: 13
     start: 168
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 caracateristica_peculiar_receita:
     byte: 3

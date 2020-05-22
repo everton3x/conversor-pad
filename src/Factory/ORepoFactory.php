@@ -3,6 +3,7 @@ namespace CPAD\Factory;
 
 use CPAD\Exception\EmergencyException;
 use CPAD\Repository\Output\CsvORepo;
+use CPAD\Repository\Output\SQLiteORepo;
 use CPAD\Repository\OutputRepositoryInterface;
 
 /**
@@ -17,6 +18,11 @@ class ORepoFactory
      * Repositório do tipo csv
      */
     const TYPE_CSV = 'csv';
+
+    /**
+     * Repositório tipo SQLite
+     */
+    const TYPE_SQLITE = 'sqlite';
 
     /**
      *
@@ -43,6 +49,8 @@ class ORepoFactory
         switch ($ext) {
             case self::TYPE_CSV:
                 return self::TYPE_CSV;
+            case self::TYPE_SQLITE:
+                return self::TYPE_SQLITE;
 
             default :
                 throw new EmergencyException("Não há suporte para saída no formato [$ext].");
@@ -60,8 +68,13 @@ class ORepoFactory
         try {
             $type = $this->detectRepoType();
 
-            if ($type === self::TYPE_CSV)
+            if ($type === self::TYPE_CSV) {
                 return new CsvORepo($this->repo);
+            }
+
+            if ($type === self::TYPE_SQLITE) {
+                return new SQLiteORepo($this->repo);
+            }
         } catch (Exception $ex) {
             throw $ex;
         }

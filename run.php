@@ -10,7 +10,8 @@ use CPAD\Repository\Spec\YamlDirSpecRepo;
 //define('DEBUG_MODE', true);
 
 $irepo = new IRepoFactory('./tests/assets/pm/');
-$orepo = new ORepoFactory('./test.csv');
+//$orepo = new ORepoFactory('./test.csv');
+$orepo = new ORepoFactory('./test.sqlite');
 $specrepo = new YamlDirSpecRepo('./spec');
 $consoleLogger = new ConsoleLogger();
 
