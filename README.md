@@ -39,7 +39,24 @@ Para usar esse formato, informe no parâmetro `--output caminho/arquivo.csv`, on
 
 Esse formato salva um arquivo CSV para cada arquivo TXT
 
+## Agregação de dados
+
+Os arquivos TXT do PAD geralmente são gerados para a Câmara de Vereadores e para o Poder Executivo, nestes incluídos o RPPS, e ainda outros para órgãos da administração indireta.
+
+O comando `aggregate` faz a agregação dos dados de vários TXT em um único a fim de ter os dados de todo o município numa única base.
+
+```sh
+
+php aggregate.php diretório_de_destino diretório_de_origem_1 diretório_de_origem_2 diretório_de_origem_3 ...
+
+```
+
 ## Changelog
+
+### versão 0.2.0
+
+- suporte a conversão para SQLite;
+- comando aggregate adicionado;
 
 ### versão 0.1.0
 
@@ -47,9 +64,4 @@ Esse formato salva um arquivo CSV para cada arquivo TXT
 
 ## TODO
 
-### versão 0.2.0
-
-- suporte a conversão para SQLite;
 - salvar os metadados de cada arquivo;
-
-### sem versão definida
