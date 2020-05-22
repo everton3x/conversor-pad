@@ -4,6 +4,11 @@ numero_empenho:
     start: 1
     type: string
     transform: ""
+exercicio_empenho:
+    byte: 5
+    start: 1
+    type: int
+    transform: ""
 numero_liquidacao:
     byte: 20
     start: 14

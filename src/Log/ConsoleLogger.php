@@ -108,7 +108,7 @@ class ConsoleLogger implements LoggerInterface
     public function log($level, $message, array $context = []): void
     {
         $level = strtoupper($level);
-        echo "[$level]\t\t", $message, PHP_EOL;
+        echo str_pad("[$level]", 15, ' ', STR_PAD_RIGHT), $message, PHP_EOL;
     }
 
     /**

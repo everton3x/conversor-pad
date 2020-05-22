@@ -54,6 +54,11 @@ numero_empenho:
     start: 45
     type: string
     transform: ""
+exercicio_empenho:
+    byte: 5
+    start: 45
+    type: int
+    transform: ""
 dia_empenho:
     byte: 2
     start: 58

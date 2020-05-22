@@ -7,7 +7,7 @@ use CPAD\Log\ConsoleLogger;
 use CPAD\Maestro;
 use CPAD\Repository\Spec\YamlDirSpecRepo;
 
-define('DEBUG_MODE', true);
+//define('DEBUG_MODE', true);
 
 $irepo = new IRepoFactory('./tests/assets/pm/');
 $orepo = new ORepoFactory('./test.csv');
