@@ -22,7 +22,7 @@ valor_orcado:
 valor_orcadof:
     byte: 13
     start: 25
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_realizado:
     byte: 13
@@ -32,7 +32,7 @@ valor_realizado:
 valor_realizadof:
     byte: 13
     start: 38
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 recurso_vinculado:
     byte: 4

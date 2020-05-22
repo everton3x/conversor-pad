@@ -47,7 +47,7 @@ valor_credito_adicional:
 valor_credito_adicionalf:
     byte: 13
     start: 57
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 valor_reducoes:
     byte: 13
@@ -57,7 +57,7 @@ valor_reducoes:
 valor_reducoesf:
     byte: 13
     start: 70
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 tipo_credito_adicional:
     byte: 1

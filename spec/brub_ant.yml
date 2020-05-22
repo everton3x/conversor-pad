@@ -52,7 +52,7 @@ empenhado_1bim:
 empenhado_1bimf:
     byte: 11
     start: 41
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 empenhado_2bim:
     byte: 11
@@ -62,7 +62,7 @@ empenhado_2bim:
 empenhado_2bimf:
     byte: 11
     start: 52
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 empenhado_3bim:
     byte: 11
@@ -72,7 +72,7 @@ empenhado_3bim:
 empenhado_3bimf:
     byte: 11
     start: 63
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 empenhado_4bim:
     byte: 11
@@ -82,7 +82,7 @@ empenhado_4bim:
 empenhado_4bimf:
     byte: 11
     start: 74
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 empenhado_5bim:
     byte: 11
@@ -92,7 +92,7 @@ empenhado_5bim:
 empenhado_5bimf:
     byte: 11
     start: 85
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 empenhado_6bim:
     byte: 11
@@ -102,7 +102,7 @@ empenhado_6bim:
 empenhado_6bimf:
     byte: 11
     start: 96
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 liquidado_1bim:
     byte: 11
@@ -112,7 +112,7 @@ liquidado_1bim:
 liquidado_1bimf:
     byte: 11
     start: 107
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 liquidado_2bim:
     byte: 11
@@ -122,7 +122,7 @@ liquidado_2bim:
 liquidado_2bimf:
     byte: 11
     start: 118
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 liquidado_3bim:
     byte: 11
@@ -132,7 +132,7 @@ liquidado_3bim:
 liquidado_3bimf:
     byte: 11
     start: 129
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 liquidado_4bim:
     byte: 11
@@ -142,7 +142,7 @@ liquidado_4bim:
 liquidado_4bimf:
     byte: 11
     start: 140
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 liquidado_5bim:
     byte: 11
@@ -152,7 +152,7 @@ liquidado_5bim:
 liquidado_5bimf:
     byte: 11
     start: 151
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 liquidado_6bim:
     byte: 11
@@ -162,7 +162,7 @@ liquidado_6bim:
 liquidado_6bimf:
     byte: 11
     start: 162
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 pago_1bim:
     byte: 11
@@ -172,7 +172,7 @@ pago_1bim:
 pago_1bimf:
     byte: 11
     start: 173
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 pago_2bim:
     byte: 11
@@ -182,7 +182,7 @@ pago_2bim:
 pago_2bimf:
     byte: 11
     start: 184
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 pago_3bim:
     byte: 11
@@ -192,7 +192,7 @@ pago_3bim:
 pago_3bimf:
     byte: 11
     start: 195
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 pago_4bim:
     byte: 11
@@ -202,7 +202,7 @@ pago_4bim:
 pago_4bimf:
     byte: 11
     start: 206
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 pago_5bim:
     byte: 11
@@ -212,7 +212,7 @@ pago_5bim:
 pago_5bimf:
     byte: 11
     start: 217
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 pago_6bim:
     byte: 11
@@ -222,7 +222,7 @@ pago_6bim:
 pago_6bimf:
     byte: 11
     start: 228
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 complemento_recurso_vinculado:
     byte: 4

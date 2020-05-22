@@ -22,7 +22,7 @@ valor_movimentacao:
 valor_movimentacaof:
     byte: 13
     start: 25
-    type: float
+    type: string
     transform: "ValorSemSinal,FormataMoeda"
 identificador_ingresso_dispendio:
     byte: 1
