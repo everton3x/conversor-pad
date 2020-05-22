@@ -14,6 +14,11 @@ cnpj_cpf:
     start: 71
     type: string
     transform: "Trim"
+cnpj_cpff:
+    byte: 14
+    start: 71
+    type: string
+    transform: "Trim,FormataCpfCnpj"
 inscricao_estadual:
     byte: 15
     start: 85
