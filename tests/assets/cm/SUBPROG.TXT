@@ -1,8 +1,12 @@
-12292535000162010120203004202008052020CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+12292535000162010120183112201823012019CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+2014000Nao utilizado neste exercicio                                                   
+2014001Nao utilizado neste exercicio                                                   
+2015000Nao utilizado neste exercicio                                                   
+2015001Nao utilizado neste exercicio                                                   
+2016000Nao utilizado neste exercicio                                                   
+2016001Nao utilizado neste exercicio                                                   
+2017000Nao utilizado neste exercicio                                                   
+2017001Nao utilizado neste exercicio                                                   
 2018000Nao utilizado neste exercicio                                                   
 2018001Nao utilizado neste exercicio                                                   
-2019000Nao utilizado neste exercicio                                                   
-2019001Nao utilizado neste exercicio                                                   
-2020000Nao utilizado neste exercicio                                                   
-2020001Nao utilizado neste exercicio                                                   
-FINALIZADOR0000000006                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+FINALIZADOR0000000010                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

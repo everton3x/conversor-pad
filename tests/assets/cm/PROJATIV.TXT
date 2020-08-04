@@ -1,4 +1,404 @@
-12292535000162010120203004202008052020CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+12292535000162010120183112201823012019CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+201400001CONVENIO COM APAE DE INDEPENDENCIA                                              02
+201400002PAGAMENTO DO PISO DO MAGISTERIO                                                 02
+201400003MANUTENCAO DO COFRON - RATEIO                                                   02
+201400004MANUTENCAO DO CISMISSOES - RATEIO                                               02
+201400005CONVENIO PARA URGENCIA E EMERGENCIAS HOSPITALARES                               02
+201400006SERVICO DA DIVIDA PREVIDENCIARIA                                                02
+201400007DEVOLUCAO DE RECURSOS DE CONVENIOS COM UNIAO E ESTADO                           02
+201400008OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS                                          02
+201400009ATENDIMENTO DE PRECATORIOS                                                      02
+201400010ATENDIMENTO A SENTENCAS JUDICIAIS                                               02
+201400011INATIVOS E PENSIONISTAS DO TESOURO MUNICIPAL                                    02
+201400012RESERVA DE CONTINGENCIA                                                         02
+201400013RESERVA DE CONTINGENCIA DO RPPS                                                 02
+201400014PAGAMENTO DE DIFERENCAS DO PISO DO MAGISTERIO 2011                              02
+201400016SERVICO DA DIVIDA CONTRATADA                                                    02
+201400017CONTRIBUICAO CORRENTE PARA CONSEPRO DE INDEPENDENCIA                            02
+201400018CONTRIBUICAO CORRENTE PARA O CORPO DE BOMBEIROS VOLUNTARIOS DE TRES DE MAIO     02
+201400019PARTICIPACAO DO MUNICIPIO NO PROGRAMA ESTADUAL PASSE LIVRE                      02
+201401001CONSTRUCAO DA SEDE PROPRIA DO PODER LEGISLATIVO                                 02
+201401003REFORMA DO PALACIO MUNICIPAL                                                    02
+201401004AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL                                        02
+201401005MELHORIAS NO AMBIENTE DE INFORMATICA                                            02
+201401006AQUISICAO DE VEICULO PARA A SECRETARIA DA FAZENDA                               02
+201401017AQUISICAO DE VEICULO PARA O TRANSPORTE ESCOLA                                   02
+201401022CONSTRUCAO DE PARQUE DE MAQUINAS MUNICIPAL                                      02
+201401023AQUISICAO DE MAQUINAS PESADAS                                                   02
+201401025CONSTRUCAO DE PONTES E PONTILHOES                                               02
+201401026PAVIMENTACAO DE VIAS RURAIS                                                     02
+201401027AQUISICAO DE VEICULOS PARA A SECRETARIA DE SERVICOS URBANOS E TRANSITO          02
+201401028PAVIMENTACAO DE VIAS URBANAS                                                    02
+201401031AMPLIACAO DA REDE DE ILUMINACAO PUBLICA                                         02
+201401036CAPACITACAO DE PESSOAS EM VULNERABILIDADE SOCIAL E MEDIDAS SOCIO-EDUCATIVAS     02
+201401039CONSTRUCAO DE CAPELA MORTUARIA                                                  02
+201401041PARTICIPACAO EM PROJETOS DE HABITACAO POPULAR URBANO                            02
+201401042AQUISICAO DE MAQUINAS PARA A PATRULHA AGRICOLA                                  02
+201401043CONSTRUCAO DE ESPACO PARA FEIRA LIVRE                                           02
+201401044AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL                                        02
+201401045CONSTRUCAO DE UBS COM RECURSOS ESTADUAIS                                        02
+201401046CONSTRUCAO DE UBS COM RECURSOS FEDERAIS                                         02
+201401047AQUISICAO DE VEICULO PRA A SECRETARIA DE AGRICULTURA E ABASTECIMENTO            02
+201401048PARTICIPACAO NO PROGRAMA FEDERAL MAIS MEDICOS                                   02
+201401049AMPLIACAO E REFORMA DA QUADRA DE ESPORTES DA PRACA JOAO SAFFI                   02
+201401050REVITALIZACAO DA PRACA JOAO SAFFI                                               02
+201401051AMPLIACAO DA ESCOLA LAR DA CRIANCA                                              02
+201401052CERCAMENTO DA ESCOLA GETULIO VARGAS                                             02
+201402001MANUTENCAO DAS ATIVIDADES PARLAMENTARES                                         02
+201402002MANUTENCAO DAS ATIVIDADES DE APOIO DA CAMARA                                    02
+201402003MANUTENCAO DO GABINETE DO PREFEITO                                              02
+201402004MANUTENCAO DO PALACIO MUNICIPAL                                                 02
+201402005MANUTENCAO DO CONSELHO TUTELAR                                                  02
+201402006MANUTENCAO DE CONSELHOS MUNICIPAIS                                              02
+201402007MANUTENCAO DAS ASSESSORIAS E CONSULTORIAS                                       02
+201402008MANUTENCAO DO CONTROLE INTERNO                                                  02
+201402009MANUTENCAO DA SECRETARIA DE ADMINISTRACAO                                       02
+201402010MANUTENCAO DA SECRETARIA DA FAZENDA                                             02
+201402011MANUTENCAO DA SECRETARIA DE EDUCACAO                                            02
+201402012TREINAMENTO E APERFEICOAMENTO DE PROFESSORES                                    02
+201402013MANUTENCAO DA ALIMENTACAO DO ENSINO FUNDAMENTAL                                 02
+201402014MANUTENCAO DO ENSINO FUNDAMENTAL                                                02
+201402015MANUTENCAO DO APOIO AO ENSINO FUNDAMENTAL                                       02
+201402016MANUTENCAO DA ALIMENTACAO DA EDUCACAO INFANTIL                                  02
+201402017MANUTENCAO DA EDUCACAO INFANTIL                                                 02
+201402018MANUTENCAO DO APOIO A EDUCACAO INFANTIL                                         02
+201402019MANUTENCAO DO TRANSPORTE ESCOLAR                                                02
+201402020PARTICIPACAO EM COMEMORACOES CIVICAS E POPULARES                                02
+201402021MANUTENCAO DE ESPACOS CULTURAIS                                                 02
+201402022INCENTIVO E PROMOCAO DO TURISMO                                                 02
+201402023INCENTIVO AO DESPORTO MUNICIPAL                                                 02
+201402024MANUTENCAO DA SECRETARIA DE OBRAS E VIACAO                                      02
+201402025MANUTENCAO DE PONTES E PONTILHOES                                               02
+201402026MANUTENCAO DE ACESSOS AS PROPRIEDADES RURAIS                                    02
+201402027MANUTENCAO DE ESTRADAS                                                          02
+201402028MANUTENCAO DA SECRETARIA DE SERVICOS URBANOS                                    02
+201402029MANUTENCAO DAS VIAS URBANAS                                                     02
+201402031MELHORIA DA ACESSIBILIDADE URBANA                                               02
+201402032MANUTENCAO DA ILUMINACAO PUBLICA                                                02
+201402034MANUTENCAO DA COLETA DE RESIDUOS URBANOS                                        02
+201402035MANUTENCAO DA LIMPEZA URBANA                                                    02
+201402036MANUTENCAO DO CIGRES - RATEIO                                                   02
+201402037MANTER O SISTEMA DE TRANSITO MUNICIPAL                                          02
+201402038MANUTENCAO DA SECRETARIA DE SAUDE                                               02
+201402039PACS - PROGRAMA DE AGENTES COMUNITARIOS DE SAUDE                                02
+201402040PSF - PROGRAMA DE SAUDE DA FAMILIA                                              02
+201402041MANUTENCAO DE ACOES DE SAUDE MENTAL                                             02
+201402042PROGRAMA DE SAUDE DA MULHER                                                     02
+201402043PROGRAMA DE SAUDE BUCAL                                                         02
+201402044MANUTENCAO DA ASSISTENCIA FARMACEUTICA                                          02
+201402045MANUTENCAO DO HOSPITAL MUNICIPAL                                                02
+201402046CONSULTAS E EXAMES NA REDE SUPLEMENTAR DE SAUDE                                 02
+201402047MANUTENCAO DO TRANSPORTE DA SAUDE                                               02
+201402048PIM - PROGRAMA PRIMEIRA INFANCIA MELHOR                                         02
+201402049MANUTENCAO DA VIGILANCIA SANITARIA                                              02
+201402050MANUTENCAO DO PROJETO ATIVIDADE FISICA                                          02
+201402051MANUTENCAO DO PROJETO PRO-ADOLESCENTE                                           02
+201402052MANUTENCAO DA VIGILANCIA EPIDEMIOLOGICA                                         02
+201402053MANUTENCAO DA SECRETARIA DE ASSISTENCIA SOCIAL                                  02
+201402054MANUTENCAO DO CENTRO DE AMPARO AO IDOSO                                         02
+201402055MANUTENCAO DOS GRUPOS DE CONVIVENCIA ENTRE IDOSOS                               02
+201402056MANUTENCAO DO ATENDIMENTO SOCIAL AO PORTADOR DE DEFICIENCIA                     02
+201402057MANTER AS ACOES VOLTADAS PARA CRIANCAS E ADOLESCENTES                           02
+201402058MANUTENCAO DO PROJETO FAMILIA ACOLHEDORA                                        02
+201402059FORNECIMENTO DE BENEFICIOS EVENTUAIS                                            02
+201402060MANUTENCAO DA CAPELA MORTUARIA                                                  02
+201402062PROGRAMA DE ASSISTENCIA AS FAMILIAS                                             02
+201402064MANUTENCAO DA SECRETARIA DE AGRICULTURA                                         02
+201402065TREINAMENTO E APERFEICOAMENTO DO PRODUTOR RURAL                                 02
+201402066MANUTENCAO DE ACOES DE INCENTIVO A FRUTICULTURA                                 02
+201402067MANUTENCAO DO SISTEMA TROCA-TROCA                                               02
+201402068INCENTIVO A PRODUCAO LEITEIRA                                                   02
+201402069PROGRAMA DE INCENTIVO A PRODUCAO ANIMA                                          02
+201402070MANUTENCAO DE ACOES PARA CORRECAO DO SOLO                                       02
+201402071MANUTENCAO DA INFRAESTRUTURA BASICA DO CAMPO                                    02
+201402072MANUTENCAO DO APOIO A AGROINDUSTRIA                                             02
+201402073INCENTIVO A PRODUCAO IRRIGADA                                                   02
+201402074INFRAESTRUTURA DA AREA INDUSTRIAL                                               02
+201402075PARTICIPACAO NA FEIRA MUNICIPAL                                                 02
+201402076INCENTIVAR E PROMOVER O COMERCIO LOCAL                                          02
+201402077MANUTENCAO DO ABASTECIMENTO DE AGUA RURAL                                       02
+201402078MINIMIZACAO DE EFEITOS DE VENDAVAIS E ENCHENTES                                 02
+201402079MINIMIZACAO DE EFEITOS DE ESTIAGENS                                             02
+201402080MANUTENCAO DO PROGRAMA DE PRESERVACAO AMBIENTAL                                 02
+201402081MANUTENCAO DO SETOR DE MEIO AMBIENTE                                            02
+201402082MANUTENCAO DE ACOES DE REFLORESTAMENTO                                          02
+201402083MANUTENCAO DO CONSELHO ADMINISTRATIVO DO RPPS                                   02
+201402084MANUTENCAO DE OUTROS BENEFICIOS PREVIDENCIARIOS                                 02
+201402085BENEFICIOS DE APOSENTADORIA E PENSAO                                            02
+201402087MANUTENCAO DO TRANSPORTE COLETIVO                                               02
+201402088FORNECIMENTO DE PROTESES DENTARIAS                                              02
+201402089MANUTENCAO DA UPA E SAMU - RATEIO                                               02
+201402090PROPORCIONAR TRANSPORTE AOS TRABALHADORES                                       02
+201500001CONVENIO COM APAE DE INDEPENDENCIA                                              02
+201500003MANUTENCAO DO COFRON - RATEIO                                                   02
+201500004MANUTENCAO DO CISMISSOES - RATEIO                                               02
+201500006SERVICO DA DIVIDA PREVIDENCIARIA                                                02
+201500007DEVOLUCAO DE RECURSOS DE CONVENIOS COM UNIAO E ESTADO                           02
+201500008OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS                                          02
+201500009ATENDIMENTO DE PRECATORIOS                                                      02
+201500010ATENDIMENTO A SENTENCAS JUDICIAIS                                               02
+201500011INATIVOS E PENSIONISTAS DO TESOURO MUNICIPAL                                    02
+201500012RESERVA DE CONTINGENCIA                                                         02
+201500013RESERVA DE CONTINGENCIA DO RPPS                                                 02
+201500014PAGAMENTO DE DIFERENCAS DO PISO DO MAGISTERIO 2011                              02
+201500016SERVICO DA DIVIDA CONTRATADA                                                    02
+201500017CONVENIO COM CONSEPRO DE INDEPENDENCIA                                          02
+201500018CONVENIO COM CORPO DE BOMBEIROS VOLUNTARIOS DE TRES DE MAIO                     02
+201500019PARTICIPACAO DO MUNICIPIO NO PROGRAMA ESTADUAL PASSE LIVRE                      02
+201500020MANUTENCAO DO CIGRES - RATEIO                                                   02
+201500021AMORTIZACAO DO PASSIVO ATUARIAL                                                 02
+201501001CONSTRUCAO DA SEDE PROPRIA DO PODER LEGISLATIVO                                 02
+201501003REFORMA DO PALACIO MUNICIPAL                                                    02
+201501004AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL                                        02
+201501005MELHORIAS NO AMBIENTE DE INFORMATICA                                            02
+201501006AQUISICAO DE VEICULO PARA A SECRETARIA DA FAZENDA                               02
+201501017AQUISICAO DE VEICULO PARA O TRANSPORTE ESCOLA                                   02
+201501022CONSTRUCAO DE PARQUE DE MAQUINAS MUNICIPAL                                      02
+201501023AQUISICAO DE MAQUINAS PESADAS                                                   02
+201501025CONSTRUCAO DE PONTES E PONTILHOES                                               02
+201501026PAVIMENTACAO DE VIAS RURAIS                                                     02
+201501027AQUISICAO DE VEICULOS PARA A SECRETARIA DE SERVICOS URBANOS E TRANSITO          02
+201501028PAVIMENTACAO DE VIAS URBANAS                                                    02
+201501031AMPLIACAO DA REDE DE ILUMINACAO PUBLICA                                         02
+201501036CAPACITACAO DE PESSOAS EM VULNERABILIDADE SOCIAL E MEDIDAS SOCIO-EDUCATIVAS     02
+201501039CONSTRUCAO DE CAPELA MORTUARIA                                                  02
+201501041PARTICIPACAO EM PROJETOS DE HABITACAO POPULAR URBANO                            02
+201501042AQUISICAO DE MAQUINAS PARA A PATRULHA AGRICOLA                                  02
+201501043CONSTRUCAO DE ESPACO PARA FEIRA LIVRE                                           02
+201501044AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL                                        02
+201501045CONSTRUCAO DE UBS COM RECURSOS ESTADUAIS                                        02
+201501046CONSTRUCAO DE UBS COM RECURSOS FEDERAIS                                         02
+201501047AQUISICAO DE VEICULO PRA A SECRETARIA DE AGRICULTURA E ABASTECIMENTO            02
+201501048PARTICIPACAO NO PROGRAMA FEDERAL MAIS MEDICOS                                   02
+201501049AMPLIACAO E REFORMA DA QUADRA DE ESPORTES DA PRACA JOAO SAFFI                   02
+201501050REVITALIZACAO DA PRACA JOAO SAFFI                                               02
+201501051AMPLIACAO DA ESCOLA LAR DA CRIANCA                                              02
+201501052AQUISICAO DE VEICULO PARA A ASSISTENCIA SOCIAL                                  02
+201501053CERCAMENTO DA ESCOLA GETULIO VARGAS                                             02
+201501054MODERNIZACAO E ADEQUACAO TECNOLOGICA DE UBS (E-SUS)                             02
+201501055PARTICIPACAO NO PROGRAMA PRO-LEITE NOROESTE DA FUNCAP                           02
+201501056INFRAESTRUTURA DA AREA INDUSTRIAL COM RECURSOS DO BADESUL                       02
+201501057PROJETO DE COMBATE AO RASCISMO NA REDE PUBLICA DE SAUDE                         02
+201502001MANUTENCAO DAS ATIVIDADES PARLAMENTARES                                         02
+201502002MANUTENCAO DAS ATIVIDADES DE APOIO DA CAMARA                                    02
+201502003MANUTENCAO DO GABINETE DO PREFEITO                                              02
+201502004MANUTENCAO DO PALACIO MUNICIPAL                                                 02
+201502005MANUTENCAO DO CONSELHO TUTELAR                                                  02
+201502006MANUTENCAO DE CONSELHOS MUNICIPAIS                                              02
+201502007MANUTENCAO DAS ASSESSORIAS E CONSULTORIAS                                       02
+201502008MANUTENCAO DO CONTROLE INTERNO                                                  02
+201502009MANUTENCAO DA SECRETARIA DE ADMINISTRACAO                                       02
+201502010MANUTENCAO DA SECRETARIA DA FAZENDA                                             02
+201502011MANUTENCAO DA SECRETARIA DE EDUCACAO                                            02
+201502012TREINAMENTO E APERFEICOAMENTO DE PROFESSORES                                    02
+201502013MANUTENCAO DA ALIMENTACAO DO ENSINO FUNDAMENTAL                                 02
+201502014MANUTENCAO DO ENSINO FUNDAMENTAL                                                02
+201502016MANUTENCAO DA ALIMENTACAO DA EDUCACAO INFANTIL                                  02
+201502017MANUTENCAO DA EDUCACAO INFANTIL                                                 02
+201502019MANUTENCAO DO TRANSPORTE ESCOLAR                                                02
+201502020PROMOCAO DE EVENTOS CULTURAIS E COMEMORATIVOS                                   02
+201502021MANUTENCAO DE ESPACOS CULTURAIS                                                 02
+201502022INCENTIVO E PROMOCAO DO TURISMO                                                 02
+201502023INCENTIVO AO DESPORTO MUNICIPAL                                                 02
+201502024MANUTENCAO DA SECRETARIA DE OBRAS E VIACAO                                      02
+201502026MANUTENCAO DE ACESSOS AS PROPRIEDADES RURAIS                                    02
+201502027MANUTENCAO DE ESTRADAS                                                          02
+201502028MANUTENCAO DA SECRETARIA DE SERVICOS URBANOS                                    02
+201502029MANUTENCAO DAS VIAS URBANAS                                                     02
+201502031MELHORIA DA ACESSIBILIDADE URBANA                                               02
+201502032MANUTENCAO DA ILUMINACAO PUBLICA                                                02
+201502035MANUTENCAO DA LIMPEZA URBANA E COLETA DE LIXO                                   02
+201502037MANTER O SISTEMA DE TRANSITO MUNICIPAL                                          02
+201502038MANUTENCAO DA SECRETARIA DE SAUDE                                               02
+201502039PACS - PROGRAMA DE AGENTES COMUNITARIOS DE SAUDE                                02
+201502040PSF - PROGRAMA DE SAUDE DA FAMILIA                                              02
+201502041MANUTENCAO DE ACOES DE SAUDE MENTAL                                             02
+201502042PROGRAMA DE SAUDE DA MULHER                                                     02
+201502043PROGRAMA DE SAUDE BUCAL                                                         02
+201502044MANUTENCAO DA ASSISTENCIA FARMACEUTICA                                          02
+201502045MANUTENCAO DO SERVICO DE URGENCIA E EMERGENCIA                                  02
+201502046CONSULTAS E EXAMES NA REDE SUPLEMENTAR DE SAUDE                                 02
+201502047MANUTENCAO DO TRANSPORTE DA SAUDE                                               02
+201502048PIM - PROGRAMA PRIMEIRA INFANCIA MELHOR                                         02
+201502049MANUTENCAO DA VIGILANCIA SANITARIA                                              02
+201502050MANUTENCAO DO PROJETO ATIVIDADE FISICA                                          02
+201502051MANUTENCAO DO PROJETO PRO-ADOLESCENTE                                           02
+201502052MANUTENCAO DA VIGILANCIA EPIDEMIOLOGICA                                         02
+201502053MANUTENCAO DA SECRETARIA DE ASSISTENCIA SOCIAL                                  02
+201502054MANUTENCAO DO CENTRO DE AMPARO AO IDOSO                                         02
+201502055MANUTENCAO ACOES VOLTADAS AOS IDOSOS                                            02
+201502056MANUTENCAO DO ATENDIMENTO SOCIAL AO PORTADOR DE DEFICIENCIA                     02
+201502057MANTER AS ACOES VOLTADAS PARA CRIANCAS E ADOLESCENTES                           02
+201502058MANUTENCAO DO PROJETO FAMILIA ACOLHEDORA                                        02
+201502059FORNECIMENTO DE BENEFICIOS EVENTUAIS                                            02
+201502060MANUTENCAO DA CAPELA MORTUARIA                                                  02
+201502062PROGRAMA DE ASSISTENCIA AS FAMILIAS                                             02
+201502064MANUTENCAO DA SECRETARIA DE AGRICULTURA                                         02
+201502065TREINAMENTO E APERFEICOAMENTO DO PRODUTOR RURAL                                 02
+201502066MANUTENCAO DE ACOES DE INCENTIVO A FRUTICULTURA                                 02
+201502067MANUTENCAO DO SISTEMA TROCA-TROCA                                               02
+201502068INCENTIVO A PRODUCAO LEITEIRA                                                   02
+201502069PROGRAMA DE INCENTIVO A PRODUCAO ANIMA                                          02
+201502070MANUTENCAO DE ACOES PARA CORRECAO DO SOLO                                       02
+201502071MANUTENCAO DA INFRAESTRUTURA BASICA DO CAMPO                                    02
+201502072MANUTENCAO DO APOIO A AGROINDUSTRIA                                             02
+201502073INCENTIVO A PRODUCAO IRRIGADA                                                   02
+201502074INFRAESTRUTURA DA AREA INDUSTRIAL                                               02
+201502075PARTICIPACAO NA FEIRA MUNICIPAL                                                 02
+201502076INCENTIVAR E PROMOVER O COMERCIO LOCAL                                          02
+201502077MANUTENCAO DO ABASTECIMENTO DE AGUA RURAL                                       02
+201502078MINIMIZACAO DE EFEITOS DE VENDAVAIS E ENCHENTES                                 02
+201502079MINIMIZACAO DE EFEITOS DE ESTIAGENS                                             02
+201502080MANUTENCAO DO PROGRAMA DE PRESERVACAO AMBIENTAL                                 02
+201502081MANUTENCAO DO SETOR DE MEIO AMBIENTE                                            02
+201502082MANUTENCAO DE ACOES DE REFLORESTAMENTO                                          02
+201502083MANUTENCAO DO CONSELHO ADMINISTRATIVO DO RPPS                                   02
+201502084MANUTENCAO DE OUTROS BENEFICIOS PREVIDENCIARIOS                                 02
+201502085BENEFICIOS DE APOSENTADORIA E PENSAO                                            02
+201502087MANUTENCAO DO TRANSPORTE COLETIVO                                               02
+201502088FORNECIMENTO DE PROTESES DENTARIAS                                              02
+201502089MANUTENCAO DA UPA E SAMU - RATEIO                                               02
+201502091MANUTENCAO DAS ATIVIDADES DE COMUNICACAO E ACESSO A INFORMACAO                  02
+201502092PARTICIPACAO EM ASSOCIACOES E CONFEDERACOES                                     02
+201502093MANUTENCAO DA JUNTA DO SERVICO MILITAR                                          02
+201502094MANUTENCAO DOS SERVICOS FUNERARIOS                                              02
+201600003MANUTENCAO DO COFRON - RATEIO                                                   02
+201600006SERVICO DA DIVIDA PREVIDENCIARIA                                                02
+201600007DEVOLUCAO DE RECURSOS DE CONVENIOS COM A UNIAO E O ESTADO                       02
+201600008OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS                                          02
+201600010ATENDIMENTO DE SENTENCAS JUDICIAIS                                              02
+201600011INATIVOS E PENSIONISTAS DO TESOURO MUNICIPAL                                    02
+201600012RESERVA DE CONTINGENCIA                                                         02
+201600013RESERVA DE CONTINGENCIA DO RPPS                                                 02
+201600020MANUTENCAO DO CIGRES - RATEIO                                                   02
+201600021AMORTIZACAO DO PASSIVO ATUARIAL                                                 02
+201600089MANUTENCAO DA UPA E SAMU - RATEIO                                               02
+201600096ATENDIMENTO EDUCACIONAL AS CRIANCAS COM NECESSIDADES ESPECIAIS                  02
+201600097AUXILIO PARA APAE DE INDEPENDENCIA DESENVOLVER O PROJETO FAZENDO ARTE           02
+201601003REFORMA DO PALACIO MUNICIPAL                                                    02
+201601005MELHORIA E AMPLIACAO DO AMBIENTE DE TIC                                         02
+201601028PAVIMENTACAO DE VIAS URBANAS                                                    02
+201601036CAPACITACAO DE PESSOAS EM VULNERABILIDADE E EM MEDIDA SOCIOEDUCATIVA            02
+201601041PARTICIPACAO EM PROJETOS DE HABITACAO POPULAR URBANA                            02
+201601042AQUISICAO DE MAQUINAS PARA A PATRULHA AGRICOLA                                  02
+201601046CONSTRUCAO DE UBS COM RECURSOS FEDERAIS                                         02
+201601048PARTICIPACAO NO PROGRAMA FEDERAL MAIS MEDICOS                                   02
+201601049AMPLIACAO E REFORMA DA QUADRA DE ESPORTES DA PRACA JOAO SAFFI                   02
+201601050REVITALIZACAO DA PRACA JOAO SAFFI                                               02
+201601056INFRAESTRUTURA DA AREA INDUSTRIAL COM RECURSOS DO BADESUL                       02
+201601057PROJETO DE COMBATE AO RASCISMO NA REDE PUBLICA DE SAUDE                         02
+201601058ESTRUTURACAO DAS UBS MUNICIPAIS                                                 02
+201601059INFRAESTRUTURA NO BAIRRO SAO JOSE II                                            02
+201601060PAVIMENTACAO CONVENIO 829118 MINISTERIO DAS CIDADES                             02
+201602001MANUTENCAO DAS ATIVIDADES PARLAMENTARES                                         02
+201602002MANUTENCAO DAS ATIVIDADES DE APOIO DA CAMARA                                    02
+201602003MANUTENCAO DO GABINETE DO PREFEITO E VICE-PREFEITO                              02
+201602004MANUTENCAO DO PALACIO MUNICIPAL                                                 02
+201602005MANUTENCAO DO CONSELHO TUTELAR                                                  02
+201602006MANUTENCAO DE CONSELHOS MUNICIPAIS                                              02
+201602007MANUTENCAO DE ASSESSORIAS E CONSULTORIAS                                        02
+201602008MANUTENCAO DO CONTROLE INTERNO                                                  02
+201602009MANUTENCAO DA SECRETARIA DE ADMINISTRACAO                                       02
+201602010MANUTENCAO DA SECRETARIA DA FAZENDA                                             02
+201602011MANUTENCAO DA SECRETARIA DE EDUCACAO                                            02
+201602012TREINAMENTO E APERFEICOAMENTO DE PROFESSORES                                    02
+201602013MANUTENCAO DA ALIMENTACAO DO ENSINO FUNDAMENTAL                                 02
+201602014MANUTENCAO DO ENSINO FUNDAMENTAL                                                02
+201602016MANUTENCAO DA ALIMENTACAO DA EDUCACAO INFANTIL                                  02
+201602017MANUTENCAO DA EDUCACAO INFANTIL                                                 02
+201602019MANUTENCAO DO TRANSPORTE ESCOLAR                                                02
+201602020PARTICIPACAO EM COMEMORACOES CIVICAS E POPULARES                                02
+201602021MANUTENCAO DE ESPACOS CULTURAIS                                                 02
+201602023INCENTIVO AO DESPORTO COMUNITARIO                                               02
+201602024MANUTENCAO DA SECRETARIA DE OBRAS E VIACAO                                      02
+201602027MANUTENCAO DE ESTRADAS                                                          02
+201602028MANUTENCAO DA SECRETARIA DE SERVICOS URBANOS E TRANSITO                         02
+201602029MANUTENCAO DE VIAS URBANAS                                                      02
+201602032MANUTENCAO DA ILUMINACAO PUBLICA                                                02
+201602035MANUTENCAO DA LIMPEZA URBANA E COLETA DE LIXO                                   02
+201602037MANUTENCAO O SISTEMA DE TRANSITO MUNICIPAL                                      02
+201602038MANUTENCAO DA SECRETARIA DE SAUDE                                               02
+201602039MANUTENCAO DO PACS                                                              02
+201602040MANUTENCAO DO PSF                                                               02
+201602043MANUTENCAO DO PROGRAMA DE SAUDE BUCAL                                           02
+201602044MANUTENCAO DA ASSISTENCIA FARMACEUTICA                                          02
+201602045MANUTENCAO DO SERVICO DE URGENCIA E EMERGENCIA                                  02
+201602046ATENDIMENTO DA REDE SUPLEMENTAR DE SAUDE                                        02
+201602047MANUTENCAO DO TRANSPORTE DA SAUDE                                               02
+201602048MANUTENCAO DO PIM                                                               02
+201602049MANUTENCAO DA VIGILANCIA SANITARIA                                              02
+201602050MANUTENCAO DO PROJETO DE ATIVIDADE FISICA                                       02
+201602051MANUTENCAO DO PROJETO PRO-ADOLESCENTE                                           02
+201602052MANUTENCAO DA VIGILANCIA EPIDEMIOLOGICA                                         02
+201602053MANUTENCAO DA SECRETARIA DE ASSISTENCIA SOCIAL                                  02
+201602054MANUTENCAO DO CENTRO DE AMPARO AO IDOSO                                         02
+201602055MANUTENCAO DAS ACOES VOLTADAS AOS IDOSOS                                        02
+201602056MANUTENCAO DO ATENDIMENTO SOCIAL A PORTADORES DE DEFICIENCIA                    02
+201602057MANTER AS ACOES VOLTADAS PARA CRIANCAS E ADOLESCENTES                           02
+201602059FORNECIMENTO DE BENEFICIOS EVENTUAIS                                            02
+201602062MANUTENCAO DA ASSISTENCIA AS FAMILIAS                                           02
+201602064MANUTENCAO DA SECRETARIA DE AGRICULTURA                                         02
+201602065TREINAMENTO E APERFEICOAMENTO DO PRODUTOR RURAL                                 02
+201602066INCENTIVO A FRUTICULTURA                                                        02
+201602067MANUTENCAO DO SISTEMA TROCA-TROCA                                               02
+201602068INCENTIVO A PRODUCAO LEITEIRA                                                   02
+201602069INCENTIVO A PRODUCAO ANIMAL                                                     02
+201602070MANUTENCAO DE ACOES DE CORRECAO DO SOLO                                         02
+201602071MANUTENCAO DA INFRAESTRUTURA BASICA DO CAMPO                                    02
+201602072APOIO A AGROINDUSTRIA                                                           02
+201602073INCENTIVO A PRODUCAO IRRIGADA                                                   02
+201602076INCENTIVAR E PROMOVER O COMERCIO LOCAL                                          02
+201602077MANUTENCAO DO ABASTECIMENTO DE AGUA RURAL                                       02
+201602078PREVENIR E MINIMIZAR EFEITOS DE VENDAVAIS E ENCHENTES                           02
+201602079PREVENIR E MINIMIZAR EFEITOS DE ESTIAGENS                                       02
+201602080MANUTENCAO DO PROGRAMA DE PRESERVACAO AMBIENTAL                                 02
+201602081MANUTENCAO DO SETOR DE MEIO AMBIENTE                                            02
+201602082MANUTENCAO DE ACOES DE REFLORESTAMENTO                                          02
+201602083MANUTENCAO DO CONSELHO ADMINISTRATIVO DO RPPS                                   02
+201602084MANUTENCAO DE BENEFICIOS ASSISTENCIAIS                                          02
+201602085MANUTENCAO DE INATIVOS DO RPPS                                                  02
+201602087MANUTENCAO DO TRANSPORTE COLETIVO                                               02
+201602088FORNECIMENTO DE PROTESES DENTARIAS                                              02
+201602091MANUTENCAO DAS ATIVIDADES DE COMUNICACAO E ACESSO A INFORMACAO                  02
+201602092PARTICIPACAO EM ASSOCIACOES E CONFEDERACOES                                     02
+201602093MANUTENCAO DA JUNTA DO SERVICO MILITAR                                          02
+201602094MANUTENCAO DOS SERVICOS FUNERARIOS                                              02
+201602095MANUTENCAO DOS SERVICOS DE ENGENHARIA                                           02
+201602096MANUTENCAO DE ESPACOS PUBLICOS                                                  02
+201702056MANUTENCAO DO ATENDIMENTO SOCIAL A PORTADORES DE DEFICIENCIA                    02
+201702057MANTER AS ACOES VOLTADAS PARA CRIANCAS E ADOLESCENTES                           02
+201702059FORNECIMENTO DE BENEFICIOS EVENTUAIS                                            02
+201702062MANUTENCAO DA ASSISTENCIA AS FAMILIAS                                           02
+201702063MANUTENCAO DAS ACOES DE APOIO A MULHER                                          02
+201702064MANUTENCAO DA SECRETARIA DE AGRICULTURA                                         02
+201702065TREINAMENTO E APERFEICOAMENTO DO PRODUTOR RURAL                                 02
+201702066INCENTIVO A FRUTICULTURA                                                        02
+201702067MANUTENCAO DO SISTEMA TROCA-TROCA                                               02
+201702068INCENTIVO A PRODUCAO LEITEIRA                                                   02
+201702069INCENTIVO A PRODUCAO ANIMAL                                                     02
+201702070MANUTENCAO DE ACOES DE CORRECAO DO SOLO                                         02
+201702071MANUTENCAO DA INFRAESTRUTURA BASICA DO CAMPO                                    02
+201702072APOIO A AGROINDUSTRIA                                                           02
+201702073INCENTIVO A PRODUCAO IRRIGADA                                                   02
+201702076INCENTIVAR E PROMOVER O COMERCIO LOCAL                                          02
+201702077MANUTENCAO DO ABASTECIMENTO DE AGUA RURAL                                       02
+201702078PREVENIR E MINIMIZAR EFEITOS DE VENDAVAIS E ENCHENTES                           02
+201702079PREVENIR E MINIMIZAR EFEITOS DE ESTIAGENS                                       02
+201702080MANUTENCAO DO PROGRAMA DE PRESERVACAO AMBIENTAL                                 02
+201702081MANUTENCAO DO SETOR DE MEIO AMBIENTE                                            02
+201702082MANUTENCAO DE ACOES DE REFLORESTAMENTO                                          02
+201702083MANUTENCAO DO CONSELHO ADMINISTRATIVO DO RPPS                                   02
+201702084MANUTENCAO DE BENEFICIOS ASSISTENCIAIS                                          02
+201702085MANUTENCAO DE INATIVOS DO RPPS                                                  02
+201702087MANUTENCAO DO TRANSPORTE COLETIVO                                               02
+201702088FORNECIMENTO DE PROTESES DENTARIAS                                              02
+201702091MANUTENCAO DAS ATIVIDADES DE COMUNICACAO E ACESSO A INFORMACAO                  02
+201702092PARTICIPACAO EM ASSOCIACOES E CONFEDERACOES                                     02
+201702093MANUTENCAO DA JUNTA DO SERVICO MILITAR                                          02
+201702094MANUTENCAO DOS SERVICOS FUNERARIOS                                              02
+201702095MANUTENCAO DOS SERVICOS DE ENGENHARIA                                           02
+201702096MANUTENCAO DE ESPACOS PUBLICOS                                                  02
+201702097DISTRIBUICAO DE VALE-LIVROS                                                     02
 201800001MANUTENCAO DO CIGRES                                                            02
 201800002MANUTENCAO DO COFRON                                                            02
 201800003MANUTENCAO DO CISMISSOES - RATEIO                                               02
@@ -185,443 +585,100 @@
 201801084AQUISICAO DE EQUIPAMENTOS PARA PATRULHA AGRICOLA PROP045635/2018SICONV          02
 201801085AQUISICAO DE EQUIPAMENTOS PARA PATRULHA AGRICOLA PROP054169/2018SICONV          02
 201801086INSTALACAO DE BRINQUEDOS EM PRACAS PUBLICAS                                     02
-201900002MANUTENCAO DO COFRON                                                            02
-201900003MANUTENCAO DO CISMISSOES                                                        02
-201900004PARTICIPACAO NO SISTEMA TROCA-TROCA                                             02
-201900005SERVICO DA DIVIDA PREVIDENCIARIA                                                02
-201900006DEVOLUCAO DE RECURSOS DE CONVENIOS                                              02
-201900007OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS                                          02
-201900008ATENDIMENTO A SENTENCAS JUDICIAIS                                               02
-201900009AMORTIZACAO DO PASSIVO ATUARIAL                                                 02
-201900010RESERVA DE CONTINGENCIA                                                         02
-201900011MANUTENCAO DOS INATIVOS DO RPPS                                                 02
-201900012INATIVOS E PENSIONISTAS DO TESOURO MUNICIPAL                                    02
-201900013MANUTENCAO DOS BENEFICIOS ASSISTENCIAIS DO RPPS                                 02
-201900014RESERVA DE CONTINGENCIA DO RPPS                                                 02
-201900015CONTRIBUICAO AO CORPO DE BOMBEIROS VOLUNTARIOS DE TRES DE MAIO                  02
-201900018SUBVENCAO PARA ALUGUEL DE TRYBER                                                02
-201900019AUXILIO-ALIMENTACAO PARA SERVIDORES DA CAMARA                                   02
-201900020AUXILIO-ALIMENTACAO PARA SERVIDORES DO GABINETE DO PREFEITO E VICE-PREFEITO     02
-201900021AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE ADMINISTRACAO              02
-201900022AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DA FAZENDA                    02
-201900023AUXILIO-ALIMENTACAO PARA SERVIDORES DA SMECDT                                   02
-201900024AUXILIO-ALIMENTACAO PARA SERVIDORES DA EDUCACAO                                 02
-201900025AUXILIO-ALIMENTACAO PARA SERVIDORES SECRETARIA DE OBRAS E VIACAO                02
-201900026AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE SERVICOS URBANOS           02
-201900027AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE SAUDE                      02
-201900028AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE ASSISTENCIA SOCIAL         02
-201900029AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO02
-201901003REFORMA DO PALACIO MUNICIPAL                                                    02
-201901004AQUISICAO DE VEICULO PARA A FISCALIZACAO MUNICIPAL                              02
-201901010IMPLANTACAO E MELHORIA DE INFRAESTRUTURA DE INFORMATICA NO ENSINO FUNDAMENTAL   02
-201901015REFORMA DO GINASIO DE ESPORTES DA EMF GETULIO VARGAS                            02
-201901025REFORMA DO MUSEU E BIBLIOTECA MUNICIPAIS                                        02
-201901027AQUISICAO DE VEICULOS PARA O TRANSPORTE ESCOLAR                                 02
-201901029CONSTRUCAO DE PARQUE DE MAQUINAS MUNICIPAL                                      02
-201901031ADAPTACAO DE ESPACOS PUBLICOS PARA MAIOR ACESSIBILIDADE                         02
-201901032AMPLIACAO DO SISTEMA DE ABASTECIMENTO DE AGUA URBANO                            02
-201901033AMPLIACAO DA REDE DE ESGOTO PLUVIAL                                             02
-201901034AQUISICAO DE CAMINHOES PARA A SECRETARIA DE OBRAS                               02
-201901035PAVIMENTACAO DE VIAS URBANAS                                                    02
-201901036PAVIMENTACAO DE VIAS RURAIS                                                     02
-201901038AQUISICAO DE MAQUINAS PESADAS                                                   02
-201901041AMPLIACAO DA ILUMINACAO PUBLICA                                                 02
-201901044ADAPTACAO DE PREDIO PARA CAPELA MORTUARIA                                       02
-201901051AMPLIACAO DO CENTRO DE AMPARO AO IDOSO (SALAO VERDE)                            02
-201901053AQUISICAO DE EQUIPAMENTOS E MAQUINAS PARA A PATRULHA AGRICOLA                   02
-201901054MELHORIA NA INFRAESTRUTURA DA AREA INDUSTRIAL                                   02
-201901055TROCA DE RESERVATORIOS DE AGUA NOS SISTEMAS RURAIS DE ABASTECIMENTO             02
-201901056AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL NA LOCALIDADE DE COLONIA MEDEIROS      02
-201901057INSTALACAO DE LIXEIRAS PUBLICAS                                                 02
-201901059DEMOLICAO DOS ARMAZENS DA ANTIGA COTAP                                          02
-201901078RECAPEAMENTO ASFALTICO                                                          02
-201901113INTERLIGACAO DAS REDES DE COMUNICACAO DOS SETORES DA PREFEITURA                 02
-201901114REFORMA DO CRAS                                                                 02
-201901115PARTICIPACAO NA CONSTRUCAO DE PONTE EM PONTE QUEIMADA, RINCAO FACCIN E LAJEADO S02
-201901116REFORMA DO PAVILHAO DO SETOR DE OBRAS                                           02
-201901117IMPLANTACAO DE SISTEMA DE MONITORAMENTO E SEGURANCA NO COMPLEXO POLIESPORTIVO AZ02
-201901118REFORMA DAS SALAS DE AULA DA EMEF GETULIO VARGAS                                02
-201901119REFORMA DA REDE ELETRICA DA EMEF GETULIO VARGAS                                 02
-201901120REFORMA DA PRACA PUBLICA DO BAIRRO CIDADE ALTA                                  02
-201901121INSTALACAO DE PISO TATIL NA EMEI LAR DA CRIANCA                                 02
-201901122INSTALACAO DE PISO TATIL NA EMEF GETULIO VARGAS                                 02
-201901123AQUISICAO DE ONIBUS COM ACESSIBILIDADE PARA O TRANSPORTE COLETIVO               02
-201902001MANUTENCAO DAS ATIVIDADES DOS VEREADORES                                        02
-201902002MANUTENCAO DAS ATIVIDADES DE APOIO DA CAMARA                                    02
-201902003MANUTENCAO DO PALACIO MUNICIPAL                                                 02
-201902004MANUTENCAO DO GABINETE DO PREFEITO E VICE-PREFEITO                              02
-201902005PARTICIPACAO EM ASSOCIACOES E CONFEDERACOES                                     02
-201902006MANUTENCAO DAS ASSESSORIAS E CONSULTORIAS                                       02
-201902007MANUTENCAO DOS CONSELHOS MUNICIPAIS                                             02
-201902008MANUTENCAO DO CONTROLE INTERNO                                                  02
-201902009MANUTENCAO DO CONSELHO TUTELAR                                                  02
-201902010MANUTENCAO DA SECRETARIA DE ADMINISTRACAO                                       02
-201902011MANUTENCAO DA INFRAESTRUTURA E SERVICOS DE TI                                   02
-201902012MANUTENCAO DAS ATIVIDADES DE COMUNICACAO E ACESSO A INFORMACAO                  02
-201902013MANUTENCAO DA JUNTA DO SERVICO MILITAR                                          02
-201902014ACOES DE EDUCACAO FISCAL                                                        02
-201902015MANUTENCAO DA SECRETARIA DA FAZENDA                                             02
-201902016MANUTENCAO DA SECRETARIA DE EDUCACAO, CULTURA, DESPORTO E TURISMO               02
-201902017FORMACAO CONTINUADA DO MAGISTERIO                                               02
-201902018MANUTENCAO DAS ATIVIDADES DE APOIO AO ENSINO FUNDAMENTAL                        02
-201902019MANUTENCAO DO ENSINO FUNDAMENTAL                                                02
-201902020FORNECIMENTO DE MERENDA PARA O ENSINO FUNDAMENTAL                               02
-201902021FORNECIMENTO DE MERENDA PARA A EDUCACAO INFANTIL                                02
-201902022MANUTENCAO DAS ATIVIDADES DE APOIO A EDUCACAO INFANTIL                          02
-201902023MANUTENCAO DA EDUCACAO INFANTIL                                                 02
-201902024ATENDIMENTO EDUCACIONAL AOS ALUNOS COM NECESSIDADES ESPECIAIS                   02
-201902025INCENTIVO A ATIVIDADES CULTURAIS                                                02
-201902026MANUTENCAO DE ESPACOS CULTURAIS                                                 02
-201902027PARTICIPACAO E ORGANIZACAO DE COMEMORACOES E EVENTOS PUBLICOS                   02
-201902029MANUTENCAO DE ESPACOS DESPORTIVOS E DE LAZER                                    02
-201902030INCENTIVO AO DESPORTO COMUNITARIO                                               02
-201902031MANUTENCAO DO TRANSPORTE ESCOLAR                                                02
-201902032MANUTENCAO DA SECRETARIA DE OBRAS                                               02
-201902033MANUTENCAO DE REDES DE AGUA URBANAS                                             02
-201902034MANTER A INFRAESTRUTURA DA AREA INDUSTRIAL                                      02
-201902035MANUTENCAO DO TRANSPORTE COLETIVO                                               02
-201902036MANUTENCAO DE PONTES E PONTILHOES                                               02
-201902037MANUTENCAO DE ACESSOS AS PROPRIEDADES RURAIS                                    02
-201902038MANUTENCAO DA SECRETARIA DE SERVICOS URBANOS                                    02
-201902039MELHORIA NA ACESSIBILIDADE URBANA E CONSTRUCAO DE PASSEIOS PUBLICOS             02
-201902040MANUTENCAO DAS VIAS URBANAS                                                     02
-201902041MANUTENCAO DE ESPACOS PUBLICOS                                                  02
-201902042MANUTENCAO DA COLETA DE RESIDUOS SOLIDOS URBANOS                                02
-201902043MANUTENCAO DA LIMPEZA URBANA                                                    02
-201902044MANUTENCAO DOS SERVICOS FUNERARIOS                                              02
-201902045MANUTENCAO DA ILUMINACAO PUBLICA                                                02
-201902046MANUTENCAO DA REDE PLUVIAL URBANA                                               02
-201902047EDUCACAO PARA O TRANSITO SEGURO                                                 02
-201902048MANTER O SISTEMA DE TRANSITO MUNICIPAL                                          02
-201902049MANUTENCAO DA SECRETARIA DE SAUDE                                               02
-201902050MANUTENCAO DOS GRUPOS E OFICINAS DE SAUDE                                       02
-201902051REALIZACAO DE EVENTOS E CONFERENCIAS RELACIONADAS A SAUDE                       02
-201902052MANUTENCAO DO PROJETO DE ATIVIDADE FISICA                                       02
-201902053PROMOCAO E INCENTIVO A DOACAO DE SANGUE                                         02
-201902054INCENTIVOS AO PRE-NATAL, PARTO E ALEITAMENTO MATERNO                            02
-201902055MANUTENCAO DO PMAQ                                                              02
-201902056MANUTENCAO DO PIM                                                               02
-201902057MANUTENCAO DA ASSISTENCIA ODONTOLOGICA                                          02
-201902058MANUTENCAO DO PACS                                                              02
-201902059MANUTENCAO DO PSF                                                               02
-201902060MANUTENCAO DO PROGRAMA DE SAUDE NA ESCOLA                                       02
-201902061MANUTENCAO DO NASF                                                              02
-201902062DISTRIBUICAO DE PROTESES DENTARIAS                                              02
-201902063PARTICIPACAO NA MANUTENCAO DA UPA SANTA ROSA                                    02
-201902064MANUTENCAO DAS CONSULTAS DE MEDIA E ALTA COMPLEXIDADE DA SAUDE                  02
-201902065MANUTENCAO DO ATENDIMENTO DE URGENCIA E EMERGENCIA                              02
-201902066MANUTENCAO DAS INTERNACOES PARA TRATAMENTO MENTAL, ALCOOLISMO E DROGAS          02
-201902067MANUTENCAO DO SAMU SANTA ROSA                                                   02
-201902068FORNECIMENTO DE PROCEDIMENTOS ELETIVOS                                          02
-201902069FORNECIMENTO DE EXAMES ESPECIALIZADOS                                           02
-201902070AQUISICAO DE MEDICAMENTOS E ITENS DE SAUDE DO CISMISSOES                        02
-201902071DISTRIBUICAO DE MEDICAMENTOS E MATERIAL HOSPITALAR PARA USO DOMICILIAR          02
-201902072DISTRIBUICAO DE FRALDAS (GUD)                                                   02
-201902073MANUTENCAO DA VIGILANCIA EM SAUDE                                               02
-201902074MANUTENCAO DO TRANSPORTE DE PACIENTES                                           02
-201902075MANUTENCAO DA SECRETARIA DE ASSISTENCIA SOCIAL                                  02
-201902076MANUTENCAO DAS ATIVIDADES VOLTADAS AOS IDOSOS                                   02
-201902077MANUTENCAO DO CENTRO DE AMPARO AO IDOSO (SALAO VERDE)                           02
-201902078MANUTENCAO DE ACOES AOS PORTADORES DE DEFICIENCIA                               02
-201902079MANUTENCAO DAS ACOES VOLTADAS AS CRIANCAS E ADOLESCENTES                        02
-201902081FORNECIMENTO DE BENEFICIOS EVENTUAIS                                            02
-201902082CAPACITACAO DE PESSOAS EM VULNERABILIDADE SOCIAL E EM MEDIDAS SOCIOEDUCATIVAS   02
-201902083MANUTENCAO DAS ACOES DO PROGRAMA BOLSA FAMILIA                                  02
-201902084MANUTENCAO DO ATENDIMENTO AS FAMILIAS                                           02
-201902085MANUTENCAO DO CRAS                                                              02
-201902086PROMOCAO DE EVENTOS E DATAS COMEMORATIVAS                                       02
-201902087MANUTENCAO DE ACOES DE APOIO A MULHER                                           02
-201902088PARTICIPACAO EM PROJETOS DE HABITACAO RURAL                                     02
-201902089PARTICIPACAO EM PROJETOS DE HABITACAO URBANOS                                   02
-201902090MANUTENCAO DA SECRETARIA DE AGRICULTURA                                         02
-201902091TREINAMENTO E APERFEICOAMENTO DO PRODUTOR RURAL                                 02
-201902092INCENTIVO A PRODUCAO IRRIGADA                                                   02
-201902093MANUTENCAO DO ABATEDOURO MUNICIPAL                                              02
-201902094MANUTENCAO DA INFRAESTRUTURA BASICA DO CAMPO                                    02
-201902095PRESERVACAO E CORRECAO DE SOLO                                                  02
-201902096MELHORIA DO ACESSO A PROPRIEDADES RURAIS                                        02
-201902097INCENTIVO A PRODUCAO LEITEIRA E MELHORIA GENETICA                               02
-201902098MANUTENCAO DA PATRULHA AGRICOLA                                                 02
-201902099INCENTIVO E APOIO AS AGROINDUSTRIAS                                             02
-201902100INCENTIVO E APOIO A DIVERSIFICACAO DA PROPRIEDADE RURAL                         02
-201902101MANUTENCAO DA AREA INDUSTRIAL                                                   02
-201902102INCENTIVAR E PROMOVER O COMERCIO LOCAL                                          02
-201902103MANUTENCAO DO ABASTECIMENTO DE AGUA RURAL                                       02
-201902104PREVENIR E MINIMIZAR EFEITOS DE EVENTOS CLIMATICOS                              02
-201902105MANUTENCAO DAS ACOES DE PRESERVACAO AMBIENTAL                                   02
-201902106MANUTENCAO DE ACOES DE RECUPERACAO AMBIENTAL                                    02
-201902107MANUTENCAO DA ADMINISTRACAO DO RPPS                                             01
-201902111MANUTENCAO DE VIAS RURAIS                                                       02
-201902115MANUTENCAO DO ATENDIMENTO DE FISIOTERAPIA                                       02
 201801087AMPLIACAO E REFORMA DA QUADRA DE ESPORTES DA PRACA JOAO SAFFI SICONV027845/2014 02
-201900030APOIO CULTURAL PARA RADIO COMUNITARIA DE INDEPENDENCIA                          02
-201901124CONCLUSAO DA QUADRA DA PRACA JOAO SAFFI                                         02
-201901125INSTALACAO DE ELEVADOR NO PALACIO MUNICIPAL                                     02
-201901301PAVIMENTACAO PATIO E ESTACIONAMENTO DO PADU - EMENDA IMPOSITIVA 03/18 VER SONIA 02
-201901312REFORMA DO POSTO DE SAUDE DA ESQUINA ARAUJO EMENDA IMPOSITIVA 04/18 VER BRASIL F02
-201901306CONSTRUCAO DE ABRIGO COBERTO PARA VEICULOS DA SAUDE - EMENDA IMPOSITIVA 05/18 VE02
-201901308CONSTRUCAO DE ABRIGO PARA O GERADOR DO PADU - EMENDA IMPOSITIVA 05/18 VER ADILAR02
-201901313PAVIMENTACAO NA COLONIA MEDEIROS EMENDA IMPOSITIVA 06/18 VER FRANCISCO C. DE OLI02
-201901314PAVIMENTACAO DA TRAVESSA EURICO SOARES DE OLIVEIRA EMENDA IMPOSITIVA 07/18 VER A02
-201901315AMPLIACAO DA LARGURA DO CALCAMENTO DA ESQUINA BUDEL EMENDA IMPOSITIVA 08/18 VER 02
-201901316INSTALACAO DE ILUMINACAO PUBLICA NO ACESSO AO BAIRRO SAO JOSE II EMENDA IMPOSITI02
-201900802CONTRIBUICAO PARA O TRANSPORTE DE ALUNOS QUE ESTUDAM EM OUTROS MUNICIPIOS EMENDA02
-201901302PAVIMENTACAO DO PATIO E ESTACIONAMENTO DO PADU EMENDA IMPOSITIVA 12/18 VER PEDRO02
-201901310AJARDINAMENTO DO PADU EMENDA IMPOSITIVA 13/18 VER PEDRO ALEX DE LIMA            02
-201901317PAVIMENTACAO DO ACESSO AO BAIRRO SAO JOSE II EMENDA IMPOSITIVA 14/18 VER PAULO R02
-201901318PAVIMENTACAO DO ACESSO AO BAIRRO SAO JOSE II EMENDA IMPOSITIVA 15/18 VER PEDRO A02
-201901319PAVIMENTACAO DO ACESSO AO BAIRRO SAO JOSE II EMENDA IMPOSITIVA 16/18 VER ANTONIO02
-201901320ENSAIBRAMENTO E BUEIROS NA ESQUINA ARAUJO EMENDA IMPOSITIVA 17/18 VER BRASIL DE 02
-201901321REFORMA DA UBS DE SAO VALENTIM EMENDA IMPOSITIVA 18/18 VER ANTONIO AVELINO FERRE02
-201901307CONSTRUCAO DE ABRIGO COBERTO PARA VEICULOS DA SAUDE EMENDA IMPOSITIVA 19/18 VER 02
-201901309CONSTRUCAO DE ABRIGO PARA O GERADOR DO PADU EMENDA IMPOSITIVA 19/18 VER ANTONIO 02
-201901311AMPLIACAO DA ILUMINACAO PUBLICA NO PATIO DO PADU EMENDA IMOSITIVA 20/18 VER JOAI02
-201901303PAVIMENTACAO DO PATIO E ESTACIONAMENTO DO PADU EMENDA IMPOSITIVA 21/18 VER DIOMA02
-201901305REFORMA DO PADU EMENDA IMPOSITIVA 22/18 VER PAULO RICARDO SARTORI               02
-201901304REFORMA DO PADU EMENDA IMPOSITIVA 23/18 VER FRANCISCO C OLIVEIRA                02
-201900801CONTRIBUICAO PARA O TRANSPORTE DE ALUNOS QUE ESTUDAM EM OUTROS MUNICIPIOS EMENDA02
-201901126AQUISICAO DE EQUIPAMENTOS PARA PATRULHA AGRICOLA PROP045635/2018SICONV          02
-201901127AQUISICAO DE EQUIPAMENTOS PARA PATRULHA AGRICOLA PROP054169/2018SICONV          02
-201901128AQUISICAO DE CLORADORES PARA O ABASTECIMENTO DE AGUA RURAL                      02
-201901129AMPLIACAO DO ESF1                                                               02
-201901080IMPLANTACAO DE ACADEMIA DE SAUDE                                                02
-201901061CONSTRUCAO DE SALAS DE AULA NA EMEI LAR DA CRIANCA                              02
-201901130IMPLEMENTACAO DO QUALIFAR-SUS (INVESTIMENTO) PORT. MS/GM 1.214/2012             02
-201901131IMPLEMENTACAO DO QUALIFAR-SUS (CUSTEIO) PORT. MS/GM 1.214/2012                  02
-201902114DISTRIBUICAO DE VALE-LIVROS                                                     02
-201901072INVESTIMENTOS EM ESF - FNS PROP.11975.8980001/16-001                            02
-201901073INVESTIMENTOS EM ESF - FNS PROP.11975.8980001/15-001                            02
-201901081PARTICIPACAO NA REALIZACAO DA EXPOINDE                                          02
-201901082AMPLIACAO DA REDE DE AGUA NA ESQUINA SALETE                                     02
-201900031SUBVENCAO PARA ALUGUEL AGROMANN                                                 02
-201900017POP PARCERIA COM APAE NO PROJETO FAZENDO ARTE                                   02
-202002001MANUTENCAO DAS ATIVIDADES DOS VEREADORES                                        02
-202002002MANUTENCAO DAS ATIVIDADES DE APOIO DA CAMARA                                    02
-202002116PUBLICIDADE INSTITUCIONAL E DE UTILIDADE PUBLICA                                02
-202000803AUXILIO-ALIMENTACAO PARA SERVIDORES DA CAMARA                                   02
-202002107MANUTENCAO DA ADMINISTRACAO DO RPPS                                             02
-202000011INATIVOS E PENSIONISTAS DO RPPS                                                 02
-202000012INATIVOS E PENSIONISTAS DO TESOURO MUNICIPAL                                    02
-202000013BENEFICIOS ASSISTENCIAIS DO RPPS                                                02
-202002004MANUTENCAO DO GABINETE DO PREFEITO E VICE-PREFEITO                              02
-202000020AUXILIO-ALIMENTACAO PARA SERVIDORES DO GABINETE DO PREFEITO E VICE-PREFEITO     02
-202002005PARTICIPACAO EM ASSOCIACOES E CONFEDERACOES                                     02
-202002006MANUTENCAO DAS ASSESSORIAS E CONSULTORIAS                                       02
-202002007MANUTENCAO DOS CONSELHOS MUNICIPAIS                                             02
-202002008MANUTENCAO DO CONTROLE INTERNO                                                  02
-202002009MANUTENCAO DO CONSELHO TUTELAR                                                  02
-202001003REFORMA DO PALACIO MUNICIPAL                                                    02
-202002003MANUTENCAO DO PALACIO MUNICIPAL                                                 02
-202002010MANUTENCAO DA SECRETARIA DE ADMINISTRACAO                                       02
-202002011MANUTENCAO DA INFRAESTRUTURA E SERVICOS DE TI                                   02
-202002117PUBLICIDADE INSTITUCIONAL E DE UTILIDADE PUBLICA                                02
-202002012MANUTENCAO DAS ATIVIDADES DE COMUNICACAO E ACESSO A INFORMACAO                  02
-202000021AUXILIO-ALIMENTACAO DOS SERVIDORES DA SECRETARIA DE ADMINISTRACAO               02
-202000033APOIO A JUSTICA ELEITORAL                                                       02
-202002013MANUTENCAO DA JUNTA DO SERVICO MILITAR                                          02
-202001125INSTALACAO DE ELEVADOR NO PALACIO MUNICIPAL                                     02
-202002118MANUTENCAO DA ADMINISTRACAO TRIBUTARIA                                          02
-202002014ACOES DE EDUCACAO FISCAL                                                        02
-202002015MANUTENCAO DA SECRETARIA DA FAZENDA                                             02
-202000022AUXILIO-ALIMENTACAO PARA OS SERVIDORES DA SEFAZ                                 02
-202002016MANUTENCAO DA SECRETARIA DE EDUCACAO, CULTURA, DESPORTO E TURISMO               02
-202000023AUXILIO-ALIMENTACAO PARA SERVIDORES DE SMECDT                                   02
-202002017FORMACAO CONTINUADA DO MAGISTERIO                                               02
-202000024AUXILIO-ALIMENTACAO PARA SERVIDORES DA EDUCACAO                                 02
-202001010IMPLANTACAO E MELHORIA DE INFRAESTRUTURA DE INFORMATICA NO ENSINO FUNDAMENTAL   02
-202001015REFORMA DO GINASIO DE ESPORTES DA EMEF GETULIO VARGAS                           02
-202001118REFORMA DAS SALAS DE AULA DA EMEF GETULIO VARGAS                                02
-202001122INSTALACAO DE PISO TATIL NA EMEF GETULIO VARGAS                                 02
-202002019MANUTENCAO DO ENSINO FUNDAMENTAL                                                02
-202002119REMUNERACAO DO MAGISTERIO DO ENSINO FUNDAMENTAL                                 02
-202002020FORNECIMENTO DE MERENDA PARA O ENSINO FUNDAMENTAL                               02
-202001061CONSTRUCAO DE SALAS DE AULA NA EMEI LAR DA CRIANCA                              02
-202001121INSTALACAO DE PISO TATIL NA EMEI LAR DA CRIANCA                                 02
-202002021FORNECIMENTO DE MERANDA PARA A EDUCACAO INFANTIL                                02
-202002023MANUTENCAO DA EDUCACAO INFANTIL                                                 02
-202002120REMUNERACAO DO MAGISTERIO DA EDUCACAO INFANTIL                                  02
-202002024ATENDIMENTO EDUCACIONAL AOS ALUNOS COM NECESSIDADES ESPECIAIS                   02
-202000030APOIO CULTURAL PARA RADIO COMUNITARIA DE INDEPENDENCIA                          02
-202002025INCENTIVO A ATIVIDADES CULTURAIS                                                02
-202002026MANUTENCAO DE ESPACOS CULTURAIS                                                 02
-202002027PARTICIPACAO E ORGANIZACAO DE COMEMORACOES E EVENTOS PUBLICOS                   02
-202002114DISTRIBUICAO DE VALE-LIVROS                                                     02
-202001117IMPLANTACAO DE SISTEMA DE MONITORAMENTO E SEGURANCA NO COMPLEXO POLIESPORTIVO AZ02
-202002029MANUTENCAO DE ESPACOS DESPORTIVOS E DE LAZER                                    02
-202002030INCENTIVO AO DESPORTO COMUNITARIO                                               02
-202002031MANUTENCAO DO TRANSPORTE ESCOLAR                                                02
-202001132REFORMA DOS SANITARIOS DA EMEF GETULIO VARGAS                                   02
-202001133REFORMA DOS SANITARIOS DA EMEI LAR DA CRIANCA                                   02
-202001134CONSTRUCAO DE PARADAS DE ONIBUS NAS ESCOLAS                                     02
-202001135CONSTRUCAO DE AREA COBERTA NA EMEF GETULIO VARGAS                               02
-202002032MANUTENCAO DA SECRETARIA DE OBRAS E VIACAO                                      02
-202000025AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE OBRAS E VIACAO             02
-202001031ADAPTACAO DE ESPACOS PUBLICOS PARA MAIOR ACESSIBILIDADE                         02
-202001059DEMOLICAO DOS ARMAZENS DA ANTIGA COTAP                                          02
-202001032AMPLIACAO DO SISTEMA DE ABASTECIMENTO DE AGUA URBANO                            02
-202001033AMPLIACAO DA REDE DE ESGOTO PLUVIAL                                             02
-202002033MANUTENCAO DE REDES DE AGUA URBANAS                                             02
-202002034MANTER A INFRAESTRUTURA DA AREA INDUSTRIAL                                      02
-202001035PAVIMENTACAO DE VIAS URBANAS                                                    02
-202001036PAVIMENTACAO DE VIAS RURAIS                                                     02
-202001078RECAPEAMENTO ASFALTICO                                                          02
-202001115PARTICIPACAO NA CONSTRUCAO DE PONTE EM RINCAO FACCIN                            02
-202002036MANUTENCAO DE PONTES E PONTILHOES                                               02
-202002111MANUTENCAO DE VIAS RURAIS                                                       02
-202002035MANUTENCAO DO TRANSPORTE COLETIVO                                               02
-202002038MANUTENCAO DA SECRETARIA DE SERVICOS URBANOS E TRANSITO                         02
-202000026AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE SERVICOS URBANOS E TRANSITO02
-202002039MELHORIA NA ACESSIBILIDADE URBANA E CONSTRUCAO DE PASSEIOS PUBLICOS             02
-202001041AMPLIACAO DA ILUMINACAO PUBLICA                                                 02
-202002040MANUTENCAO DE VIAS URBANAS                                                      02
-202002041MANUTENCAO DE ESPACOS PUBLICOS                                                  02
-202001044ADAPTACAO DE PREDIO PARA CAPELA MORTUARIA                                       02
-202001057INSTALACAO DE LIXEIRAS PUBLICAS                                                 02
-202002042MANUTENCAO DA COLETA DE RESIDUOS SOLIDOS URBANOS                                02
-202002043MANUTENCAO DA LIMPEZA URBANA                                                    02
-202002044MANUTENCAO DOS SERVICOS FUNERARIOS                                              02
-202002045MANUTENCAO DA ILUMINACAO PUBLICA                                                02
-202002046MANUTENCAO DA REDE PLUVIAL URBANA                                               02
-202001126REFORMA DA PRACA PUBLICA DO BAIRRO SAO JOSE                                     02
-202001120REFORMA DA PRACA PUBLICA DO BAIRRO CIDADE ALTA                                  02
-202002047EDUCACAO PARA O TRANSITO SEGURO                                                 02
-202002048MANTER O SISTEMA DE TRANSITO MUNICIPAL                                          02
-202002049MANUTENCAO DA SECRETARIA DE SAUDE                                               02
-202001129AMPLIACAO DO ESF1                                                               02
-202002051REALIZACAO DE EVENTOS E CONFERENCIAS RELACIONADAS A SAUDE                       02
-202002052MANUTENCAO DO PROJETO DE ATIVIDADE FISICA                                       02
-202002053PROMOCAO E INCENTIVO A DOACAO DE SANGUE                                         02
-202002055MANUTENCAO DO PMAQ                                                              02
-202002056MANUTENCAO DO PIM                                                               02
-202002057MANUTENCAO DA ASSISTENCIA ODONTOLOGICA                                          02
-202002058MANUTENCAO DO PACS                                                              02
-202002059MANUTENCAO DO PSF                                                               02
-202002060MANUTENCAO DO PROGRAMA DE SAUDE NA ESCOLA                                       02
-202002061MANUTENCAO DO NASF                                                              02
-202002062DISTRIBUICAO DE PROTESES DENTARIAS                                              02
-202002115MANUTENCAO DO ATENDIMENTO DE FISIOTERAPIA                                       02
-202002064MANUTENCAO DE CONSULTAS DE MEDIA E ALTA COMPLEXIDADE                            02
-202002065MANUTENCAO DO ATENDIMENTO DE URGENCIA E EMERGENCIA                              02
-202002066MANUTENCAO DE ACOES PARA SAUDE MENTAL, ALCOOLISMO E DROGAS                      02
-202002067MANUTENCAO DO SAMU SANTA ROSA                                                   02
-202002068FORNECIMENTO DE PROCEDIMENTOS ELETIVOS                                          02
-202002069FORNECIMENTO DE EXAMES ESPECIALIZADOS                                           02
-202001130IMPLEMENTACAO DO QUALIFAR-SUS (INVESTIMENTO) PORT. MS/GM 1.214/2012             02
-202001131MANUTENCAO DO QUALIFAR-SUS (CUSTEIO) PORT. MS/GM 1.214/2012                     02
-202002070AQUISICAO DE MEDICAMENTOS E ITENS DE SAUDE DO CISMISSOES                        02
-202002071DISTRIBUICAO DE MEDICAMENTOS E MATERIAL HOSPITALAR PARA USO DOMICILIAR          02
-202002072DISTRIBUICAO DE FRALDAS (GUD)                                                   02
-202002073MANUTENCAO DA VIGILANCIA EPIDEMIOLOGICA                                         02
-202002121MANUTENCAO DA VIGILANCIA SANITARIA                                              02
-202000027AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE SAUDE                      02
-202002074MANUTENCAO DO TRANSPORTE DE PACIENTES                                           02
-202002075MANUTENCAO DA SECRETARIA DE ASSISTENCIA SOCIAL                                  02
-202001051AMPLIACAO DO CENTRO DE AMPARAO AO IDOSO (SALAO VERDE)                           02
-202002077MANUTENCAO DO CENTRO DE AMPARAO AO IDOSO (SALAO VERDE)                          02
-202002078MANUTENCAO DE ACOES AOS PORTADORES DE DEFICIENCIA                               02
-202002076MANUTENCAO DAS ATIVIDADES VOLTADAS AOS IDOSOS                                   02
-202002079MANUTENCAO DAS ACOES VOLTADAS AS CRIANCAS E ADOLESCENTES                        02
-202001114REFORMA DO CRAS                                                                 02
-202002081FORNECIMENTO DE BENEFICIOS EVENTUAIS                                            02
-202002082CAPACITACAO DE PESSOAS EM VULNERABILIDADE SOCIAL E EM MEDIDAS SOCIOEDUCATIVAS   02
-202002083MANUTENCAO DAS ACOES DO PROGRAMA BOLSA FAMILIA                                  02
-202002084MANUTENCAO DO ATENDIMENTO AS FAMILIAS                                           02
-202002085MANUTENCAO DO CRAS                                                              02
-202002086PROMOCAO DE EVENTOS E DATAS COMEMORATIVAS                                       02
-202000028AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE ASSISTENCIA SOCIAL         02
-202002088PARTICIPACAO EM PROJETOS DE HABITACAO RURAL                                     02
-202002089PARTICIPACAO EM PROJETOS DE HABITACAO URBANOS                                   02
-202002090MANUTENCAO DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO                         02
-202000029AUXILIO-ALIMENTACAO PARA SERVIDORES DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO02
-202002091TREINAMENTO E APERFEICOAMENTO DO PRODUTOR RURAL                                 02
-202002092INCENTIVO A PRODUCAO IRRIGADA                                                   02
-202000004PARTICIPACAO NO SISTEMA TROCA-TROCA                                             02
-202001053AQUISICAO DE EQUIPAMENTOS E MAQUINAS PARA A PATRULHA AGRICOLA                   02
-202002093MANUTENCAO DO ABATEDOURO MUNICIPAL                                              02
-202002094MANUTENCAO DA INFRAESTRUTURA BASICA DO CAMPO                                    02
-202002095PRESERVACAO E CORRECAO DO SOLO                                                  02
-202002096MELHORIA DO ACESSO A PROPRIEDADES RURAIS                                        02
-202002097INCENTIVO A PRODUCAO LEITEIRA E MELHORIA GENETICA                               02
-202002098MANUTENCAO DA PATRULHA AGRICOLA                                                 02
-202002099INCENTIVO E APOIO AS AGROINDUSTRIAS                                             02
-202002100INCENTIVO E APOIO A DIVERSIFICACAO DA PROPRIEDADE RURAL                         02
-202000031SUBVENCAO PARA ALUGUEL AGROMANN                                                 02
-202000018SUBVENCAO PARA ALUGUEL DA TRYBER                                                02
-202001054MELHORIA NA INFRAESTRUTURA DA AREA INDUSTRIAL                                   02
-202002101MANUTENCAO DA AREA INDUSTRIAL                                                   02
-202002102INCENTIVAR E PROMOVER O COMERCIO LOCAL                                          02
-202001055TROCA DE RESERVATORIOS DE AGUA NOS SISTEMAS RURAIS DE ABASTECIMENTO             02
-202001056AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL                                        02
-202002103MANUTENCAO DO ABASTECIMENTO DE AGUA RURAL                                       02
-202002104PREVENIR E MINIMIZAR EFEITOS DE EVENTOS CLIMATICOS                              02
-202002105MANUTENCAO DAS ACOES DE PRESERVACAO AMBIENTAL                                   02
-202002106MANUTENCAO DE ACOES DE RECUPERACAO AMBIENTAL                                    02
-202000002MANUTENCAO DO COFRON                                                            02
-202000003MANUTENCAO DO CISMISSOES                                                        02
-202000005SERVICO DA DIVIDA PREVIDENCIARIA                                                02
-202000006DEVOLUCAO DE RECURSOS DE CONVENIOS                                              02
-202000007OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS                                          02
-202000008ATENDIMENTO DE SENTENCAS JUDICIAIS                                              02
-202000009AMORTIZACAO DO PASSIVO ATUARIAL                                                 02
-202000010RESERVA DE CONTINGENCIA                                                         02
-202001034AQUISICAO DE CAMINHOES E MAQUINARIO PARA A SECRETARIA DE OBRAS                  02
-202002122MANUTENCAO DO SISTEMA DE VOIP                                                   02
-202001136AQUISICAO DE LICENCAS DE ANTIVIRUS COM RECURSOS LIVRES                          02
-202001137AQUISICAO DE LICENCAS DE ANTIVIRUS COM RECURSOS DA EDUCACAO                     02
-202001138AQUISICAO DE LICENCAS DE ANTIVIRUS COM RECURSOS ASPS                            02
-202001139IMPLANTACAO DE INTRANET WIRELESS                                                02
-202000014RESERVA DO RPPS                                                                 02
-202001140EXECUCAO DO PROJETO OASF/FEAS                                                   02
-201901141AMPLIACAO DA LARGURA DO CALCAMENTO DA ESQUINA BUDEL - CONVERSAO EMENDA No 09/18 02
-202001027AQUISICAO DE VEICULOS PARA O TRANSPORTE ESCOLAR                                 02
-201901083AQUISICAO DE VEICULO PARA ATIVIDADES DE ASSISTENCIA SOCIAL                      02
-202001404AMPLIACAO DA LARGURA DO CALCAMENTO DA ESQUINA BUDEL - EMENDA IMPOSITIVO N. 04/2002
-202001405AMPLIACAO DA LARGURA DO CALCAMENTO DA ESQUINA BUDEL - EMENDA IMPOSITIVA N. 05/2002
-202001406PAVIMENTACAO NA IND 200 EM LAJEADO SILVA - EMENDA IMPOSITIVA N. 06/2019 - VER. P02
-202001407PAVIMENTACAO DA IND 200 EM LAJEADO SILVA - EMENDA IMPOSITIVA N. 07/2019 - VER. F02
-202001408CASCALHAMENTO EM ESQUINA ARAUJO - EMENDA IMPOSITIVA N. 08/2019 - VER. BRASIL DE 02
-202001409COLOCACAO DE PLACAS INDICATIVAS DOS NOMES DE RUAS - EMENDA IMPOSITIVA N. 09/201902
-202001410CONSTRUCAO DE ABRIGOS PARA PASSAGEIROS NOS BAIRROS SAO JOSE I E II - EMENDA IMPO02
-202001411PINTURA E MANUTENCAO DO PADU - EMENDA IMPOSITIVA N. 11/2019 - VER. DIOMAR AUZANI02
-202001412PINTURA E MANUTENCAO DO PADU - EMENDA IMPOSITIVA N. 12/2019 - VER. SONIA C T SOU02
-202001413PINTURA E MANUTENCAO DO PADU - EMENDA IMPOSITIVA N. 13/2019 - VER. ANTONIO A FER02
-202001414CONSULTAS OFTALMOLOGICAS - EMENDA IMPOSITIVA N. 14/2019 - VER. ANTONIO A FERREIR02
-202001415IMPLANTACAO DE ACADEMIA DE SAUDE EM SAO VALENTIM - EMENDA IMPOSITIVA N. 15/2019 02
-202001416IMPLANTACAO DE ACADEMIA DE SAUDE EM SAO VALENTIM - EMENDA IMPOSITIVA N. 16/2019 02
-202001417MELHORIAS NA INFRAESTRUTURA DO POSTO DE SAUDE EM ESQUINA ARAUJO - EMENDA IMPOSIT02
-202001418CONSULTAS E EXAMES PARA PACIENTES DA FILA DE ESPERA - EMENDA IMPOSITIVA N. 18/2002
-202001419AQUISICAO DE MATERIAL DE SAUDE PARA EMPRESTIMO A PACIENTES - EMENDA IMPOSITIVA N02
-202001420CALCAMENTO NAS RUAS 1,2 E 3 DAS QUADRAS 122 A 125 - EMENDA IMPOSITIVA N. 20/201902
-202001421CONSULTAS E EXAMES ATRAVES DO COFRON - EMENDA IMPOSITIVA N. 21/2019 - VER. ADILA02
-201902123MANUTENCAO DA ASSISTENCIA FARMACEUTICA                                          02
-201900034BENEFICIOS ESTATUTARIOS DOS SERVIDORES DA CAMARA                                02
-201900035BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS AO GABINETE                   02
-201900036BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE ADMINISTRACAO 02
-201900037BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DA FAZENDA       02
-201900038BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE EDUCACAO      02
-201900039BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A FUNCAO EDUCACAO             02
-201900040BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE OBRAS         02
-201900041BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE SERVICOS URBAN02
-201900042BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE SAUDE         02
-201900043BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE ASSISTENCIA SO02
-201900044BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA dDE AGRICULTURA  02
-202000034BENEFICIOS ESTATUTARIOS DOS SERVIDORES DA CAMARA                                02
-202000035BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS AO GABINETE                   02
-202000036BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE ADMINISTRACAO 02
-202000037BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DA FAZENDA       02
-202000038BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE EDUCACAO      02
-202000039BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A FUNCAO EDUCACAO             02
-202000040BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE OBRAS         02
-202000041BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE SERVICOS URBAN02
-202000042BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE SAUDE         02
-202000043BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE ASSISTENCIA SO02
-202000044BENEFICIOS ESTATUTARIOS DOS SERVIDORES VINCULADOS A SECRETARIA DE AGRICULTURA   02
-202002123MANUTENCAO DA ASSISTENCIA FARMACEUTICA                                          02
-202002063PARTICIPACAO NA MANUTENCAO DA UPA SANTA ROSA                                    02
-202000015CONTRIBUICAO AO CORPO DE BOMBEIROS                                              02
-202001141MELHORIAS NA PRACA INFANTIL JOAO SAFFI                                          02
-202001306CONSTRUCAO DE ABRICO COBERTO PARA VEICULOS DA SAUDE - EMENDA IMPOSITIVA 05/18 VE02
-202001142COMBATE A PANDEMIA DE COVID-19                                                  02
-202001422CONSULTAS E EXAMES - REQUALIFICACAO DE OBJETO EMENDA N. 17/2019 - VER. BRASIL DE02
-202001143ADEQUACAO DO PPCI DA EMEI LAR DA CRIANCA                                        02
-FINALIZADOR0000000625                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+201700003MANUTENCAO DO COFRON - RATEIO                                                   02
+201700004RATEIO PELA PARTICIPACAO NO CISMISSOES - RATEIO                                 02
+201700006SERVICO DA DIVIDA PREVIDENCIARIA                                                02
+201700007DEVOLUCAO DE RECURSOS DE CONVENIOS COM A UNIAO E O ESTADO                       02
+201700008OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS                                          02
+201700010ATENDIMENTO DE SENTENCAS JUDICIAIS                                              02
+201700011INATIVOS E PENSIONISTAS DO TESOURO MUNICIPAL                                    02
+201700012RESERVA DE CONTINGENCIA                                                         02
+201700013RESERVA DE CONTINGENCIA DO RPPS                                                 02
+201700019PARTICIPACAO DO MUNICIPIO NO PROGRAMA PASSE LIVRE                               02
+201700020MANUTENCAO DO CIGRES - RATEIO                                                   02
+201700021AMORTIZACAO DO PASSIVO ATUARIAL                                                 02
+201700089MANUTENCAO DA UPA E SAMU - RATEIO                                               02
+201700096ATENDIMENTO EDUCACIONAL AS CRIANCAS COM NECESSIDADES ESPECIAIS                  02
+201700097PARCERIA COM O CTG PRA AULAS DE DANCA TRADICIONALISTA                           02
+201700098PARCERIA COM O CORPO DE BOMBEIROS VOLUNTARIOS DE TRES DE MAIO                   02
+201700099DESPESAS DE EXERCICIOS ANTERIORES RECONHECIDAS                                  02
+201701003REFORMA DO PALACIO MUNICIPAL                                                    02
+201701005MELHORIA E AMPLIACAO DO AMBIENTE DE TIC                                         02
+201701028PAVIMENTACAO DE VIAS URBANAS                                                    02
+201701031AMPLIACAO DA ILUMINACAO PUBLICA                                                 02
+201701036CAPACITACAO DE PESSOAS EM VULNERABILIDADE E EM MEDIDA SOCIOEDUCATIVA            02
+201701041PARTICIPACAO EM PROJETOS DE HABITACAO POPULAR URBANA                            02
+201701044AMPLIACAO DO ABASTECIMENTO DE AGUA RURAL                                        02
+201701046CONSTRUCAO DE UBS COM RECURSOS FEDERAIS                                         02
+201701048PARTICIPACAO NO PROGRAMA FEDERAL MAIS MEDICOS                                   02
+201701049AMPLIACAO E REFORMA DA QUADRA DE ESPORTES DA PRACA JOAO SAFFI                   02
+201701050REVITALIZACAO DA PRACA JOAO SAFFI                                               02
+201701056INFRAESTRUTURA DA AREA INDUSTRIAL COM RECURSOS DO BADESUL                       02
+201701057PROJETO DE COMBATE AO RASCISMO NA REDE PUBLICA DE SAUDE                         02
+201701058ESTRUTURACAO DAS UBS MUNICIPAIS                                                 02
+201701059INFRAESTRUTURA NO BAIRRO SAO JOSE II                                            02
+201701060PAVIMENTACAO CONVENIO 829118 MINISTERIO DAS CIDADES                             02
+201701061REFORMA DA SEDE DO CONSELHO TUTELAR                                             02
+201701062AMPLIACAO DO CALCAMENTO DA ESQUINA BUDEL                                        02
+201701063PARTICIPACAO NA CONSTRUCAO DE PONTE ENTRE SAO ROQUE E INHACORA                  02
+201701064INSTALACAO DE ELEVADOR E MELHORIA DA ACESSIBILIDADE NO PALACIO MUNICIPAL        02
+201701065REALIZACAO DA REFORMA ADMINSITRATIVA                                            02
+201701066REALIZACAO DE CONCURSO PUBLICO                                                  02
+201701067DEMOLICAO DOS ARMAZENS DA ANTIGA COTAP                                          02
+201701068PAVIMENTACAO DA RUA MARECHAL RONDON                                             02
+201701069PAVIMENTACAO DE VIAS URBANAS - SICONV 034101/2016                               02
+201701070AQUISICAO DE TRATOR PARA PATRULHA AGRICOLA SICONV 034964/2016                   02
+201701071RECAPEAMENTO ASFALTICO                                                          02
+201701072INVESTIMENTOS EM ESF - FNS PROP. 11975.8980001/16-001                           02
+201701073INVESTIMENTOS EM ESF - FNS PROP. 11975.8980001/15-001                           02
+201701074PROJETO DE COMBATE AO RACISMO                                                   02
+201701075INSTALACAO DE REDE ELETRICA NA AREA INDUSTRIAL                                  02
+201701076MANUTENCAO DO PROJETO MULTIMIDIA                                                02
+201701077CONSTRUCAO DE PONTILHAO SOBRE LAJEADO PESSEGUEIRINHO                            02
+201702001MANUTENCAO DAS ATIVIDADES PARLAMENTARES                                         02
+201702002MANUTENCAO DAS ATIVIDADES DE APOIO DA CAMARA                                    02
+201702003MANUTENCAO DO GABINETE DO PREFEITO E VICE-PREFEITO                              02
+201702004MANUTENCAO DO PALACIO MUNICIPAL                                                 02
+201702005MANUTENCAO DO CONSELHO TUTELAR                                                  02
+201702006MANUTENCAO DE CONSELHOS MUNICIPAIS                                              02
+201702007MANUTENCAO DE ASSESSORIAS E CONSULTORIAS                                        02
+201702008MANUTENCAO DO CONTROLE INTERNO                                                  02
+201702009MANUTENCAO DA SECRETARIA DE ADMINISTRACAO                                       02
+201702010MANUTENCAO DA SECRETARIA DA FAZENDA                                             02
+201702011MANUTENCAO DA SECRETARIA DE EDUCACAO                                            02
+201702012TREINAMENTO E APERFEICOAMENTO DE PROFESSORES                                    02
+201702013MANUTENCAO DA ALIMENTACAO DO ENSINO FUNDAMENTAL                                 02
+201702014MANUTENCAO DO ENSINO FUNDAMENTAL                                                02
+201702016MANUTENCAO DA ALIMENTACAO DA EDUCACAO INFANTIL                                  02
+201702017MANUTENCAO DA EDUCACAO INFANTIL                                                 02
+201702019MANUTENCAO DO TRANSPORTE ESCOLAR                                                02
+201702020PARTICIPACAO EM COMEMORACOES CIVICAS E POPULARES                                02
+201702021MANUTENCAO DE ESPACOS CULTURAIS                                                 02
+201702023INCENTIVO AO DESPORTO COMUNITARIO                                               02
+201702024MANUTENCAO DA SECRETARIA DE OBRAS E VIACAO                                      02
+201702027MANUTENCAO DE ESTRADAS                                                          02
+201702028MANUTENCAO DA SECRETARIA DE SERVICOS URBANOS E TRANSITO                         02
+201702029MANUTENCAO DE VIAS URBANAS                                                      02
+201702030MANUTENCAO DE ESPACOS PUBLICOS                                                  02
+201702031MELHORIA DA ACESSIBILIDADE URBANA                                               02
+201702032MANUTENCAO DA ILUMINACAO PUBLICA                                                02
+201702035MANUTENCAO DA LIMPEZA URBANA E COLETA DE LIXO                                   02
+201702037MANUTENCAO O SISTEMA DE TRANSITO MUNICIPAL                                      02
+201702038MANUTENCAO DA SECRETARIA DE SAUDE                                               02
+201702039MANUTENCAO DO PACS                                                              02
+201702040MANUTENCAO DO PSF                                                               02
+201702043MANUTENCAO DO PROGRAMA DE SAUDE BUCAL                                           02
+201702044MANUTENCAO DA ASSISTENCIA FARMACEUTICA                                          02
+201702045MANUTENCAO DO SERVICO DE URGENCIA E EMERGENCIA                                  02
+201702046ATENDIMENTO DA REDE SUPLEMENTAR DE SAUDE                                        02
+201702047MANUTENCAO DO TRANSPORTE DA SAUDE                                               02
+201702048MANUTENCAO DO PIM                                                               02
+201702049MANUTENCAO DA VIGILANCIA SANITARIA                                              02
+201702050MANUTENCAO DO PROJETO DE ATIVIDADE FISICA                                       02
+201702051MANUTENCAO DO PROJETO PRO-ADOLESCENTE                                           02
+201702052MANUTENCAO DA VIGILANCIA EPIDEMIOLOGICA                                         02
+201702053MANUTENCAO DA SECRETARIA DE ASSISTENCIA SOCIAL                                  02
+201702054MANUTENCAO DO CENTRO DE AMPARO AO IDOSO                                         02
+201702055MANUTENCAO DAS ACOES VOLTADAS AOS IDOSOS                                        02
+FINALIZADOR0000000682                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

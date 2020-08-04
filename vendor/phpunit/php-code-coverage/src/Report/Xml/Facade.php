@@ -10,6 +10,7 @@
 namespace SebastianBergmann\CodeCoverage\Report\Xml;
 
 use SebastianBergmann\CodeCoverage\CodeCoverage;
+use SebastianBergmann\CodeCoverage\Directory as DirectoryUtil;
 use SebastianBergmann\CodeCoverage\Node\AbstractNode;
 use SebastianBergmann\CodeCoverage\Node\Directory as DirectoryNode;
 use SebastianBergmann\CodeCoverage\Node\File as FileNode;
@@ -68,7 +69,7 @@ final class Facade
     {
         $buildNode = $this->project->getBuildInformation();
         $buildNode->setRuntimeInformation(new Runtime());
-        $buildNode->setBuildTime(\DateTime::createFromFormat('U', (string) $_SERVER['REQUEST_TIME']));
+        $buildNode->setBuildTime(new \DateTimeImmutable);
         $buildNode->setGeneratorVersions($this->phpUnitVersion, Version::id());
     }
 
@@ -89,11 +90,9 @@ final class Facade
                     "'$directory' exists but is not writable."
                 );
             }
-        } elseif (!$this->createDirectory($directory)) {
-            throw new RuntimeException(
-                "'$directory' could not be created."
-            );
         }
+
+        DirectoryUtil::create($directory);
     }
 
     private function processDirectory(DirectoryNode $directory, Node $context): void
@@ -279,10 +278,5 @@ final class Facade
 
         /* @see https://bugs.php.net/bug.php?id=79191 */
         \file_put_contents($filename, $document->saveXML());
-    }
-
-    private function createDirectory(string $directory): bool
-    {
-        return !(!\is_dir($directory) && !@\mkdir($directory, 0777, true) && !\is_dir($directory));
     }
 }

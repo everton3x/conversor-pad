@@ -1,4 +1,438 @@
-12292535000162010120203004202008052020CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+12292535000162010120183112201823012019CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+2014031Acao Legislativa                                                                
+2014032Controle Externo                                                                
+2014061Acao Judiciaria                                                                 
+2014062Defesa do Interesse Publico no Processo Judiciario                              
+2014091Defesa da Ordem Juridica                                                        
+2014092Representacao Judicial e Extrajudicial                                          
+2014121Planejamento e Orcamento                                                        
+2014122Administracao Geral                                                             
+2014123Administracao Financeira                                                        
+2014124Controle Interno                                                                
+2014125Normatizacao e Fiscalizacao                                                     
+2014126Tecnologia da Informacao                                                        
+2014127Ordenamento Territorial                                                         
+2014128Formacao de Recursos Humanos                                                    
+2014129Administracao de Receitas                                                       
+2014130Administracao de Concessoes                                                     
+2014131Comunicacao Social                                                              
+2014151Defesa Aerea                                                                    
+2014152Defesa Naval                                                                    
+2014153Defesa Terrestre                                                                
+2014181Policiamento                                                                    
+2014182Defesa Civil                                                                    
+2014183Informacao e Inteligencia                                                       
+2014211Relacoes Diplomaticas                                                           
+2014212Cooperacao Internacional                                                        
+2014241Assistencia ao Idoso                                                            
+2014242Assistencia ao Portador de Deficiencia                                          
+2014243Assistencia a Crianca e ao Adolescente                                          
+2014244Assistencia Comunitaria                                                         
+2014271Previdencia Basica                                                              
+2014272Previdencia do Regime Estatutario                                               
+2014273Previdencia Complementar                                                        
+2014274Previdencia Especial                                                            
+2014301Atencao Basica                                                                  
+2014302Assistencia Hospitalar e Ambulatorial                                           
+2014303Suporte Profilatico e Terapeutico                                               
+2014304Vigilancia Sanitaria                                                            
+2014305Vigilancia Epidemiologica                                                       
+2014306Alimentacao e Nutricao                                                          
+2014331Protecao e Beneficios ao Trabalhador                                            
+2014332Relacoes de Trabalho                                                            
+2014333Empregabilidade                                                                 
+2014334Fomento ao Trabalho                                                             
+2014361Ensino Fundamental                                                              
+2014362Ensino Medio                                                                    
+2014363Ensino Profissional                                                             
+2014364Ensino Superior                                                                 
+2014365Educacao Infantil                                                               
+2014366Educacao de Jovens e Adultos                                                    
+2014367Educacao Especial                                                               
+2014391Patrimonio Historico, Artistico e Arqueologico                                  
+2014392Difusao Cultural                                                                
+2014421Custodia e Reintegracao Social                                                  
+2014422Direitos Individuais, Coletivos e Difusos                                       
+2014423Assistencia aos Povos Indigenas                                                 
+2014451Infra-Estrutura Urbana                                                          
+2014452Servicos Urbanos                                                                
+2014453Transportes Coletivos Urbanos                                                   
+2014481Habitacao Rural                                                                 
+2014482Habitacao Urbana                                                                
+2014511Saneamento Basico Rural                                                         
+2014512Saneamento Basico Urbano                                                        
+2014541Preservacao e Conservacao Ambiental                                             
+2014542Controle Ambiental                                                              
+2014543Recuperacao de Areas Degradadas                                                 
+2014544Recursos Hidricos                                                               
+2014545Meteorologia                                                                    
+2014571Desenvolvimento Cientifico                                                      
+2014572Desenvolvimento Tecnologico e Engenharia                                        
+2014573Difusao do Conhecimento Cientifico e Tecnologico                                
+2014605Abastecimento                                                                   
+2014606Extensao Rural                                                                  
+2014607Irrigacao                                                                       
+2014631Reforma Agraria                                                                 
+2014632Colonizacao                                                                     
+2014661Promocao Industrial                                                             
+2014662Producao Industrial                                                             
+2014663Mineracao                                                                       
+2014664Propriedade Industrial                                                          
+2014665Normalizacao e Qualidade                                                        
+2014691Promocao Comercial                                                              
+2014692Comercializacao                                                                 
+2014693Comercio Exterior                                                               
+2014694Servicos Financeiros                                                            
+2014695Turismo                                                                         
+2014721Comunicacoes Postais                                                            
+2014722Telecomunicacoes                                                                
+2014751Conservacao de Energia                                                          
+2014752Energia Eletrica                                                                
+2014753Petroleo                                                                        
+2014754Alcool                                                                          
+2014781Transporte Aereo                                                                
+2014782Transporte Rodoviario                                                           
+2014783Transporte Ferroviario                                                          
+2014784Transporte Hidroviario                                                          
+2014785Transportes Especiais                                                           
+2014811Desporto de Rendimento                                                          
+2014812Desporto Comunitario                                                            
+2014813Lazer                                                                           
+2014841Refinanciamento da Divida Interna                                               
+2014842Refinanciamento da Divida Externa                                               
+2014843Servico da Divida Interna                                                       
+2014844Servico da Divida Externa                                                       
+2014845Outras Transferencias                                                           
+2014846Outros Encargos Especiais                                                       
+2014997RESERVA DE CONTINGENCIA DO RPPS                                                 
+2014999RESERVA DE CONTINGENCIA                                                         
+2015031Acao Legislativa                                                                
+2015032Controle Externo                                                                
+2015061Acao Judiciaria                                                                 
+2015062Defesa do Interesse Publico no Processo Judiciario                              
+2015091Defesa da Ordem Juridica                                                        
+2015092Representacao Judicial e Extrajudicial                                          
+2015121Planejamento e Orcamento                                                        
+2015122Administracao Geral                                                             
+2015123Administracao Financeira                                                        
+2015124Controle Interno                                                                
+2015125Normatizacao e Fiscalizacao                                                     
+2015126Tecnologia da Informacao                                                        
+2015127Ordenamento Territorial                                                         
+2015128Formacao de Recursos Humanos                                                    
+2015129Administracao de Receitas                                                       
+2015130Administracao de Concessoes                                                     
+2015131Comunicacao Social                                                              
+2015151Defesa Aerea                                                                    
+2015152Defesa Naval                                                                    
+2015153Defesa Terrestre                                                                
+2015181Policiamento                                                                    
+2015182Defesa Civil                                                                    
+2015183Informacao e Inteligencia                                                       
+2015211Relacoes Diplomaticas                                                           
+2015212Cooperacao Internacional                                                        
+2015241Assistencia ao Idoso                                                            
+2015242Assistencia ao Portador de Deficiencia                                          
+2015243Assistencia a Crianca e ao Adolescente                                          
+2015244Assistencia Comunitaria                                                         
+2015271Previdencia Basica                                                              
+2015272Previdencia do Regime Estatutario                                               
+2015273Previdencia Complementar                                                        
+2015274Previdencia Especial                                                            
+2015301Atencao Basica                                                                  
+2015302Assistencia Hospitalar e Ambulatorial                                           
+2015303Suporte Profilatico e Terapeutico                                               
+2015304Vigilancia Sanitaria                                                            
+2015305Vigilancia Epidemiologica                                                       
+2015306Alimentacao e Nutricao                                                          
+2015331Protecao e Beneficios ao Trabalhador                                            
+2015332Relacoes de Trabalho                                                            
+2015333Empregabilidade                                                                 
+2015334Fomento ao Trabalho                                                             
+2015361Ensino Fundamental                                                              
+2015362Ensino Medio                                                                    
+2015363Ensino Profissional                                                             
+2015364Ensino Superior                                                                 
+2015365Educacao Infantil                                                               
+2015366Educacao de Jovens e Adultos                                                    
+2015367Educacao Especial                                                               
+2015391Patrimonio Historico, Artistico e Arqueologico                                  
+2015392Difusao Cultural                                                                
+2015421Custodia e Reintegracao Social                                                  
+2015422Direitos Individuais, Coletivos e Difusos                                       
+2015423Assistencia aos Povos Indigenas                                                 
+2015451Infra-Estrutura Urbana                                                          
+2015452Servicos Urbanos                                                                
+2015453Transportes Coletivos Urbanos                                                   
+2015481Habitacao Rural                                                                 
+2015482Habitacao Urbana                                                                
+2015511Saneamento Basico Rural                                                         
+2015512Saneamento Basico Urbano                                                        
+2015541Preservacao e Conservacao Ambiental                                             
+2015542Controle Ambiental                                                              
+2015543Recuperacao de Areas Degradadas                                                 
+2015544Recursos Hidricos                                                               
+2015545Meteorologia                                                                    
+2015571Desenvolvimento Cientifico                                                      
+2015572Desenvolvimento Tecnologico e Engenharia                                        
+2015573Difusao do Conhecimento Cientifico e Tecnologico                                
+2015605Abastecimento                                                                   
+2015606Extensao Rural                                                                  
+2015607Irrigacao                                                                       
+2015608Promocao da Producao Agropecuaria                                               
+2015609Defesa Agropecuaria                                                             
+2015631Reforma Agraria                                                                 
+2015632Colonizacao                                                                     
+2015661Promocao Industrial                                                             
+2015662Producao Industrial                                                             
+2015663Mineracao                                                                       
+2015664Propriedade Industrial                                                          
+2015665Normalizacao e Qualidade                                                        
+2015691Promocao Comercial                                                              
+2015692Comercializacao                                                                 
+2015693Comercio Exterior                                                               
+2015694Servicos Financeiros                                                            
+2015695Turismo                                                                         
+2015721Comunicacoes Postais                                                            
+2015722Telecomunicacoes                                                                
+2015751Conservacao de Energia                                                          
+2015752Energia Eletrica                                                                
+2015753Petroleo                                                                        
+2015754Alcool                                                                          
+2015781Transporte Aereo                                                                
+2015782Transporte Rodoviario                                                           
+2015783Transporte Ferroviario                                                          
+2015784Transporte Hidroviario                                                          
+2015785Transportes Especiais                                                           
+2015811Desporto de Rendimento                                                          
+2015812Desporto Comunitario                                                            
+2015813Lazer                                                                           
+2015841Refinanciamento da Divida Interna                                               
+2015842Refinanciamento da Divida Externa                                               
+2015843Servico da Divida Interna                                                       
+2015844Servico da Divida Externa                                                       
+2015845Outras Transferencias                                                           
+2015846Outros Encargos Especiais                                                       
+2015997RESERVA DE CONTINGENCIA DO RPPS                                                 
+2015999RESERVA DE CONTINGENCIA                                                         
+2016031Acao Legislativa                                                                
+2016032Controle Externo                                                                
+2016061Acao Judiciaria                                                                 
+2016062Defesa do Interesse Publico no Processo Judiciario                              
+2016091Defesa da Ordem Juridica                                                        
+2016092Representacao Judicial e Extrajudicial                                          
+2016121Planejamento e Orcamento                                                        
+2016122Administracao Geral                                                             
+2016123Administracao Financeira                                                        
+2016124Controle Interno                                                                
+2016125Normatizacao e Fiscalizacao                                                     
+2016126Tecnologia da Informacao                                                        
+2016127Ordenamento Territorial                                                         
+2016128Formacao de Recursos Humanos                                                    
+2016129Administracao de Receitas                                                       
+2016130Administracao de Concessoes                                                     
+2016131Comunicacao Social                                                              
+2016151Defesa Aerea                                                                    
+2016152Defesa Naval                                                                    
+2016153Defesa Terrestre                                                                
+2016181Policiamento                                                                    
+2016182Defesa Civil                                                                    
+2016183Informacao e Inteligencia                                                       
+2016211Relacoes Diplomaticas                                                           
+2016212Cooperacao Internacional                                                        
+2016241Assistencia ao Idoso                                                            
+2016242Assistencia ao Portador de Deficiencia                                          
+2016243Assistencia a Crianca e ao Adolescente                                          
+2016244Assistencia Comunitaria                                                         
+2016271Previdencia Basica                                                              
+2016272Previdencia do Regime Estatutario                                               
+2016273Previdencia Complementar                                                        
+2016274Previdencia Especial                                                            
+2016301Atencao Basica                                                                  
+2016302Assistencia Hospitalar e Ambulatorial                                           
+2016303Suporte Profilatico e Terapeutico                                               
+2016304Vigilancia Sanitaria                                                            
+2016305Vigilancia Epidemiologica                                                       
+2016306Alimentacao e Nutricao                                                          
+2016331Protecao e Beneficios ao Trabalhador                                            
+2016332Relacoes de Trabalho                                                            
+2016333Empregabilidade                                                                 
+2016334Fomento ao Trabalho                                                             
+2016361Ensino Fundamental                                                              
+2016362Ensino Medio                                                                    
+2016363Ensino Profissional                                                             
+2016364Ensino Superior                                                                 
+2016365Educacao Infantil                                                               
+2016366Educacao de Jovens e Adultos                                                    
+2016367Educacao Especial                                                               
+2016391Patrimonio Historico, Artistico e Arqueologico                                  
+2016392Difusao Cultural                                                                
+2016421Custodia e Reintegracao Social                                                  
+2016422Direitos Individuais, Coletivos e Difusos                                       
+2016423Assistencia aos Povos Indigenas                                                 
+2016451Infra-Estrutura Urbana                                                          
+2016452Servicos Urbanos                                                                
+2016453Transportes Coletivos Urbanos                                                   
+2016481Habitacao Rural                                                                 
+2016482Habitacao Urbana                                                                
+2016511Saneamento Basico Rural                                                         
+2016512Saneamento Basico Urbano                                                        
+2016541Preservacao e Conservacao Ambiental                                             
+2016542Controle Ambiental                                                              
+2016543Recuperacao de Areas Degradadas                                                 
+2016544Recursos Hidricos                                                               
+2016545Meteorologia                                                                    
+2016571Desenvolvimento Cientifico                                                      
+2016572Desenvolvimento Tecnologico e Engenharia                                        
+2016573Difusao do Conhecimento Cientifico e Tecnologico                                
+2016605Abastecimento                                                                   
+2016606Extensao Rural                                                                  
+2016607Irrigacao                                                                       
+2016608Promocao da Producao Agropecuaria                                               
+2016609Defesa Agropecuaria                                                             
+2016631Reforma Agraria                                                                 
+2016632Colonizacao                                                                     
+2016661Promocao Industrial                                                             
+2016662Producao Industrial                                                             
+2016663Mineracao                                                                       
+2016664Propriedade Industrial                                                          
+2016665Normalizacao e Qualidade                                                        
+2016691Promocao Comercial                                                              
+2016692Comercializacao                                                                 
+2016693Comercio Exterior                                                               
+2016694Servicos Financeiros                                                            
+2016695Turismo                                                                         
+2016721Comunicacoes Postais                                                            
+2016722Telecomunicacoes                                                                
+2016751Conservacao de Energia                                                          
+2016752Energia Eletrica                                                                
+2016753Petroleo                                                                        
+2016754Alcool                                                                          
+2016781Transporte Aereo                                                                
+2016782Transporte Rodoviario                                                           
+2016783Transporte Ferroviario                                                          
+2016784Transporte Hidroviario                                                          
+2016785Transportes Especiais                                                           
+2016811Desporto de Rendimento                                                          
+2016812Desporto Comunitario                                                            
+2016813Lazer                                                                           
+2016841Refinanciamento da Divida Interna                                               
+2016842Refinanciamento da Divida Externa                                               
+2016843Servico da Divida Interna                                                       
+2016844Servico da Divida Externa                                                       
+2016845Outras Transferencias                                                           
+2016846Outros Encargos Especiais                                                       
+2016997RESERVA DE CONTINGENCIA DO RPPS                                                 
+2016999RESERVA DE CONTINGENCIA                                                         
+2017031Acao Legislativa                                                                
+2017032Controle Externo                                                                
+2017061Acao Judiciaria                                                                 
+2017062Defesa do Interesse Publico no Processo Judiciario                              
+2017091Defesa da Ordem Juridica                                                        
+2017092Representacao Judicial e Extrajudicial                                          
+2017121Planejamento e Orcamento                                                        
+2017122Administracao Geral                                                             
+2017123Administracao Financeira                                                        
+2017124Controle Interno                                                                
+2017125Normatizacao e Fiscalizacao                                                     
+2017126Tecnologia da Informacao                                                        
+2017127Ordenamento Territorial                                                         
+2017128Formacao de Recursos Humanos                                                    
+2017129Administracao de Receitas                                                       
+2017130Administracao de Concessoes                                                     
+2017131Comunicacao Social                                                              
+2017151Defesa Aerea                                                                    
+2017152Defesa Naval                                                                    
+2017153Defesa Terrestre                                                                
+2017181Policiamento                                                                    
+2017182Defesa Civil                                                                    
+2017183Informacao e Inteligencia                                                       
+2017211Relacoes Diplomaticas                                                           
+2017212Cooperacao Internacional                                                        
+2017241Assistencia ao Idoso                                                            
+2017242Assistencia ao Portador de Deficiencia                                          
+2017243Assistencia a Crianca e ao Adolescente                                          
+2017244Assistencia Comunitaria                                                         
+2017271Previdencia Basica                                                              
+2017272Previdencia do Regime Estatutario                                               
+2017273Previdencia Complementar                                                        
+2017274Previdencia Especial                                                            
+2017301Atencao Basica                                                                  
+2017302Assistencia Hospitalar e Ambulatorial                                           
+2017303Suporte Profilatico e Terapeutico                                               
+2017304Vigilancia Sanitaria                                                            
+2017305Vigilancia Epidemiologica                                                       
+2017306Alimentacao e Nutricao                                                          
+2017331Protecao e Beneficios ao Trabalhador                                            
+2017332Relacoes de Trabalho                                                            
+2017333Empregabilidade                                                                 
+2017334Fomento ao Trabalho                                                             
+2017361Ensino Fundamental                                                              
+2017362Ensino Medio                                                                    
+2017363Ensino Profissional                                                             
+2017364Ensino Superior                                                                 
+2017365Educacao Infantil                                                               
+2017366Educacao de Jovens e Adultos                                                    
+2017367Educacao Especial                                                               
+2017391Patrimonio Historico, Artistico e Arqueologico                                  
+2017392Difusao Cultural                                                                
+2017421Custodia e Reintegracao Social                                                  
+2017422Direitos Individuais, Coletivos e Difusos                                       
+2017423Assistencia aos Povos Indigenas                                                 
+2017451Infra-Estrutura Urbana                                                          
+2017452Servicos Urbanos                                                                
+2017453Transportes Coletivos Urbanos                                                   
+2017481Habitacao Rural                                                                 
+2017482Habitacao Urbana                                                                
+2017511Saneamento Basico Rural                                                         
+2017512Saneamento Basico Urbano                                                        
+2017541Preservacao e Conservacao Ambiental                                             
+2017542Controle Ambiental                                                              
+2017543Recuperacao de Areas Degradadas                                                 
+2017544Recursos Hidricos                                                               
+2017545Meteorologia                                                                    
+2017571Desenvolvimento Cientifico                                                      
+2017572Desenvolvimento Tecnologico e Engenharia                                        
+2017573Difusao do Conhecimento Cientifico e Tecnologico                                
+2017605Abastecimento                                                                   
+2017606Extensao Rural                                                                  
+2017607Irrigacao                                                                       
+2017608Promocao da Producao Agropecuaria                                               
+2017609Defesa Agropecuaria                                                             
+2017631Reforma Agraria                                                                 
+2017632Colonizacao                                                                     
+2017661Promocao Industrial                                                             
+2017662Producao Industrial                                                             
+2017663Mineracao                                                                       
+2017664Propriedade Industrial                                                          
+2017665Normalizacao e Qualidade                                                        
+2017691Promocao Comercial                                                              
+2017692Comercializacao                                                                 
+2017693Comercio Exterior                                                               
+2017694Servicos Financeiros                                                            
+2017695Turismo                                                                         
+2017721Comunicacoes Postais                                                            
+2017722Telecomunicacoes                                                                
+2017751Conservacao de Energia                                                          
+2017752Energia Eletrica                                                                
+2017753Petroleo                                                                        
+2017754Alcool                                                                          
+2017781Transporte Aereo                                                                
+2017782Transporte Rodoviario                                                           
+2017783Transporte Ferroviario                                                          
+2017784Transporte Hidroviario                                                          
+2017785Transportes Especiais                                                           
+2017811Desporto de Rendimento                                                          
+2017812Desporto Comunitario                                                            
+2017813Lazer                                                                           
+2017841Refinanciamento da Divida Interna                                               
+2017842Refinanciamento da Divida Externa                                               
+2017843Servico da Divida Interna                                                       
+2017844Servico da Divida Externa                                                       
+2017845Outras Transferencias                                                           
+2017846Outros Encargos Especiais                                                       
+2017997RESERVA DE CONTINGENCIA DO RPPS                                                 
+2017999RESERVA DE CONTINGENCIA                                                         
 2018031Acao Legislativa                                                                
 2018032Controle Externo                                                                
 2018061Acao Judiciaria                                                                 
@@ -108,222 +542,4 @@
 2018846Outros Encargos Especiais                                                       
 2018997RESERVA DE CONTINGENCIA DO RPPS                                                 
 2018999RESERVA DE CONTINGENCIA                                                         
-2019031Acao Legislativa                                                                
-2019032Controle Externo                                                                
-2019061Acao Judiciaria                                                                 
-2019062Defesa do Interesse Publico no Processo Judiciario                              
-2019091Defesa da Ordem Juridica                                                        
-2019092Representacao Judicial e Extrajudicial                                          
-2019121Planejamento e Orcamento                                                        
-2019122Administracao Geral                                                             
-2019123Administracao Financeira                                                        
-2019124Controle Interno                                                                
-2019125Normatizacao e Fiscalizacao                                                     
-2019126Tecnologia da Informacao                                                        
-2019127Ordenamento Territorial                                                         
-2019128Formacao de Recursos Humanos                                                    
-2019129Administracao de Receitas                                                       
-2019130Administracao de Concessoes                                                     
-2019131Comunicacao Social                                                              
-2019151Defesa Aerea                                                                    
-2019152Defesa Naval                                                                    
-2019153Defesa Terrestre                                                                
-2019181Policiamento                                                                    
-2019182Defesa Civil                                                                    
-2019183Informacao e Inteligencia                                                       
-2019211Relacoes Diplomaticas                                                           
-2019212Cooperacao Internacional                                                        
-2019241Assistencia ao Idoso                                                            
-2019242Assistencia ao Portador de Deficiencia                                          
-2019243Assistencia a Crianca e ao Adolescente                                          
-2019244Assistencia Comunitaria                                                         
-2019271Previdencia Basica                                                              
-2019272Previdencia do Regime Estatutario                                               
-2019273Previdencia Complementar                                                        
-2019274Previdencia Especial                                                            
-2019301Atencao Basica                                                                  
-2019302Assistencia Hospitalar e Ambulatorial                                           
-2019303Suporte Profilatico e Terapeutico                                               
-2019304Vigilancia Sanitaria                                                            
-2019305Vigilancia Epidemiologica                                                       
-2019306Alimentacao e Nutricao                                                          
-2019331Protecao e Beneficios ao Trabalhador                                            
-2019332Relacoes de Trabalho                                                            
-2019333Empregabilidade                                                                 
-2019334Fomento ao Trabalho                                                             
-2019361Ensino Fundamental                                                              
-2019362Ensino Medio                                                                    
-2019363Ensino Profissional                                                             
-2019364Ensino Superior                                                                 
-2019365Educacao Infantil                                                               
-2019366Educacao de Jovens e Adultos                                                    
-2019367Educacao Especial                                                               
-2019391Patrimonio Historico, Artistico e Arqueologico                                  
-2019392Difusao Cultural                                                                
-2019421Custodia e Reintegracao Social                                                  
-2019422Direitos Individuais, Coletivos e Difusos                                       
-2019423Assistencia aos Povos Indigenas                                                 
-2019451Infra-Estrutura Urbana                                                          
-2019452Servicos Urbanos                                                                
-2019453Transportes Coletivos Urbanos                                                   
-2019481Habitacao Rural                                                                 
-2019482Habitacao Urbana                                                                
-2019511Saneamento Basico Rural                                                         
-2019512Saneamento Basico Urbano                                                        
-2019541Preservacao e Conservacao Ambiental                                             
-2019542Controle Ambiental                                                              
-2019543Recuperacao de Areas Degradadas                                                 
-2019544Recursos Hidricos                                                               
-2019545Meteorologia                                                                    
-2019571Desenvolvimento Cientifico                                                      
-2019572Desenvolvimento Tecnologico e Engenharia                                        
-2019573Difusao do Conhecimento Cientifico e Tecnologico                                
-2019605Abastecimento                                                                   
-2019606Extensao Rural                                                                  
-2019607Irrigacao                                                                       
-2019608Promocao da Producao Agropecuaria                                               
-2019609Defesa Agropecuaria                                                             
-2019631Reforma Agraria                                                                 
-2019632Colonizacao                                                                     
-2019661Promocao Industrial                                                             
-2019662Producao Industrial                                                             
-2019663Mineracao                                                                       
-2019664Propriedade Industrial                                                          
-2019665Normalizacao e Qualidade                                                        
-2019691Promocao Comercial                                                              
-2019692Comercializacao                                                                 
-2019693Comercio Exterior                                                               
-2019694Servicos Financeiros                                                            
-2019695Turismo                                                                         
-2019721Comunicacoes Postais                                                            
-2019722Telecomunicacoes                                                                
-2019751Conservacao de Energia                                                          
-2019752Energia Eletrica                                                                
-2019753Petroleo                                                                        
-2019754Alcool                                                                          
-2019781Transporte Aereo                                                                
-2019782Transporte Rodoviario                                                           
-2019783Transporte Ferroviario                                                          
-2019784Transporte Hidroviario                                                          
-2019785Transportes Especiais                                                           
-2019811Desporto de Rendimento                                                          
-2019812Desporto Comunitario                                                            
-2019813Lazer                                                                           
-2019841Refinanciamento da Divida Interna                                               
-2019842Refinanciamento da Divida Externa                                               
-2019843Servico da Divida Interna                                                       
-2019844Servico da Divida Externa                                                       
-2019845Outras Transferencias                                                           
-2019846Outros Encargos Especiais                                                       
-2019997RESERVA DE CONTINGENCIA DO RPPS                                                 
-2019999RESERVA DE CONTINGENCIA                                                         
-2020031Acao Legislativa                                                                
-2020032Controle Externo                                                                
-2020061Acao Judiciaria                                                                 
-2020062Defesa do Interesse Publico no Processo Judiciario                              
-2020091Defesa da Ordem Juridica                                                        
-2020092Representacao Judicial e Extrajudicial                                          
-2020121Planejamento e Orcamento                                                        
-2020122Administracao Geral                                                             
-2020123Administracao Financeira                                                        
-2020124Controle Interno                                                                
-2020125Normatizacao e Fiscalizacao                                                     
-2020126Tecnologia da Informacao                                                        
-2020127Ordenamento Territorial                                                         
-2020128Formacao de Recursos Humanos                                                    
-2020129Administracao de Receitas                                                       
-2020130Administracao de Concessoes                                                     
-2020131Comunicacao Social                                                              
-2020151Defesa Aerea                                                                    
-2020152Defesa Naval                                                                    
-2020153Defesa Terrestre                                                                
-2020181Policiamento                                                                    
-2020182Defesa Civil                                                                    
-2020183Informacao e Inteligencia                                                       
-2020211Relacoes Diplomaticas                                                           
-2020212Cooperacao Internacional                                                        
-2020241Assistencia ao Idoso                                                            
-2020242Assistencia ao Portador de Deficiencia                                          
-2020243Assistencia a Crianca e ao Adolescente                                          
-2020244Assistencia Comunitaria                                                         
-2020271Previdencia Basica                                                              
-2020272Previdencia do Regime Estatutario                                               
-2020273Previdencia Complementar                                                        
-2020274Previdencia Especial                                                            
-2020301Atencao Basica                                                                  
-2020302Assistencia Hospitalar e Ambulatorial                                           
-2020303Suporte Profilatico e Terapeutico                                               
-2020304Vigilancia Sanitaria                                                            
-2020305Vigilancia Epidemiologica                                                       
-2020306Alimentacao e Nutricao                                                          
-2020331Protecao e Beneficios ao Trabalhador                                            
-2020332Relacoes de Trabalho                                                            
-2020333Empregabilidade                                                                 
-2020334Fomento ao Trabalho                                                             
-2020361Ensino Fundamental                                                              
-2020362Ensino Medio                                                                    
-2020363Ensino Profissional                                                             
-2020364Ensino Superior                                                                 
-2020365Educacao Infantil                                                               
-2020366Educacao de Jovens e Adultos                                                    
-2020367Educacao Especial                                                               
-2020391Patrimonio Historico, Artistico e Arqueologico                                  
-2020392Difusao Cultural                                                                
-2020421Custodia e Reintegracao Social                                                  
-2020422Direitos Individuais, Coletivos e Difusos                                       
-2020423Assistencia aos Povos Indigenas                                                 
-2020451Infra-Estrutura Urbana                                                          
-2020452Servicos Urbanos                                                                
-2020453Transportes Coletivos Urbanos                                                   
-2020481Habitacao Rural                                                                 
-2020482Habitacao Urbana                                                                
-2020511Saneamento Basico Rural                                                         
-2020512Saneamento Basico Urbano                                                        
-2020541Preservacao e Conservacao Ambiental                                             
-2020542Controle Ambiental                                                              
-2020543Recuperacao de Areas Degradadas                                                 
-2020544Recursos Hidricos                                                               
-2020545Meteorologia                                                                    
-2020571Desenvolvimento Cientifico                                                      
-2020572Desenvolvimento Tecnologico e Engenharia                                        
-2020573Difusao do Conhecimento Cientifico e Tecnologico                                
-2020605Abastecimento                                                                   
-2020606Extensao Rural                                                                  
-2020607Irrigacao                                                                       
-2020608Promocao da Producao Agropecuaria                                               
-2020609Defesa Agropecuaria                                                             
-2020631Reforma Agraria                                                                 
-2020632Colonizacao                                                                     
-2020661Promocao Industrial                                                             
-2020662Producao Industrial                                                             
-2020663Mineracao                                                                       
-2020664Propriedade Industrial                                                          
-2020665Normalizacao e Qualidade                                                        
-2020691Promocao Comercial                                                              
-2020692Comercializacao                                                                 
-2020693Comercio Exterior                                                               
-2020694Servicos Financeiros                                                            
-2020695Turismo                                                                         
-2020721Comunicacoes Postais                                                            
-2020722Telecomunicacoes                                                                
-2020751Conservacao de Energia                                                          
-2020752Energia Eletrica                                                                
-2020753Petroleo                                                                        
-2020754Alcool                                                                          
-2020781Transporte Aereo                                                                
-2020782Transporte Rodoviario                                                           
-2020783Transporte Ferroviario                                                          
-2020784Transporte Hidroviario                                                          
-2020785Transportes Especiais                                                           
-2020811Desporto de Rendimento                                                          
-2020812Desporto Comunitario                                                            
-2020813Lazer                                                                           
-2020841Refinanciamento da Divida Interna                                               
-2020842Refinanciamento da Divida Externa                                               
-2020843Servico da Divida Interna                                                       
-2020844Servico da Divida Externa                                                       
-2020845Outras Transferencias                                                           
-2020846Outros Encargos Especiais                                                       
-2020997RESERVA DO RPPS                                                                 
-2020999RESERVA DE CONTINGENCIA                                                         
-FINALIZADOR0000000327                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+FINALIZADOR0000000543                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

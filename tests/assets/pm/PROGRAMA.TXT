@@ -1,4 +1,129 @@
-87612826000190010120203004202008052020PREFEITURA MUNICIPAL INDEPENDENCIA                                              
+87612826000190010120183112201801012019PREFEITURA MUNICIPAL INDEPENDENCIA                                              
+20140000ENCARGOS ESPECIAIS                                                              
+20140001APOIO ADMINISTRATIVO                                                            
+20140002PREVIDENCIA DO SERVIDOR ESTATUTARIO                                             
+20140003ACAO LEGISLATIVA                                                                
+20140004DEFESA DAS CRIANCAS E ADOLESCENTES                                              
+20140005INFRAESTRUTURA RURAL                                                            
+20140006INFRAESTRUTURA URBANA                                                           
+20140007SERVICOS URBANOS                                                                
+20140008TRANSITO MUNICIPAL                                                              
+20140009ASSISTENCIA AO IDOSO                                                            
+20140010ASSISTENCIA A FAMILIAS                                                          
+20140011HABITACAO DE INTERESSE SOCIAL                                                   
+20140012FOMENTO A AGRICULTURA                                                           
+20140013FOMENTO AO COMERCIO, INDUSTRIA E SERVICOS                                       
+20140014DEFESA CIVIL                                                                    
+20140015PROGRAMA DE PRESERVACAO AMBIENTAL                                               
+20140016FORMACAO DE RECURSOS HUMANOS                                                    
+20140017ALIMENTACAO E NUTRICAO - MERENDA ESCOLAR                                        
+20140018ENSINO FUNDAMENTAL                                                              
+20140019TRANSPORTE ESCOLAR PARA O ENSINO BASICO                                         
+20140020PROMOCAO DA DIFUSAO CULTURAL                                                    
+20140021EDUCACAO INFANTIL                                                               
+20140022INCENTIVO AO DESPORTO E LAZER COMUNITARIOS                                      
+20140023PROMOCAO AO TURISMO                                                             
+20140024ATENCAO BASICA                                                                  
+20140025ATENCAO MAC AMBULATORIAL E HOSPITALAR                                           
+20140026VIGILANCIA EM SAUDE                                                             
+20140027ASSISTENCIA FAMACEUTICA                                                         
+20140030ASSISTENCIA A PORTADORES DE DEFICIENCIA                                         
+20140031PROGRAMA DE APOIO A MULHER                                                      
+20140032INCENTIVO A GERACAO DE EMPREGO E RENDA                                          
+20149999RESERVA DE CONTINGENCIA                                                         
+20150000ENCARGOS ESPECIAIS                                                              
+20150001APOIO ADMINISTRATIVO                                                            
+20150002PREVIDENCIA DO SERVIDOR ESTATUTARIO                                             
+20150003ACAO LEGISLATIVA                                                                
+20150004DEFESA DAS CRIANCAS E ADOLESCENTES                                              
+20150005INFRAESTRUTURA RURAL                                                            
+20150006INFRAESTRUTURA URBANA                                                           
+20150007SERVICOS URBANOS                                                                
+20150008TRANSITO MUNICIPAL                                                              
+20150009ASSISTENCIA AO IDOSO                                                            
+20150010ASSISTENCIA A FAMILIAS                                                          
+20150011HABITACAO DE INTERESSE SOCIAL                                                   
+20150012FOMENTO A AGRICULTURA                                                           
+20150013FOMENTO AO COMERCIO, INDUSTRIA E SERVICOS                                       
+20150014DEFESA CIVIL                                                                    
+20150015PROGRAMA DE PRESERVACAO AMBIENTAL                                               
+20150016FORMACAO DE RECURSOS HUMANOS                                                    
+20150017ALIMENTACAO E NUTRICAO - MERENDA ESCOLAR                                        
+20150018ENSINO FUNDAMENTAL                                                              
+20150019TRANSPORTE ESCOLAR PARA O ENSINO BASICO                                         
+20150020PROMOCAO DA DIFUSAO CULTURAL                                                    
+20150021EDUCACAO INFANTIL                                                               
+20150022INCENTIVO AO DESPORTO E LAZER COMUNITARIOS                                      
+20150023PROMOCAO AO TURISMO                                                             
+20150024ATENCAO BASICA                                                                  
+20150025ATENCAO MAC AMBULATORIAL E HOSPITALAR                                           
+20150026VIGILANCIA EM SAUDE                                                             
+20150027ASSISTENCIA FAMACEUTICA                                                         
+20150030ASSISTENCIA A PORTADORES DE DEFICIENCIA                                         
+20150031PROGRAMA DE APOIO A MULHER                                                      
+20159999RESERVA DE CONTINGENCIA                                                         
+20160000ENCARGOS ESPECIAIS                                                              
+20160001APOIO ADMINISTRATIVO                                                            
+20160002PREVIDENCIA DO SERVIDOR ESTATUTARIO                                             
+20160003ACAO LEGISLATIVA                                                                
+20160004DEFESA DAS CRIANCAS E ADOLESCENTES                                              
+20160005INFRAESTRUTURA RURAL                                                            
+20160006INFRAESTRUTURA URBANA                                                           
+20160007SERVICOS URBANOS                                                                
+20160008TRANSITO MUNICIPAL                                                              
+20160009ASSISTENCIA AO IDOSO                                                            
+20160010ASSISTENCIA A FAMILIAS                                                          
+20160011HABITACAO DE INTERESSE SOCIAL                                                   
+20160012FOMENTO A AGRICULTURA                                                           
+20160013FOMENTO AO COMERCIO, INDUSTRIA E SERVICOS                                       
+20160014DEFESA CIVIL                                                                    
+20160015PROGRAMA DE PRESERVACAO AMBIENTAL                                               
+20160016FORMACAO DE RECURSOS HUMANOS                                                    
+20160017ALIMENTACAO E NUTRICAO - MERENDA ESCOLAR                                        
+20160018ENSINO FUNDAMENTAL                                                              
+20160019TRANSPORTE ESCOLAR PARA O ENSINO BASICO                                         
+20160020PROMOCAO DA DIFUSAO CULTURAL                                                    
+20160021EDUCACAO INFANTIL                                                               
+20160022INCENTIVO AO DESPORTO E LAZER COMUNITARIOS                                      
+20160023PROMOCAO AO TURISMO                                                             
+20160024ATENCAO BASICA                                                                  
+20160025ATENCAO MAC AMBULATORIAL E HOSPITALAR                                           
+20160026VIGILANCIA EM SAUDE                                                             
+20160027ASSISTENCIA FAMACEUTICA                                                         
+20160030ASSISTENCIA A PORTADORES DE DEFICIENCIA                                         
+20160031PROGRAMA DE APOIO A MULHER                                                      
+20169999RESERVA DE CONTINGENCIA                                                         
+20170000ENCARGOS ESPECIAIS                                                              
+20170001APOIO ADMINISTRATIVO                                                            
+20170002PREVIDENCIA DO SERVIDOR ESTATUTARIO                                             
+20170003ACAO LEGISLATIVA                                                                
+20170004DEFESA DAS CRIANCAS E ADOLESCENTES                                              
+20170005INFRAESTRUTURA RURAL                                                            
+20170006INFRAESTRUTURA URBANA                                                           
+20170007SERVICOS URBANOS                                                                
+20170008TRANSITO MUNICIPAL                                                              
+20170009ASSISTENCIA AO IDOSO                                                            
+20170010ASSISTENCIA A FAMILIAS                                                          
+20170011HABITACAO DE INTERESSE SOCIAL                                                   
+20170012FOMENTO A AGRICULTURA                                                           
+20170013FOMENTO AO COMERCIO, INDUSTRIA E SERVICOS                                       
+20170014DEFESA CIVIL                                                                    
+20170015PROGRAMA DE PRESERVACAO AMBIENTAL                                               
+20170016FORMACAO DE RECURSOS HUMANOS                                                    
+20170017ALIMENTACAO E NUTRICAO - MERENDA ESCOLAR                                        
+20170018ENSINO FUNDAMENTAL                                                              
+20170019TRANSPORTE ESCOLAR PARA O ENSINO BASICO                                         
+20170020PROMOCAO DA DIFUSAO CULTURAL                                                    
+20170021EDUCACAO INFANTIL                                                               
+20170022INCENTIVO AO DESPORTO E LAZER COMUNITARIOS                                      
+20170023PROMOCAO AO TURISMO                                                             
+20170024ATENCAO BASICA                                                                  
+20170025ATENCAO MAC AMBULATORIAL E HOSPITALAR                                           
+20170026VIGILANCIA EM SAUDE                                                             
+20170027ASSISTENCIA FAMACEUTICA                                                         
+20170030ASSISTENCIA A PORTADORES DE DEFICIENCIA                                         
+20170031PROGRAMA DE APOIO A MULHER                                                      
+20179999RESERVA DE CONTINGENCIA                                                         
 20180000Encargos Especiais                                                              
 20180001Apoio Administrativo                                                            
 20180002Educacao e Cidadania                                                            
@@ -19,46 +144,4 @@
 20180017Infraestrutura Urbana e Rural                                                   
 20180018Transito Municipal                                                              
 20180020Previdencia do Servidor Estatutario                                             
-20190000Encargos Especiais                                                              
-20190001Apoio Administrativo                                                            
-20190002Educacao e Cidadania                                                            
-20190003Promocao da Cultura, Desporto e Lazer Comunitarios                              
-20190004Desenvolvimento Economico e Producao Agricola                                   
-20190005Programa de Gestao da Saude                                                     
-20190006Programa de Atencao Basica em Saude                                             
-20190007Programa de Vigilancia em Saude                                                 
-20190008Programa de acesso aos servicos de saude de media e alta complexidade, hospitala
-20190009Programa de assistencia farmaceutica                                            
-20190010Servicos Urbanos                                                                
-20190011Assistencia, Protecao e Inclusao Social                                         
-20190012Saneamento Basico                                                               
-20190013Gestao, Protecao e Recuperacao do Meio Ambiente                                 
-20190014Seguranca e Defesa Civil                                                        
-20190015Acao Legislativa                                                                
-20190016Habitacao Urbana e Rural                                                        
-20190017Infraestrutura Urbana e Rural                                                   
-20190018Transito Municipal                                                              
-20190020Previdencia do Servidor Estatutario                                             
-20199999RESERVAS DE CONTINGENCIA E DO RPPS                                              
-20200000ENCARGOS ESPECIAIS                                                              
-20200001APOIO ADMINISTRATIVO                                                            
-20200002EDUCACAO E CIDADANIA                                                            
-20200003PROMOCAO DA CULTURA, DESPORTO E LAZER COMUNITARIOS                              
-20200004DESENVOLVIMENTO ECONOMICO E PRODUCAO AGRICOLA                                   
-20200005PROGRAMA DE GESTAO DA SAUDE                                                     
-20200006PROGRAMA DE ATENCAO BASICA EM SAUDE                                             
-20200007PROGRAMA DE VIGILANCIA EM SAUDE                                                 
-20200008PROGRAMA DE ACESSO AOS SERVICOS DE SAUDE DE MEDIA E ALTA COMPLEXIDADE, HOSPITALA
-20200009PROGRAMA DE ASSISTENCIA FARMACEUTICA                                            
-20200010SERVICOS URBANOS                                                                
-20200011ASSISTENCIA, PROTECAO E INCLUSAO SOCIAL                                         
-20200012SANEAMENTO BASICO                                                               
-20200013GESTAO, PROTECAO E RECUPERACAO DO MEIO AMBIENTE                                 
-20200014SEGURANCA E DEFESA CIVIL                                                        
-20200015ACAO LEGISLATIVA                                                                
-20200016HABITACAO URBANA E RURAL                                                        
-20200017INFRAESTRUTURA URBANA E RURAL                                                   
-20200018TRANSITO MUNICIPAL                                                              
-20200020PREVIDENCIA DO SERVIDOR ESTATUTARIO                                             
-20209999RESERVAS DE CONTINGENCIA E DO RPPS                                              
-FINALIZADOR0000000062                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+FINALIZADOR0000000145                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

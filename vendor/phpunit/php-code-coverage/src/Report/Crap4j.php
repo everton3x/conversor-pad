@@ -10,6 +10,7 @@
 namespace SebastianBergmann\CodeCoverage\Report;
 
 use SebastianBergmann\CodeCoverage\CodeCoverage;
+use SebastianBergmann\CodeCoverage\Directory;
 use SebastianBergmann\CodeCoverage\Node\File;
 use SebastianBergmann\CodeCoverage\RuntimeException;
 
@@ -38,7 +39,7 @@ final class Crap4j
 
         $project = $document->createElement('project', \is_string($name) ? $name : '');
         $root->appendChild($project);
-        $root->appendChild($document->createElement('timestamp', \date('Y-m-d H:i:s', $_SERVER['REQUEST_TIME'])));
+        $root->appendChild($document->createElement('timestamp', \date('Y-m-d H:i:s')));
 
         $stats       = $document->createElement('stats');
         $methodsNode = $document->createElement('methods');
@@ -116,9 +117,7 @@ final class Crap4j
         $buffer = $document->saveXML();
 
         if ($target !== null) {
-            if (!$this->createDirectory(\dirname($target))) {
-                throw new \RuntimeException(\sprintf('Directory "%s" was not created', \dirname($target)));
-            }
+            Directory::create(\dirname($target));
 
             if (@\file_put_contents($target, $buffer) === false) {
                 throw new RuntimeException(
@@ -148,10 +147,5 @@ final class Crap4j
     private function roundValue(float $value): float
     {
         return \round($value, 2);
-    }
-
-    private function createDirectory(string $directory): bool
-    {
-        return !(!\is_dir($directory) && !@\mkdir($directory, 0777, true) && !\is_dir($directory));
     }
 }

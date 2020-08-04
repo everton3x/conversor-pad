@@ -1,4 +1,128 @@
-87612826000190010120203004202008052020PREFEITURA MUNICIPAL INDEPENDENCIA                                              
+87612826000190010120183112201801012019PREFEITURA MUNICIPAL INDEPENDENCIA                                              
+20140201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
+20140202FUNDICA - FUNDO DA CRIANCA E ADOLESCENTE                                        0187612826000190
+20140203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
+20140301SECRETARIA DE ADMINISTRACAO                                                     0187612826000190
+20140401SECRETARIA DA FAZENDA                                                           0187612826000190
+20140501EDUCACAO SETOR ADMINISTRATIVO                                                   0387612826000190
+20140502SETOR DE EDUCACAO BASICA                                                        0387612826000190
+20140503SETOR DE CULTURA DESPORTO E TURISMO                                             0187612826000190
+20140507SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
+20140601OBRAS SETOR ADMINISTRATIVO                                                      0187612826000190
+20140602SETOR DE OBRAS                                                                  0187612826000190
+20140603SETOR DE ESTRADAS                                                               0187612826000190
+20140701SERVICOS URBANOS SETOR ADMINISTRATIVO                                           0187612826000190
+20140702SETOR DE SERVICOS URBANOS                                                       0187612826000190
+20140703SETOR DE TRANSITO                                                               0187612826000190
+20140801SAUDE SETOR ADMINISTRATIVO                                                      0487612826000190
+20140802UNIDADES BASICAS DE SAUDE                                                       0487612826000190
+20140803HOSPITAL MUNICIPAL                                                              0487612826000190
+20140804REDE SUPLEMENTAR DE SAUDE                                                       0487612826000190
+20140805PIM                                                                             0487612826000190
+20140806VIGILANCIA EM SAUDE                                                             0487612826000190
+20140901ASSISTENCIA SETOR ADMINISTRATIVO                                                0187612826000190
+20140902FMAS - FUNDO DE ASSISTENCIA SOCIAL - FMAS F ESTADUAL                            0187612826000190
+20140903FMHIS - FUNDO DE HABITACAO                                                      0187612826000190
+20141001AGRICULTURA SETOR ADMINISTRATIVO                                                0187612826000190
+20141002SETOR DE AGRICULTURA                                                            0187612826000190
+20141003SETOR DE INDUSTRIA E COMERCIO                                                   0187612826000190
+20141004SETOR DE SANEAMENTO                                                             0187612826000190
+20141005FUNDEC - FUNDO DE DEFESA CIVIL                                                  0187612826000190
+20141006FMDMA - FUNDO DO MEIO AMBIENTE                                                  0187612826000190
+20141101ENCARGOS ESPECIAIS                                                              0187612826000190
+20141201FPSM - RPPS                                                                     0587612826000190
+20150201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
+20150202FUNDICA FUNDO MUN. DEFESA DOS DIREITOS DA CRIANCA E DO ADOLESCENTE              0187612826000190
+20150203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
+20150301SECRETARIA DE ADMINISTRACAO                                                     0187612826000190
+20150401SECRETARIA DA FAZENDA                                                           0187612826000190
+20150501EDUCACAO SETOR ADMINSITRATIVO                                                   0387612826000190
+20150502SETOR DE EDUCACAO BASICA                                                        0387612826000190
+20150503SETOR DE CULTURA DESPORTO E TURISMO                                             0387612826000190
+20150504SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
+20150601OBRAS SETOR ADMINISTRATIVO                                                      0187612826000190
+20150602SETOR DE OBRAS                                                                  0187612826000190
+20150603SETOR DE ESTRADAS                                                               0187612826000190
+20150604SETOR DE TRANSPORTE COLETIVO                                                    0187612826000190
+20150701SERVICOS URBANOS SETOR ADMINISTRATIVO                                           0187612826000190
+20150702SETOR DE SERVICOS URBANOS                                                       0187612826000190
+20150703SETOR DE TRANSITO                                                               0187612826000190
+20150801SECRETARIA DE SAUDE                                                             0487612826000190
+20150802FMS FUNDO MUNICIPAL DE SAUDE                                                    0487612826000190
+20150901ASSISTENCIA SOCIAL SETOR ADMINISTRATIVO                                         0187612826000190
+20150902FMAS FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL                                      0187612826000190
+20150903FMHIS - FUNDO DE HABITACAO                                                      0187612826000190
+20151001AGRICULTURA SETOR ADMINISTRATIVO                                                0187612826000190
+20151002SETOR DE AGRICULTURA                                                            0187612826000190
+20151003SETOR DE INDUSTRIA E COMERCIO                                                   0187612826000190
+20151004SETOR DE SANEAMENTO                                                             0187612826000190
+20151005FMDMA - FUNDO DO MEIO AMBIENTE                                                  0187612826000190
+20151006FUNDEC - FUNDO DE DEFESA CIVIL                                                  0187612826000190
+20151101ACOES NAO INTEGRANTES DO PPA                                                    0187612826000190
+20151201FUNDO DE PREVIDENCIA SOCIAL DO MUNICIPIO FPSM - R P P S                         0587612826000190
+20159999UNIDADE DE RESERVA DE CONTINGENCIA                                              0187612826000190
+20160201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
+20160202FUNDICA - FUNDO DA CRIANCA E ADOLESCENTE                                        0187612826000190
+20160203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
+20160301SECRETARIA DE ADMINISTRACAO                                                     0187612826000190
+20160401SECRETARIA DA FAZENDA                                                           0187612826000190
+20160501EDUCACAO SETOR ADMINISTRATIVO                                                   0387612826000190
+20160502SETOR DE EDUCACAO BASICA                                                        0387612826000190
+20160503SETOR DE CULTURA DESPORTO E TURISMO                                             0187612826000190
+20160504SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
+20160507SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
+20160601OBRAS SETOR ADMINISTRATIVO                                                      0187612826000190
+20160602SETOR DE OBRAS                                                                  0187612826000190
+20160603SETOR DE ESTRADAS                                                               0187612826000190
+20160604SETOR DE TRANSPORTE COLETIVO                                                    0187612826000190
+20160701SERVICOS URBANOS SETOR ADMINISTRATIVO                                           0187612826000190
+20160702SETOR DE SERVICOS URBANOS                                                       0187612826000190
+20160703SETOR DE TRANSITO                                                               0187612826000190
+20160801FUNDO MUNICIPAL DE SAUDE                                                        0487612826000190
+20160901ASSISTENCIA SETOR ADMINISTRATIVO                                                0187612826000190
+20160902FMAS - FUNDO DE ASSISTENCIA SOCIAL - FMAS F ESTADUAL                            0187612826000190
+20160903FMHIS - FUNDO DE HABITACAO                                                      0187612826000190
+20161001AGRICULTURA SETOR ADMINISTRATIVO                                                0187612826000190
+20161002SETOR DE AGRICULTURA                                                            0187612826000190
+20161003SETOR DE INDUSTRIA E COMERCIO                                                   0187612826000190
+20161004SETOR DE SANEAMENTO                                                             0187612826000190
+20161005FUNDEC - FUNDO DE DEFESA CIVIL                                                  0187612826000190
+20161006FMDMA - FUNDO DO MEIO AMBIENTE                                                  0187612826000190
+20161101ENCARGOS ESPECIAIS                                                              0187612826000190
+20161201FPSM - RPPS                                                                     0587612826000190
+20169999UNIDADE DE RESERVA DE CONTINGENCIA                                              0187612826000190
+20170201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
+20170202FUNDICA - FUNDO DA CRIANCA E ADOLESCENTE                                        0187612826000190
+20170203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
+20170204CONSELHO TUTELAR                                                                0187612826000190
+20170301SECRETARIA DE ADMINISTRACAO                                                     0187612826000190
+20170401SECRETARIA DA FAZENDA                                                           0187612826000190
+20170501EDUCACAO SETOR ADMINISTRATIVO                                                   0387612826000190
+20170502SETOR DE EDUCACAO BASICA                                                        0387612826000190
+20170503SETOR DE CULTURA DESPORTO E TURISMO                                             0187612826000190
+20170504SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
+20170507SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
+20170601OBRAS SETOR ADMINISTRATIVO                                                      0187612826000190
+20170602SETOR DE OBRAS                                                                  0187612826000190
+20170603SETOR DE ESTRADAS                                                               0187612826000190
+20170604SETOR DE TRANSPORTE COLETIVO                                                    0187612826000190
+20170701SERVICOS URBANOS SETOR ADMINISTRATIVO                                           0187612826000190
+20170702SETOR DE SERVICOS URBANOS                                                       0187612826000190
+20170703SETOR DE TRANSITO                                                               0187612826000190
+20170801FUNDO MUNICIPAL DE SAUDE                                                        0487612826000190
+20170802FMS FUNDO MUNICIPAL DE SAUDE                                                    0487612826000190
+20170901ASSISTENCIA SETOR ADMINISTRATIVO                                                0187612826000190
+20170902FMAS - FUNDO DE ASSISTENCIA SOCIAL - FMAS F ESTADUAL                            0187612826000190
+20170903FMHIS - FUNDO DE HABITACAO                                                      0187612826000190
+20171001AGRICULTURA SETOR ADMINISTRATIVO                                                0187612826000190
+20171002SETOR DE AGRICULTURA                                                            0187612826000190
+20171003SETOR DE INDUSTRIA E COMERCIO                                                   0187612826000190
+20171004SETOR DE SANEAMENTO                                                             0187612826000190
+20171005FUNDEC - FUNDO DE DEFESA CIVIL                                                  0187612826000190
+20171006FMDMA - FUNDO DO MEIO AMBIENTE                                                  0187612826000190
+20171101ENCARGOS ESPECIAIS                                                              0187612826000190
+20171201FPSM - RPPS                                                                     0587612826000190
+20179999UNIDADE DE RESERVA DE CONTINGENCIA                                              0187612826000190
 20180201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
 20180202FUNDICA - FUNDO DA CRIANCA E ADOLESCENTE                                        0187612826000190
 20180203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
@@ -29,64 +153,4 @@
 20181101ENCARGOS ESPECIAIS                                                              0187612826000190
 20181201FPSM - RPPS                                                                     0587612826000190
 20189999UNIDADE DE RESERVA DE CONTINGENCIA                                              0187612826000190
-20190201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
-20190202FUNDICA - FUNDO DA CRIANCA E ADOLESCENTE                                        0187612826000190
-20190203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
-20190204CONSELHO TUTELAR                                                                0187612826000190
-20190301SECRETARIA DE ADMINISTRACAO                                                     0187612826000190
-20190401SECRETARIA DA FAZENDA                                                           0187612826000190
-20190501EDUCACAO SETOR ADMINISTRATIVO                                                   0387612826000190
-20190502SETOR DE EDUCACAO BASICA                                                        0387612826000190
-20190503SETOR DE CULTURA DESPORTO E TURISMO                                             0187612826000190
-20201004SETOR DE SANEAMENTO                                                             0187612826000190
-20201005FUNDEC - FUNDO DE DEFESA CIVIL                                                  0187612826000190
-20201006FMDMA - FUNDO DO MEIO AMBIENTE                                                  0187612826000190
-20201101ENCARGOS ESPECIAIS                                                              0187612826000190
-20201201FPSM - RPPS                                                                     0587612826000190
-20201102UNIDADE DE RESERVA DE CONTINGENCIA                                              0187612826000190
-20200504SETOR DE DESPORTO                                                               0187612826000190
-20200505SETOR DE TURISMO                                                                0187612826000190
-20190504SETOR DE TRANSPORTE ESCOLAR                                                     0387612826000190
-20190601OBRAS SETOR ADMINISTRATIVO                                                      0187612826000190
-20190602SETOR DE OBRAS                                                                  0187612826000190
-20190603SETOR DE ESTRADAS                                                               0187612826000190
-20190604SETOR DE TRANSPORTE COLETIVO                                                    0187612826000190
-20190701SERVICOS URBANOS SETOR ADMINISTRATIVO                                           0187612826000190
-20190702SETOR DE SERVICOS URBANOS                                                       0187612826000190
-20190703SETOR DE TRANSITO                                                               0187612826000190
-20190801FUNDO MUNICIPAL DE SAUDE                                                        0487612826000190
-20190901ASSISTENCIA SETOR ADMINISTRATIVO                                                0187612826000190
-20190902FMAS - FUNDO DE ASSISTENCIA SOCIAL - FMAS F ESTADUAL                            0187612826000190
-20190903FMHIS - FUNDO DE HABITACAO                                                      0187612826000190
-20191001AGRICULTURA SETOR ADMINISTRATIVO                                                0187612826000190
-20191002SETOR DE AGRICULTURA                                                            0187612826000190
-20191003SETOR DE INDUSTRIA E COMERCIO                                                   0187612826000190
-20191004SETOR DE SANEAMENTO                                                             0187612826000190
-20191005FUNDEC - FUNDO DE DEFESA CIVIL                                                  0187612826000190
-20191006FMDMA - FUNDO DO MEIO AMBIENTE                                                  0187612826000190
-20191101ENCARGOS ESPECIAIS                                                              0187612826000190
-20191201FPSM - RPPS                                                                     0587612826000190
-20200201GABINETE DO PREFEITO E VICE-PREFEITO                                            0187612826000190
-20200202FUNDICA - FUNDO DA CRIANCA E ADOLESCENTE                                        0187612826000190
-20200203UNIDADES DE ASSESSORAMENTO                                                      0187612826000190
-20200204CONSELHO TUTELAR                                                                0187612826000190
-20200301SECRETARIA DE ADMINISTRACAO                                                     0187612826000190
-20200401SECRETARIA DA FAZENDA                                                           0187612826000190
-20200501SMECDT SETOR ADMINISTRATIVO                                                     0387612826000190
-20200502SETOR DE EDUCACAO BASICA                                                        0387612826000190
-20200503SETOR DE CULTURA                                                                0187612826000190
-20200601SMOV SETOR ADMINISTRATIVO                                                       0187612826000190
-20200602SETOR DE OBRAS                                                                  0187612826000190
-20200603SETOR DE ESTRADAS                                                               0187612826000190
-20200604SETOR DE TRANSPORTE COLETIVO                                                    0187612826000190
-20200701SMSUT URBANOS SETOR ADMINISTRATIVO                                              0187612826000190
-20200702SETOR DE SERVICOS URBANOS                                                       0187612826000190
-20200703SETOR DE TRANSITO                                                               0187612826000190
-20200801FUNDO MUNICIPAL DE SAUDE                                                        0487612826000190
-20200901SMAS SETOR ADMINISTRATIVO                                                       0187612826000190
-20200902FMAS - FUNDO DE ASSISTENCIA SOCIAL - FMAS F ESTADUAL                            0187612826000190
-20200903FMHIS - FUNDO DE HABITACAO                                                      0187612826000190
-20201001SMAB SETOR ADMINISTRATIVO                                                       0187612826000190
-20201002SETOR DE AGRICULTURA                                                            0187612826000190
-20201003SETOR DE INDUSTRIA E COMERCIO                                                   0187612826000190
-FINALIZADOR0000000090                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+FINALIZADOR0000000154                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

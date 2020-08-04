@@ -1,11 +1,55 @@
-12292535000162010120203004202008052020CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
-201901CAMARA MUNICIPAL DE VEREADORES                                                  
-201902GABINETE DO PREFEITO E VICE PREFEITO                                            
-201903SECRETARIA DE ADMINISTRACAO                                                     
-201904SECRETARIA DA FAZENDA                                                           
-201905SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
-201906SECRETARIA DE OBRAS E VIACAO                                                    
-201907SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+12292535000162010120183112201823012019CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+201401CAMARA MUNICIPAL DE VEREADORES                                                  
+201402GABINETE DO PREFEITO E VICE PREFEITO                                            
+201403SECRETARIA DE ADMINISTRACAO                                                     
+201404SECRETARIA DA FAZENDA                                                           
+201405SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
+201406SECRETARIA DE OBRAS E VIACAO                                                    
+201407SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+201408FUNDO MUNICIPAL DE SAUDE                                                        
+201409SECRETARIA DA ASSISTENCIA SOCIAL                                                
+201410SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+201411ENCARGOS ESPECIAIS                                                              
+201412FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+201501CAMARA MUNICIPAL DE VEREADORES                                                  
+201502GABINETE DO PREFEITO E VICE PREFEITO E DEPENDENCIAS                             
+201503SECRETARIA DE ADMINISTRACAO                                                     
+201504SECRETARIA DA FAZENDA                                                           
+201505SECRETARIA DE EDUCACAO,CULTURA,DESPORTO E TURISMO                               
+201506SECRETARIA DE OBRAS E VIACAO                                                    
+201507SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+201508SECRETARIA DE SAUDE                                                             
+201509SECRETARIA DA ASSISTENCIA SOCIAL                                                
+201510SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+201511ENCARGOS ESPECIAIS                                                              
+201512FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+201599RESERVA DE CONTINGENCIA                                                         
+201601CAMARA MUNICIPAL DE VEREADORES                                                  
+201602GABINETE DO PREFEITO E VICE PREFEITO                                            
+201603SECRETARIA DE ADMINISTRACAO                                                     
+201604SECRETARIA DA FAZENDA                                                           
+201605SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
+201606SECRETARIA DE OBRAS E VIACAO                                                    
+201607SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+201608SECRETARIA MUNICIPAL DE SAUDE                                                   
+201609SECRETARIA DA ASSISTENCIA SOCIAL                                                
+201610SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+201611ENCARGOS ESPECIAIS                                                              
+201612FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+201699RESERVA DE CONTINGENCIA                                                         
+201701CAMARA MUNICIPAL DE VEREADORES                                                  
+201702GABINETE DO PREFEITO E VICE PREFEITO                                            
+201703SECRETARIA DE ADMINISTRACAO                                                     
+201704SECRETARIA DA FAZENDA                                                           
+201705SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
+201706SECRETARIA DE OBRAS E VIACAO                                                    
+201707SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
+201708SECRETARIA MUNICIPAL DE SAUDE                                                   
+201709SECRETARIA DA ASSISTENCIA SOCIAL                                                
+201710SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
+201711ENCARGOS ESPECIAIS                                                              
+201712FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
+201799RESERVA DE CONTINGENCIA                                                         
 201801CAMARA MUNICIPAL DE VEREADORES                                                  
 201802GABINETE DO PREFEITO E VICE PREFEITO                                            
 201803SECRETARIA DE ADMINISTRACAO                                                     
@@ -19,21 +63,4 @@
 201811ENCARGOS ESPECIAIS                                                              
 201812FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
 201899RESERVA DE CONTINGENCIA                                                         
-201908SECRETARIA MUNICIPAL DE SAUDE                                                   
-201909SECRETARIA DA ASSISTENCIA SOCIAL                                                
-201910SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
-201911ENCARGOS ESPECIAIS                                                              
-201912FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
-202001CAMARA MUNICIPAL DE VEREADORES                                                  
-202002GABINETE DO PREFEITO E VICE PREFEITO                                            
-202003SECRETARIA DE ADMINISTRACAO                                                     
-202004SECRETARIA DA FAZENDA                                                           
-202005SECRETARIA DE EDUCACAO CULTURA DESPORTO E TURISMO                               
-202006SECRETARIA DE OBRAS E VIACAO                                                    
-202007SECRETARIA DE SERVICOS URBANOS E TRANSITO                                       
-202008SECRETARIA MUNICIPAL DE SAUDE                                                   
-202009SECRETARIA DA ASSISTENCIA SOCIAL                                                
-202010SECRETARIA DA AGRICULTURA E ABASTECIMENTO                                       
-202011ENCARGOS ESPECIAIS                                                              
-202012FUNDO DE PREVIDENCIA DO SERVIDOR MUNICIPAL - FPSM                               
-FINALIZADOR0000000037                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+FINALIZADOR0000000064                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

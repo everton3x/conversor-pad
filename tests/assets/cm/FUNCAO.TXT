@@ -1,4 +1,120 @@
-12292535000162010120203004202008052020CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+12292535000162010120183112201823012019CAMARA DE VEREADORES DE INDEPENDENCIA-RS                                        
+201401LEGISLATIVA                                                                     
+201402JUDICIARIA                                                                      
+201403ESSENCIAL A JUSTICA                                                             
+201404ADMINISTRACAO                                                                   
+201405DEFESA NACIONAL                                                                 
+201406SEGURANCA PUBLICA                                                               
+201407RELACOES EXTERIORES                                                             
+201408ASSISTENCIA SOCIAL                                                              
+201409PREVIDENCIA SOCIAL                                                              
+201410SAUDE                                                                           
+201411TRABALHO                                                                        
+201412EDUCACAO                                                                        
+201413CULTURA                                                                         
+201414DIREITOS DA CIDADANIA                                                           
+201415URBANISMO                                                                       
+201416HABITACAO                                                                       
+201417SANEAMENTO                                                                      
+201418GESTAO AMBIENTAL                                                                
+201419CIENCIA E TECNOLOGIA                                                            
+201420AGRICULTURA                                                                     
+201421ORGANIZACAO AGRARIA                                                             
+201422INDUSTRIA                                                                       
+201423COMERCIO E SERVICOS                                                             
+201424COMUNICACOES                                                                    
+201425ENERGIA                                                                         
+201426TRANSPORTE                                                                      
+201427DESPORTO E LAZER                                                                
+201428ENCARGOS ESPECIAIS                                                              
+201499RESERVA DE CONTINGENCIA                                                         
+201501LEGISLATIVA                                                                     
+201502JUDICIARIA                                                                      
+201503ESSENCIAL A JUSTICA                                                             
+201504ADMINISTRACAO                                                                   
+201505DEFESA NACIONAL                                                                 
+201506SEGURANCA PUBLICA                                                               
+201507RELACOES EXTERIORES                                                             
+201508ASSISTENCIA SOCIAL                                                              
+201509PREVIDENCIA SOCIAL                                                              
+201510SAUDE                                                                           
+201511TRABALHO                                                                        
+201512EDUCACAO                                                                        
+201513CULTURA                                                                         
+201514DIREITOS DA CIDADANIA                                                           
+201515URBANISMO                                                                       
+201516HABITACAO                                                                       
+201517SANEAMENTO                                                                      
+201518GESTAO AMBIENTAL                                                                
+201519CIENCIA E TECNOLOGIA                                                            
+201520AGRICULTURA                                                                     
+201521ORGANIZACAO AGRARIA                                                             
+201522INDUSTRIA                                                                       
+201523COMERCIO E SERVICOS                                                             
+201524COMUNICACOES                                                                    
+201525ENERGIA                                                                         
+201526TRANSPORTE                                                                      
+201527DESPORTO E LAZER                                                                
+201528ENCARGOS ESPECIAIS                                                              
+201599RESERVA DE CONTINGENCIA                                                         
+201601LEGISLATIVA                                                                     
+201602JUDICIARIA                                                                      
+201603ESSENCIAL A JUSTICA                                                             
+201604ADMINISTRACAO                                                                   
+201605DEFESA NACIONAL                                                                 
+201606SEGURANCA PUBLICA                                                               
+201607RELACOES EXTERIORES                                                             
+201608ASSISTENCIA SOCIAL                                                              
+201609PREVIDENCIA SOCIAL                                                              
+201610SAUDE                                                                           
+201611TRABALHO                                                                        
+201612EDUCACAO                                                                        
+201613CULTURA                                                                         
+201614DIREITOS DA CIDADANIA                                                           
+201615URBANISMO                                                                       
+201616HABITACAO                                                                       
+201617SANEAMENTO                                                                      
+201618GESTAO AMBIENTAL                                                                
+201619CIENCIA E TECNOLOGIA                                                            
+201620AGRICULTURA                                                                     
+201621ORGANIZACAO AGRARIA                                                             
+201622INDUSTRIA                                                                       
+201623COMERCIO E SERVICOS                                                             
+201624COMUNICACOES                                                                    
+201625ENERGIA                                                                         
+201626TRANSPORTE                                                                      
+201627DESPORTO E LAZER                                                                
+201628ENCARGOS ESPECIAIS                                                              
+201699RESERVA DE CONTINGENCIA                                                         
+201701LEGISLATIVA                                                                     
+201702JUDICIARIA                                                                      
+201703ESSENCIAL A JUSTICA                                                             
+201704ADMINISTRACAO                                                                   
+201705DEFESA NACIONAL                                                                 
+201706SEGURANCA PUBLICA                                                               
+201707RELACOES EXTERIORES                                                             
+201708ASSISTENCIA SOCIAL                                                              
+201709PREVIDENCIA SOCIAL                                                              
+201710SAUDE                                                                           
+201711TRABALHO                                                                        
+201712EDUCACAO                                                                        
+201713CULTURA                                                                         
+201714DIREITOS DA CIDADANIA                                                           
+201715URBANISMO                                                                       
+201716HABITACAO                                                                       
+201717SANEAMENTO                                                                      
+201718GESTAO AMBIENTAL                                                                
+201719CIENCIA E TECNOLOGIA                                                            
+201720AGRICULTURA                                                                     
+201721ORGANIZACAO AGRARIA                                                             
+201722INDUSTRIA                                                                       
+201723COMERCIO E SERVICOS                                                             
+201724COMUNICACOES                                                                    
+201725ENERGIA                                                                         
+201726TRANSPORTE                                                                      
+201727DESPORTO E LAZER                                                                
+201728ENCARGOS ESPECIAIS                                                              
+201799RESERVA DE CONTINGENCIA                                                         
 201801LEGISLATIVA                                                                     
 201802JUDICIARIA                                                                      
 201803ESSENCIAL A JUSTICA                                                             
@@ -28,62 +144,4 @@
 201827DESPORTO E LAZER                                                                
 201828ENCARGOS ESPECIAIS                                                              
 201899RESERVA DE CONTINGENCIA                                                         
-201901LEGISLATIVA                                                                     
-201902JUDICIARIA                                                                      
-201903ESSENCIAL A JUSTICA                                                             
-201904ADMINISTRACAO                                                                   
-201905DEFESA NACIONAL                                                                 
-201906SEGURANCA PUBLICA                                                               
-201907RELACOES EXTERIORES                                                             
-201908ASSISTENCIA SOCIAL                                                              
-201909PREVIDENCIA SOCIAL                                                              
-201910SAUDE                                                                           
-201911TRABALHO                                                                        
-201912EDUCACAO                                                                        
-201913CULTURA                                                                         
-201914DIREITOS DA CIDADANIA                                                           
-201915URBANISMO                                                                       
-201916HABITACAO                                                                       
-201917SANEAMENTO                                                                      
-201918GESTAO AMBIENTAL                                                                
-201919CIENCIA E TECNOLOGIA                                                            
-201920AGRICULTURA                                                                     
-201921ORGANIZACAO AGRARIA                                                             
-201922INDUSTRIA                                                                       
-201923COMERCIO E SERVICOS                                                             
-201924COMUNICACOES                                                                    
-201925ENERGIA                                                                         
-201926TRANSPORTE                                                                      
-201927DESPORTO E LAZER                                                                
-201928ENCARGOS ESPECIAIS                                                              
-201999RESERVA DE CONTINGENCIA                                                         
-202001LEGISLATIVA                                                                     
-202002JUDICIARIA                                                                      
-202003ESSENCIAL A JUSTICA                                                             
-202004ADMINISTRACAO                                                                   
-202005DEFESA NACIONAL                                                                 
-202006SEGURANCA PUBLICA                                                               
-202007RELACOES EXTERIORES                                                             
-202008ASSISTENCIA SOCIAL                                                              
-202009PREVIDENCIA SOCIAL                                                              
-202010SAUDE                                                                           
-202011TRABALHO                                                                        
-202012EDUCACAO                                                                        
-202013CULTURA                                                                         
-202014DIREITOS DA CIDADANIA                                                           
-202015URBANISMO                                                                       
-202016HABITACAO                                                                       
-202017SANEAMENTO                                                                      
-202018GESTAO AMBIENTAL                                                                
-202019CIENCIA E TECNOLOGIA                                                            
-202020AGRICULTURA                                                                     
-202021ORGANIZACAO AGRARIA                                                             
-202022INDUSTRIA                                                                       
-202023COMERCIO E SERVICOS                                                             
-202024COMUNICACOES                                                                    
-202025ENERGIA                                                                         
-202026TRANSPORTE                                                                      
-202027DESPORTO E LAZER                                                                
-202028ENCARGOS ESPECIAIS                                                              
-202099RESERVA DE CONTINGENCIA                                                         
-FINALIZADOR0000000087                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+FINALIZADOR0000000145                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

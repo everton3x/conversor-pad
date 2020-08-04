@@ -10,6 +10,7 @@
 namespace SebastianBergmann\CodeCoverage\Report;
 
 use SebastianBergmann\CodeCoverage\CodeCoverage;
+use SebastianBergmann\CodeCoverage\Directory;
 use SebastianBergmann\CodeCoverage\Node\File;
 use SebastianBergmann\CodeCoverage\RuntimeException;
 
@@ -23,15 +24,17 @@ final class Clover
      */
     public function process(CodeCoverage $coverage, ?string $target = null, ?string $name = null): string
     {
+        $time = (string) \time();
+
         $xmlDocument               = new \DOMDocument('1.0', 'UTF-8');
         $xmlDocument->formatOutput = true;
 
         $xmlCoverage = $xmlDocument->createElement('coverage');
-        $xmlCoverage->setAttribute('generated', (string) $_SERVER['REQUEST_TIME']);
+        $xmlCoverage->setAttribute('generated', $time);
         $xmlDocument->appendChild($xmlCoverage);
 
         $xmlProject = $xmlDocument->createElement('project');
-        $xmlProject->setAttribute('timestamp', (string) $_SERVER['REQUEST_TIME']);
+        $xmlProject->setAttribute('timestamp', $time);
 
         if (\is_string($name)) {
             $xmlProject->setAttribute('name', $name);
@@ -234,9 +237,7 @@ final class Clover
         $buffer = $xmlDocument->saveXML();
 
         if ($target !== null) {
-            if (!$this->createDirectory(\dirname($target))) {
-                throw new \RuntimeException(\sprintf('Directory "%s" was not created', \dirname($target)));
-            }
+            Directory::create(\dirname($target));
 
             if (@\file_put_contents($target, $buffer) === false) {
                 throw new RuntimeException(
@@ -249,10 +250,5 @@ final class Clover
         }
 
         return $buffer;
-    }
-
-    private function createDirectory(string $directory): bool
-    {
-        return !(!\is_dir($directory) && !@\mkdir($directory, 0777, true) && !\is_dir($directory));
     }
 }

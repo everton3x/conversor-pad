@@ -16,8 +16,18 @@ class FormataReceitaTransformer implements TransformerInterface
         
     }
 
+//    public function transform(string $data): string
+//    {
+//        return Utils::applyMask(Utils::deslocZerosToRight($data), '#.#.#.#.##.#.#.##.##.##');
+//    }
     public function transform(string $data): string
     {
-        return Utils::applyMask(Utils::deslocZerosToRight($data), '#.#.#.#.##.#.#.##.##.##');
+        $data = Utils::deslocZerosToRight($data);
+        $mask = '#.#.#.#.##.#.#.##.##.##';
+        
+        if($data[0] === '9'){
+            $mask = '#.#.#.#.#.##.#.#.##.##.##';
+        }
+        return Utils::applyMask($data, $mask);
     }
 }
