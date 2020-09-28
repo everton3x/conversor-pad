@@ -134,7 +134,7 @@ realizada_dezembrof:
     start: 168
     type: string
     transform: "ValorSemSinal,FormataMoeda"
-caracateristica_peculiar_receita:
+caracteristica_peculiar_receita:
     byte: 3
     start: 181
     type: int
